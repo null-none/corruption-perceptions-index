@@ -1,0 +1,423 @@
+country,score,year
+New Zealand,9.55,1995
+Denmark,9.32,1995
+Singapore,9.26,1995
+Finland,9.12,1995
+Canada,8.87,1995
+Sweden,8.87,1995
+Australia,8.8,1995
+Switzerland,8.76,1995
+Netherlands,8.69,1995
+Norway,8.61,1995
+Ireland,8.57,1995
+United Kingdom,8.57,1995
+Germany,8.14,1995
+Chile,7.94,1995
+USA,7.79,1995
+Austria,7.13,1995
+Hong Kong,7.12,1995
+France,7,1995
+Belgium,6.85,1995
+Luxembourg,6.85,1995
+Japan,6.72,1995
+South Africa,5.62,1995
+Portugal,5.56,1995
+Malaysia,5.28,1995
+Argentina,5.24,1995
+Taiwan,5.08,1995
+Spain,4.35,1995
+South Korea,4.29,1995
+Hungary,4.12,1995
+Turkey,4.1,1995
+Greece,4.04,1995
+Colombia,3.44,1995
+Mexico,3.18,1995
+Italy,2.99,1995
+Thailand,2.79,1995
+India,2.78,1995
+Philippines,2.77,1995
+Brazil,2.7,1995
+Venezuela,2.66,1995
+Pakistan,2.25,1995
+China,2.16,1995
+Indonesia,1.94,1995
+New Zealand,9.43,1996
+Denmark,9.33,1996
+Sweden,9.08,1996
+Finland,9,23,6,1996
+Canada,8.96,1996
+Norway,8.87,1996
+Singapore,8.8,1996
+Switzerland,8.76,1996
+Netherlands,8.71,1996
+Australia,8.6,1996
+Ireland,8.45,1996
+United Kingdom,8.44,1996
+Germany,8.27,1996
+Israel,7.71,1996
+USA,7.66.0.19,
+Austria,7.59,1996
+Japan,7.05,1996
+Hong Kong,7.01,1996
+France,6.96,1996
+Belgium,6.84,1996
+Chile,6.8,1996
+Portugal,6.53,1996
+South Africa,5.68,1996
+Poland,5.57,1996
+Czech Republic,5.37,1996
+Malaysia,5.32,1996
+South Korea,5.02,1996
+Greece,5.01,1996
+Taiwan,4.98,1996
+Jordan,4.89,1996
+Hungary,4.86,1996
+Spain,4.31,1996
+Turkey,3.54,1996
+Italy,3.42,1996
+Argentina,3.41,1996
+Bolivia,3.4,1996
+Thailand,3.33,1996
+Mexico,3.3,1996
+Ecuador,3.19,1996
+Brazil,2.96,1996
+Egypt,2.84,1996
+Colombia,2.73,1996
+Uganda,2.71,1996
+Philippines,2.69,1996
+Indonesia,2.65,1996
+India,2.63,1996
+Russia,2.58,1996
+Venezuela,2.5,1996
+Cameroon,2.46,1996
+China,2.43,1996
+Bangladesh,2.29,1996
+Kenya,2.21,1996
+Pakistan,1,1996
+Nigeria,0.69,1996
+Denmark,9.94,1997
+Finland,9.48,1997
+Sweden,9.35,1997
+New Zealand,9.23,1997
+Canada,9.1,1997
+Netherlands,9.03,1997
+Norway,8.92,1997
+Australia,8.86,1997
+Singapore,8.66,
+Luxemburg,8.61,1997
+Switzerland,8.61,1997
+Ireland,8.28,1997
+Germany,8.23,1997
+United Kingdom,8.22,1997
+Israel,7.97,1997
+USA,7.61,1997
+Austria,7.61,1997
+Hong Kong,7.28,1997
+Portugal,6.97,1997
+France,6.66,1997
+Japan,6.57,1997
+Costa Rica,6.45,1997
+Chile,6.05,1997
+Spain,5.9,1997
+Greece,5.35,1997
+Belgium,5.25,1997
+Czech Republic,5.2,1997
+Hungary,5.18,1997
+Poland,5.08,1997
+Italy,5.03,1997
+Taiwan,5.02,1997
+Malaysia,5.01,1997
+South Africa,4.95,1997
+South Korea,4.29,1997
+Uruguay,4.14,1997
+Brazil,3.56,1997
+Romania,3.44,1997
+Turkey,3.21,1997
+Thailand,3.06,1997
+Philippines,3.05,1997
+China,2.88,1997
+Argentina,2.81,1997
+Vietnam,2.79,1997
+Venezuela,2.77,1997
+India,2.75,
+Indonesia,2.72,1997
+Mexico,2.66,1997
+Pakistan,2.66,1997
+Russia,2.27,1997
+Colombia,2.23,1997
+Bolivia,2.05,1997
+Nigeri,1.76,1997
+Denmark,10,1998
+Finland,9.6,1998
+Sweden,9.5,1998
+New Zealand,9.4,1998
+Iceland,9.3,1998
+Canada,9.2,1998
+Singapore,9.1,1998
+Netherlands,9,1998
+Norway,9,1998
+Switzerland,8.9,1998
+Australia,8.7,1998
+Luxembourg,8.7,1998
+United Kingdom,8.7,1998
+Ireland,8.2,1998
+Germany,7.9,1998
+Hong Kong,7.8,1998
+Austria,7.5,1998
+United States,7.5,1998
+Israel,7.1,1998
+Chile,6.8,1998
+France,6.7,1998
+Portugal,6.5,1998
+Botswana,6.1,1998
+Spain,6.1,1998
+Japan,5.8,1998
+Estonia,5.7,1998
+Costa Rica,5.6,1998
+Belgium,5.4,1998
+Malaysia,5.3,1998
+Namibia,5.3,1998
+Taiwan,5.3,1998
+South Africa,5.2,1998
+Hungary,5,1998
+Mauritius,5,1998
+Tunisia,5,1998
+Greece,4.9,1998
+Czech Republic,4.8,1998
+Jordan,4.7,1998
+Italy,4.6,1998
+Poland,4.6,1998
+Peru,4.5,1998
+Uruguay,4.3,1998
+South Korea,4.2,1998
+Zimbabwe,4.2,1998
+Malawi,4.1,1998
+Brazil,4,1998
+Belarus,3.9,1998
+Slovak Republic,3.9,1998
+Jamaica,3.8,1998
+Morocco,3.7,1998
+El Salvador,3.6,1998
+China,3.5,1998
+Zambia,3.5,1998
+Turkey,3.4,1998
+Ghana,3.3,1998
+Mexico,3.3,1998
+Philippines,3.3,1998
+Senegal,3.3,1998
+Ivory Coast,3.1,1998
+Guatemala,3.1,1998
+Argentina,3,1998
+Nicaragua,3,1998
+Romania,3,1998
+Thailand,3,1998
+Yugoslavia,3,1998
+Bulgaria,2.9,1998
+Egypt,2.9,1998
+India,2.9,1998
+Bolivia,2.8,1998
+Ukraine,2.8,1998
+Latvia,2.7,1998
+Pakistan,2.7,1998
+Uganda,2.6,1998
+Kenya,2.5,1998
+Vietnam,2.5,1998
+Russia,2.4,1998
+Ecuador,2.3,1998
+Venezuela,2.3,1998
+Colombia,2.2,1998
+Indonesia,2,1998
+Nigeria,1.9,1998
+Tanzania,1.9,1998
+Honduras,1.7,1998
+Paraguay,1.5,1998
+Cameroon,1.4,1998
+Denmark,10,1999
+Finland,9.8,1999
+New Zealand,9.4,1999
+Sweden,9.4,1999
+Canada,9.2,1999
+Iceland,9.2,1999
+Singapore,9.1,1999
+Netherlands,9,1999
+Norway,8.9,1999
+Switzerland,8.9,1999
+Luxembourg,8.8,1999
+Australia,8.7,1999
+United Kingdom,8.6,1999
+Germany,8,1999
+Hong Kong,7.7,1999
+Ireland,7.7,1999
+Austria,7.6,1999
+USA,7.5,1999
+Chile,6.9,1999
+Israel,6.8,1999
+Portugal,6.7,1999
+France,6.6,1999
+Spain,6.6,1999
+Botswana,6.1,1999
+Japan,6,1999
+Slovenia,6,1999
+Estonia,5.7,1999
+Taiwan,5.6,1999
+Belgium,5.3,1999
+Namibia,5.3,1999
+Hungary,5.2,1999
+Costa Rica,5.1,1999
+Malaysia,5.1,1999
+South Africa,5,1999
+Tunisia,5,1999
+Greece,4.9,1999
+Mauritius,4.9,1999
+Italy,4.7,1999
+Czech Republic,4.6,1999
+Peru,4.5,1999
+Jordan,4.4,1999
+Uruguay,4.4,1999
+Mongolia,4.3,1999
+Poland,4.2,1999
+Brazil,4.1,1999
+Malawi,4.1,1999
+Morocco,4.1,1999
+Zimbabwe,4.1,1999
+El Salvador,3.9,1999
+Jamaica,3.8,1999
+Lithuania,3.8,1999
+South Korea,3.8,1999
+Slovak Republic,3.7,1999
+Philippines,3.6,1999
+Turkey,3.6,1999
+Mozambique,3.5,1999
+Zambia,3.5,1999
+Belarus,3.4,1999
+China,3.4,1999
+Latvia,3.4,1999
+Mexico,3.4,1999
+Senegal,3.4,1999
+Bulgaria,3.3,1999
+Egypt,3.3,1999
+Ghana,3.3,1999
+Macedonia,3.3,1999
+Romania,3.3,1999
+Guatemala,3.2,1999
+Thailand,3.2,1999
+Nicaragua,3.1,1999
+Argentina,3,1999
+Colombia,2.9,1999
+India,2.9,1999
+Croatia,2.7,1999
+Ivory Coast,2.6,1999
+Moldova,2.6,1999
+Ukraine,2.6,1999
+Venezuela,2.6,1999
+Vietnam,2.6,1999
+Armenia,2.5,1999
+Bolivia,2.5,1999
+Ecuador,2.4,1999
+Russia,2.4,1999
+Albania,2.3,1999
+Georgia,2.3,1999
+Kazakhstan,2.3,1999
+Kyrgyz Republic,2.2,1999
+Pakistan,2.2,1999
+Uganda,2.2,1999
+Kenya,2,1999
+Paraguay,2,1999
+Yugoslavia,2,1999
+Tanzania,1.9,1999
+Honduras,1.8,1999
+Uzbekistan,1.8,1999
+Azerbaijan,1.7,1999
+Indonesia,1.7,1999
+Nigeria,1.6,1999
+Cameroon,1.5,1999
+Finland,10,2000
+Denmark,9.8,2000
+New Zealand,9.4,2000
+Sweden,9.4,2000
+Canada,9.2,2000
+Iceland,9.1,2000
+Norway,9.1,2000
+Singapore,9.1,2000
+Netherlands,8.9,2000
+United Kingdom,8.7,2000
+Luxembourg,8.6,2000
+Switzerland,8.6,2000
+Australia,8.3,2000
+USA,7.8,2000
+Austria,7.7,2000
+Hong Kong,7.7,2000
+Germany,7.6,2000
+Chile,7.4,2000
+Ireland,7.2,2000
+Spain,7,2000
+France,6.7,2000
+Israel,6.6,2000
+Japan,6.4,2000
+Portugal,6.4,2000
+Belgium,6.1,2000
+Botswana,6,2000
+Estonia,5.7,2000
+Slovenia,5.5,2000
+Taiwan,5.5,2000
+Costa Rica,5.4,2000
+Namibia,5.4,2000
+Hungary,5.2,2000
+Tunisia,5.2,2000
+South Africa,5,2000
+Greece,4.9,2000
+Malaysia,4.8,2000
+Mauritius,4.7,2000
+Morocco,4.7,2000
+Italy,4.6,2000
+Jordan,4.6,2000
+Peru,4.4,2000
+Czech Republic,4.3,2000
+Belarus,4.1,2000
+El Salvador,4.1,2000
+Lithuania,4.1,2000
+Malawi,4.1,2000
+Poland,4.1,2000
+South Korea,4,2000
+Brazil,3.9,2000
+Turkey,3.8,2000
+Croatia,3.7,2000
+Argentina,3.5,2000
+Bulgaria,3.5,2000
+Ghana,3.5,2000
+Senegal,3.5,2000
+Slovak Republic,3.5,2000
+Latvia,3.4,2000
+Zambia,3.4,2000
+Mexico,3.3,2000
+Colombia,3.2,2000
+Ethiopia,3.2,2000
+Thailand,3.2,2000
+China,3.1,2000
+Egypt,3.1,2000
+Burkina Faso,3,2000
+Kazakhstan,3,2000
+Zimbabwe,3,2000
+Romania,2.9,2000
+India,2.8,2000
+Philippines,2.8,2000
+Bolivia,2.7,2000
+Côte-d'Ivoire,2.7,2000
+Venezuela,2.7,2000
+Ecuador,2.6,2000
+Moldova,2.6,2000
+Armenia,2.5,2000
+Tanzania,2.5,2000
+Vietnam,2.5,2000
+Uzbekistan,2.4,2000
+Uganda,2.3,2000
+Mozambique,2.2,2000
+Kenya,2.1,2000
+Russia,2.1,2000
+Cameroon,2,2000
+Angola,1.7,2000
+Indonesia,1.7,2000
+Azerbaijan,1.5,2000
+Ukraine,1.5,2000
+Yugoslavia,1.3,2000
+Nigeria,1.2,2000
