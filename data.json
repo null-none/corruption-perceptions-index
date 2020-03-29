@@ -2110,5 +2110,3140 @@
     "country": "Nigeria",
     "score": "1.2",
     "year": 2000
+  },
+  {
+    "country": "Finland",
+    "score": "9.9",
+    "year": 2001
+  },
+  {
+    "country": "Denmark",
+    "score": "9.5",
+    "year": 2001
+  },
+  {
+    "country": "New Zealand",
+    "score": "9.4",
+    "year": 2001
+  },
+  {
+    "country": "Iceland",
+    "score": "9.2",
+    "year": 2001
+  },
+  {
+    "country": "Singapore",
+    "score": "9.2",
+    "year": 2001
+  },
+  {
+    "country": "Sweden",
+    "score": "9.0",
+    "year": 2001
+  },
+  {
+    "country": "Canada",
+    "score": "8.9",
+    "year": 2001
+  },
+  {
+    "country": "Netherlands",
+    "score": "8.8",
+    "year": 2001
+  },
+  {
+    "country": "Luxembourg",
+    "score": "8.7",
+    "year": 2001
+  },
+  {
+    "country": "Norway",
+    "score": "8.6",
+    "year": 2001
+  },
+  {
+    "country": "Australia",
+    "score": "8.5",
+    "year": 2001
+  },
+  {
+    "country": "Switzerland",
+    "score": "8.4",
+    "year": 2001
+  },
+  {
+    "country": "United Kingdom",
+    "score": "8.3",
+    "year": 2001
+  },
+  {
+    "country": "Hong Kong",
+    "score": "7.9",
+    "year": 2001
+  },
+  {
+    "country": "Austria",
+    "score": "7.8",
+    "year": 2001
+  },
+  {
+    "country": "Israel",
+    "score": "7.6",
+    "year": 2001
+  },
+  {
+    "country": "USA",
+    "score": "7.6",
+    "year": 2001
+  },
+  {
+    "country": "Chile",
+    "score": "7.5",
+    "year": 2001
+  },
+  {
+    "country": "Ireland",
+    "score": "7.5",
+    "year": 2001
+  },
+  {
+    "country": "Germany",
+    "score": "7.4",
+    "year": 2001
+  },
+  {
+    "country": "Japan",
+    "score": "7.1",
+    "year": 2001
+  },
+  {
+    "country": "Spain",
+    "score": "7.0",
+    "year": 2001
+  },
+  {
+    "country": "France",
+    "score": "6.7",
+    "year": 2001
+  },
+  {
+    "country": "Belgium",
+    "score": "6.6",
+    "year": 2001
+  },
+  {
+    "country": "Portugal",
+    "score": "6.3",
+    "year": 2001
+  },
+  {
+    "country": "Botswana",
+    "score": "6.0",
+    "year": 2001
+  },
+  {
+    "country": "Taiwan",
+    "score": "5.9",
+    "year": 2001
+  },
+  {
+    "country": "Estonia",
+    "score": "5.6",
+    "year": 2001
+  },
+  {
+    "country": "Italy",
+    "score": "5.5",
+    "year": 2001
+  },
+  {
+    "country": "Namibia",
+    "score": "5.4",
+    "year": 2001
+  },
+  {
+    "country": "Hungary",
+    "score": "5.3",
+    "year": 2001
+  },
+  {
+    "country": "Trinidad & Tobago",
+    "score": "5.3",
+    "year": 2001
+  },
+  {
+    "country": "Tunisia",
+    "score": "5.3",
+    "year": 2001
+  },
+  {
+    "country": "Slovenia",
+    "score": "5.2",
+    "year": 2001
+  },
+  {
+    "country": "Uruguay",
+    "score": "5.1",
+    "year": 2001
+  },
+  {
+    "country": "Malaysia",
+    "score": "5.0",
+    "year": 2001
+  },
+  {
+    "country": "Jordan",
+    "score": "4.9",
+    "year": 2001
+  },
+  {
+    "country": "Lithuania",
+    "score": "4.8",
+    "year": 2001
+  },
+  {
+    "country": "South Africa",
+    "score": "4.8",
+    "year": 2001
+  },
+  {
+    "country": "Costa Rica",
+    "score": "4.5",
+    "year": 2001
+  },
+  {
+    "country": "Mauritius",
+    "score": "4.5",
+    "year": 2001
+  },
+  {
+    "country": "Greece",
+    "score": "4.2",
+    "year": 2001
+  },
+  {
+    "country": "South Korea",
+    "score": "4.2",
+    "year": 2001
+  },
+  {
+    "country": "Peru",
+    "score": "4.1",
+    "year": 2001
+  },
+  {
+    "country": "Poland",
+    "score": "4.1",
+    "year": 2001
+  },
+  {
+    "country": "Brazil",
+    "score": "4.0",
+    "year": 2001
+  },
+  {
+    "country": "Bulgaria",
+    "score": "3.9",
+    "year": 2001
+  },
+  {
+    "country": "Croatia",
+    "score": "3.9",
+    "year": 2001
+  },
+  {
+    "country": "Czech Republic",
+    "score": "3.9",
+    "year": 2001
+  },
+  {
+    "country": "Colombia",
+    "score": "3.8",
+    "year": 2001
+  },
+  {
+    "country": "Mexico",
+    "score": "3.7",
+    "year": 2001
+  },
+  {
+    "country": "Panama",
+    "score": "3.7",
+    "year": 2001
+  },
+  {
+    "country": "Slovak Republic",
+    "score": "3.7",
+    "year": 2001
+  },
+  {
+    "country": "Egypt",
+    "score": "3.6",
+    "year": 2001
+  },
+  {
+    "country": "El Salvador",
+    "score": "3.6",
+    "year": 2001
+  },
+  {
+    "country": "Turkey",
+    "score": "3.6",
+    "year": 2001
+  },
+  {
+    "country": "Argentina",
+    "score": "3.5",
+    "year": 2001
+  },
+  {
+    "country": "China",
+    "score": "3.5",
+    "year": 2001
+  },
+  {
+    "country": "Ghana",
+    "score": "3.4",
+    "year": 2001
+  },
+  {
+    "country": "Latvia",
+    "score": "3.4",
+    "year": 2001
+  },
+  {
+    "country": "Malawi",
+    "score": "3.2",
+    "year": 2001
+  },
+  {
+    "country": "Thailand",
+    "score": "3.2",
+    "year": 2001
+  },
+  {
+    "country": "Dominican Rep",
+    "score": "3.1",
+    "year": 2001
+  },
+  {
+    "country": "Moldova",
+    "score": "3.1",
+    "year": 2001
+  },
+  {
+    "country": "Guatemala",
+    "score": "2.9",
+    "year": 2001
+  },
+  {
+    "country": "Philippines",
+    "score": "2.9",
+    "year": 2001
+  },
+  {
+    "country": "Senegal",
+    "score": "2.9",
+    "year": 2001
+  },
+  {
+    "country": "Zimbabwe",
+    "score": "2.9",
+    "year": 2001
+  },
+  {
+    "country": "Romania",
+    "score": "2.8",
+    "year": 2001
+  },
+  {
+    "country": "Venezuela",
+    "score": "2.8",
+    "year": 2001
+  },
+  {
+    "country": "Honduras",
+    "score": "2.7",
+    "year": 2001
+  },
+  {
+    "country": "India",
+    "score": "2.7",
+    "year": 2001
+  },
+  {
+    "country": "Kazakhstan",
+    "score": "2.7",
+    "year": 2001
+  },
+  {
+    "country": "Uzbekistan",
+    "score": "2.7",
+    "year": 2001
+  },
+  {
+    "country": "Vietnam",
+    "score": "2.6",
+    "year": 2001
+  },
+  {
+    "country": "Zambia",
+    "score": "2.6",
+    "year": 2001
+  },
+  {
+    "country": "Cote d´Ivoire",
+    "score": "2.4",
+    "year": 2001
+  },
+  {
+    "country": "Nicaragua",
+    "score": "2.4",
+    "year": 2001
+  },
+  {
+    "country": "Ecuador",
+    "score": "2.3",
+    "year": 2001
+  },
+  {
+    "country": "Pakistan",
+    "score": "2.3",
+    "year": 2001
+  },
+  {
+    "country": "Russia",
+    "score": "2.3",
+    "year": 2001
+  },
+  {
+    "country": "Tanzania",
+    "score": "2.2",
+    "year": 2001
+  },
+  {
+    "country": "Ukraine",
+    "score": "2.1",
+    "year": 2001
+  },
+  {
+    "country": "Azerbaijan",
+    "score": "2.0",
+    "year": 2001
+  },
+  {
+    "country": "Bolivia",
+    "score": "2.0",
+    "year": 2001
+  },
+  {
+    "country": "Cameroon",
+    "score": "2.0",
+    "year": 2001
+  },
+  {
+    "country": "Kenya",
+    "score": "2.0",
+    "year": 2001
+  },
+  {
+    "country": "Indonesia",
+    "score": "1.9",
+    "year": 2001
+  },
+  {
+    "country": "Uganda",
+    "score": "1.9",
+    "year": 2001
+  },
+  {
+    "country": "Nigeria",
+    "score": "1.0",
+    "year": 2001
+  },
+  {
+    "country": "Bangladesh",
+    "score": "0.4",
+    "year": 2001
+  },
+  {
+    "country": "Finland",
+    "score": "9.7",
+    "year": 2002
+  },
+  {
+    "country": "Denmark",
+    "score": "9.5",
+    "year": 2002
+  },
+  {
+    "country": "New Zealand",
+    "score": "9.5",
+    "year": 2002
+  },
+  {
+    "country": "Iceland",
+    "score": "9.4",
+    "year": 2002
+  },
+  {
+    "country": "Singapore",
+    "score": "9.3",
+    "year": 2002
+  },
+  {
+    "country": "Sweden",
+    "score": "9.3",
+    "year": 2002
+  },
+  {
+    "country": "Canada",
+    "score": "9.0",
+    "year": 2002
+  },
+  {
+    "country": "Luxembourg",
+    "score": "9.0",
+    "year": 2002
+  },
+  {
+    "country": "Netherlands",
+    "score": "9.0",
+    "year": 2002
+  },
+  {
+    "country": "United Kingdom",
+    "score": "8.7",
+    "year": 2002
+  },
+  {
+    "country": "Australia",
+    "score": "8.6",
+    "year": 2002
+  },
+  {
+    "country": "Norway",
+    "score": "8.5",
+    "year": 2002
+  },
+  {
+    "country": "Switzerland",
+    "score": "8.5",
+    "year": 2002
+  },
+  {
+    "country": "Hong Kong",
+    "score": "8.2",
+    "year": 2002
+  },
+  {
+    "country": "Austria",
+    "score": "7.8",
+    "year": 2002
+  },
+  {
+    "country": "USA",
+    "score": "7.7",
+    "year": 2002
+  },
+  {
+    "country": "Chile",
+    "score": "7.5",
+    "year": 2002
+  },
+  {
+    "country": "Germany",
+    "score": "7.3",
+    "year": 2002
+  },
+  {
+    "country": "Israel",
+    "score": "7.3",
+    "year": 2002
+  },
+  {
+    "country": "Belgium",
+    "score": "7.1",
+    "year": 2002
+  },
+  {
+    "country": "Japan",
+    "score": "7.1",
+    "year": 2002
+  },
+  {
+    "country": "Spain",
+    "score": "7.1",
+    "year": 2002
+  },
+  {
+    "country": "Ireland",
+    "score": "6.9",
+    "year": 2002
+  },
+  {
+    "country": "Botswana",
+    "score": "6.4",
+    "year": 2002
+  },
+  {
+    "country": "France",
+    "score": "6.3",
+    "year": 2002
+  },
+  {
+    "country": "Portugal",
+    "score": "6.3",
+    "year": 2002
+  },
+  {
+    "country": "Slovenia",
+    "score": "6.0",
+    "year": 2002
+  },
+  {
+    "country": "Namibia",
+    "score": "5.7",
+    "year": 2002
+  },
+  {
+    "country": "Estonia",
+    "score": "5.6",
+    "year": 2002
+  },
+  {
+    "country": "Taiwan",
+    "score": "5.6",
+    "year": 2002
+  },
+  {
+    "country": "Italy",
+    "score": "5.2",
+    "year": 2002
+  },
+  {
+    "country": "Uruguay",
+    "score": "5.1",
+    "year": 2002
+  },
+  {
+    "country": "Hungary",
+    "score": "4.9",
+    "year": 2002
+  },
+  {
+    "country": "Malaysia",
+    "score": "4.9",
+    "year": 2002
+  },
+  {
+    "country": "Trinidad & Tobago",
+    "score": "4.9",
+    "year": 2002
+  },
+  {
+    "country": "Belarus",
+    "score": "4.8",
+    "year": 2002
+  },
+  {
+    "country": "Lithuania",
+    "score": "4.8",
+    "year": 2002
+  },
+  {
+    "country": "South Africa",
+    "score": "4.8",
+    "year": 2002
+  },
+  {
+    "country": "Tunisia",
+    "score": "4.8",
+    "year": 2002
+  },
+  {
+    "country": "Costa Rica",
+    "score": "4.5",
+    "year": 2002
+  },
+  {
+    "country": "Jordan",
+    "score": "4.5",
+    "year": 2002
+  },
+  {
+    "country": "Mauritius",
+    "score": "4.5",
+    "year": 2002
+  },
+  {
+    "country": "South Korea",
+    "score": "4.5",
+    "year": 2002
+  },
+  {
+    "country": "Greece",
+    "score": "4.2",
+    "year": 2002
+  },
+  {
+    "country": "Brazil",
+    "score": "4.0",
+    "year": 2002
+  },
+  {
+    "country": "Bulgaria",
+    "score": "4.0",
+    "year": 2002
+  },
+  {
+    "country": "Jamaica",
+    "score": "4.0",
+    "year": 2002
+  },
+  {
+    "country": "Peru",
+    "score": "4.0",
+    "year": 2002
+  },
+  {
+    "country": "Poland",
+    "score": "4.0",
+    "year": 2002
+  },
+  {
+    "country": "Ghana",
+    "score": "3.9",
+    "year": 2002
+  },
+  {
+    "country": "Croatia",
+    "score": "3.8",
+    "year": 2002
+  },
+  {
+    "country": "Czech Republic",
+    "score": "3.7",
+    "year": 2002
+  },
+  {
+    "country": "Latvia",
+    "score": "3.7",
+    "year": 2002
+  },
+  {
+    "country": "Morocco",
+    "score": "3.7",
+    "year": 2002
+  },
+  {
+    "country": "Slovak Republic",
+    "score": "3.7",
+    "year": 2002
+  },
+  {
+    "country": "Sri Lanka",
+    "score": "3.7",
+    "year": 2002
+  },
+  {
+    "country": "Colombia",
+    "score": "3.6",
+    "year": 2002
+  },
+  {
+    "country": "Mexico",
+    "score": "3.6",
+    "year": 2002
+  },
+  {
+    "country": "China",
+    "score": "3.5",
+    "year": 2002
+  },
+  {
+    "country": "Dominican Rep.",
+    "score": "3.5",
+    "year": 2002
+  },
+  {
+    "country": "Ethiopia",
+    "score": "3.5",
+    "year": 2002
+  },
+  {
+    "country": "Egypt",
+    "score": "3.4",
+    "year": 2002
+  },
+  {
+    "country": "El Salvador",
+    "score": "3.4",
+    "year": 2002
+  },
+  {
+    "country": "Thailand",
+    "score": "3.2",
+    "year": 2002
+  },
+  {
+    "country": "Turkey",
+    "score": "3.2",
+    "year": 2002
+  },
+  {
+    "country": "Senegal",
+    "score": "3.1",
+    "year": 2002
+  },
+  {
+    "country": "Panama",
+    "score": "3.0",
+    "year": 2002
+  },
+  {
+    "country": "Malawi",
+    "score": "2.9",
+    "year": 2002
+  },
+  {
+    "country": "Uzbekistan",
+    "score": "2.9",
+    "year": 2002
+  },
+  {
+    "country": "Argentina",
+    "score": "2.8",
+    "year": 2002
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "score": "2.7",
+    "year": 2002
+  },
+  {
+    "country": "Honduras",
+    "score": "2.7",
+    "year": 2002
+  },
+  {
+    "country": "India",
+    "score": "2.7",
+    "year": 2002
+  },
+  {
+    "country": "Russia",
+    "score": "2.7",
+    "year": 2002
+  },
+  {
+    "country": "Tanzania",
+    "score": "2.7",
+    "year": 2002
+  },
+  {
+    "country": "Zimbabwe",
+    "score": "2.7",
+    "year": 2002
+  },
+  {
+    "country": "Pakistan",
+    "score": "2.6",
+    "year": 2002
+  },
+  {
+    "country": "Philippines",
+    "score": "2.6",
+    "year": 2002
+  },
+  {
+    "country": "Romania",
+    "score": "2.6",
+    "year": 2002
+  },
+  {
+    "country": "Zambia",
+    "score": "2.6",
+    "year": 2002
+  },
+  {
+    "country": "Albania",
+    "score": "2.5",
+    "year": 2002
+  },
+  {
+    "country": "Guatemala",
+    "score": "2.5",
+    "year": 2002
+  },
+  {
+    "country": "Nicaragua",
+    "score": "2.5",
+    "year": 2002
+  },
+  {
+    "country": "Venezuela",
+    "score": "2.5",
+    "year": 2002
+  },
+  {
+    "country": "Georgia",
+    "score": "2.4",
+    "year": 2002
+  },
+  {
+    "country": "Ukraine",
+    "score": "2.4",
+    "year": 2002
+  },
+  {
+    "country": "Vietnam",
+    "score": "2.4",
+    "year": 2002
+  },
+  {
+    "country": "Kazakhstan",
+    "score": "2.3",
+    "year": 2002
+  },
+  {
+    "country": "Bolivia",
+    "score": "2.2",
+    "year": 2002
+  },
+  {
+    "country": "Cameroon",
+    "score": "2.2",
+    "year": 2002
+  },
+  {
+    "country": "Ecuador",
+    "score": "2.2",
+    "year": 2002
+  },
+  {
+    "country": "Haiti",
+    "score": "2.2",
+    "year": 2002
+  },
+  {
+    "country": "Moldova",
+    "score": "2.1",
+    "year": 2002
+  },
+  {
+    "country": "Uganda",
+    "score": "2.1",
+    "year": 2002
+  },
+  {
+    "country": "Azerbaijan",
+    "score": "2.0",
+    "year": 2002
+  },
+  {
+    "country": "Indonesia",
+    "score": "1.9",
+    "year": 2002
+  },
+  {
+    "country": "Kenya",
+    "score": "1.9",
+    "year": 2002
+  },
+  {
+    "country": "Angola",
+    "score": "1.7",
+    "year": 2002
+  },
+  {
+    "country": "Madagascar",
+    "score": "1.7",
+    "year": 2002
+  },
+  {
+    "country": "Paraguay",
+    "score": "1.7",
+    "year": 2002
+  },
+  {
+    "country": "Nigeria",
+    "score": "1.6",
+    "year": 2002
+  },
+  {
+    "country": "Bangladesh",
+    "score": "1.2",
+    "year": 2002
+  },
+  {
+    "country": "Finland",
+    "score": "9.7",
+    "year": 2003
+  },
+  {
+    "country": "Iceland",
+    "score": "9.6",
+    "year": 2003
+  },
+  {
+    "country": "Denmark",
+    "score": "9.5",
+    "year": 2003
+  },
+  {
+    "country": "New Zealand",
+    "score": "9.5",
+    "year": 2003
+  },
+  {
+    "country": "Singapore",
+    "score": "9.4",
+    "year": 2003
+  },
+  {
+    "country": "Sweden",
+    "score": "9.3",
+    "year": 2003
+  },
+  {
+    "country": "Netherlands",
+    "score": "8.9",
+    "year": 2003
+  },
+  {
+    "country": "Australia",
+    "score": "8.8",
+    "year": 2003
+  },
+  {
+    "country": "Norway",
+    "score": "8.8",
+    "year": 2003
+  },
+  {
+    "country": "Switzerland",
+    "score": "8.8",
+    "year": 2003
+  },
+  {
+    "country": "Canada",
+    "score": "8.7",
+    "year": 2003
+  },
+  {
+    "country": "Luxembourg",
+    "score": "8.7",
+    "year": 2003
+  },
+  {
+    "country": "United Kingdom",
+    "score": "8.7",
+    "year": 2003
+  },
+  {
+    "country": "Austria",
+    "score": "8.0",
+    "year": 2003
+  },
+  {
+    "country": "Hong Kong",
+    "score": "8.0",
+    "year": 2003
+  },
+  {
+    "country": "Germany",
+    "score": "7.7",
+    "year": 2003
+  },
+  {
+    "country": "Belgium",
+    "score": "7.6",
+    "year": 2003
+  },
+  {
+    "country": "Ireland",
+    "score": "7.5",
+    "year": 2003
+  },
+  {
+    "country": "USA",
+    "score": "7.5",
+    "year": 2003
+  },
+  {
+    "country": "Chile",
+    "score": "7.4",
+    "year": 2003
+  },
+  {
+    "country": "Israel",
+    "score": "7.0",
+    "year": 2003
+  },
+  {
+    "country": "Japan",
+    "score": "7.0",
+    "year": 2003
+  },
+  {
+    "country": "France",
+    "score": "6.9",
+    "year": 2003
+  },
+  {
+    "country": "Spain",
+    "score": "6.9",
+    "year": 2003
+  },
+  {
+    "country": "Portugal",
+    "score": "6.6",
+    "year": 2003
+  },
+  {
+    "country": "Oman",
+    "score": "6.3",
+    "year": 2003
+  },
+  {
+    "country": "Bahrain",
+    "score": "6.1",
+    "year": 2003
+  },
+  {
+    "country": "Cyprus",
+    "score": "6.1",
+    "year": 2003
+  },
+  {
+    "country": "Slovenia",
+    "score": "5.9",
+    "year": 2003
+  },
+  {
+    "country": "Botswana",
+    "score": "5.7",
+    "year": 2003
+  },
+  {
+    "country": "Taiwan",
+    "score": "5.7",
+    "year": 2003
+  },
+  {
+    "country": "Qatar",
+    "score": "5.6",
+    "year": 2003
+  },
+  {
+    "country": "Estonia",
+    "score": "5.5",
+    "year": 2003
+  },
+  {
+    "country": "Uruguay",
+    "score": "5.5",
+    "year": 2003
+  },
+  {
+    "country": "Italy",
+    "score": "5.3",
+    "year": 2003
+  },
+  {
+    "country": "Kuwait",
+    "score": "5.3",
+    "year": 2003
+  },
+  {
+    "country": "Malaysia",
+    "score": "5.2",
+    "year": 2003
+  },
+  {
+    "country": "United Arab Emirates",
+    "score": "5.2",
+    "year": 2003
+  },
+  {
+    "country": "Tunisia",
+    "score": "4.9",
+    "year": 2003
+  },
+  {
+    "country": "Hungary",
+    "score": "4.8",
+    "year": 2003
+  },
+  {
+    "country": "Lithuania",
+    "score": "4.7",
+    "year": 2003
+  },
+  {
+    "country": "Namibia",
+    "score": "4.7",
+    "year": 2003
+  },
+  {
+    "country": "Cuba",
+    "score": "4.6",
+    "year": 2003
+  },
+  {
+    "country": "Jordan",
+    "score": "4.6",
+    "year": 2003
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "score": "4.6",
+    "year": 2003
+  },
+  {
+    "country": "Belize",
+    "score": "4.5",
+    "year": 2003
+  },
+  {
+    "country": "Saudi Arabia",
+    "score": "4.5",
+    "year": 2003
+  },
+  {
+    "country": "Mauritius",
+    "score": "4.4",
+    "year": 2003
+  },
+  {
+    "country": "South Africa",
+    "score": "4.4",
+    "year": 2003
+  },
+  {
+    "country": "Costa Rica",
+    "score": "4.3",
+    "year": 2003
+  },
+  {
+    "country": "Greece",
+    "score": "4.3",
+    "year": 2003
+  },
+  {
+    "country": "South Korea",
+    "score": "4.3",
+    "year": 2003
+  },
+  {
+    "country": "Belarus",
+    "score": "4.2",
+    "year": 2003
+  },
+  {
+    "country": "Brazil",
+    "score": "3.9",
+    "year": 2003
+  },
+  {
+    "country": "Bulgaria",
+    "score": "3.9",
+    "year": 2003
+  },
+  {
+    "country": "Czech Republic",
+    "score": "3.9",
+    "year": 2003
+  },
+  {
+    "country": "Jamaica",
+    "score": "3.8",
+    "year": 2003
+  },
+  {
+    "country": "Latvia",
+    "score": "3.8",
+    "year": 2003
+  },
+  {
+    "country": "Colombia",
+    "score": "3.7",
+    "year": 2003
+  },
+  {
+    "country": "Croatia",
+    "score": "3.7",
+    "year": 2003
+  },
+  {
+    "country": "El Salvador",
+    "score": "3.7",
+    "year": 2003
+  },
+  {
+    "country": "Peru",
+    "score": "3.7",
+    "year": 2003
+  },
+  {
+    "country": "Slovakia",
+    "score": "3.7",
+    "year": 2003
+  },
+  {
+    "country": "Mexico",
+    "score": "3.6",
+    "year": 2003
+  },
+  {
+    "country": "Poland",
+    "score": "3.6",
+    "year": 2003
+  },
+  {
+    "country": "China",
+    "score": "3.4",
+    "year": 2003
+  },
+  {
+    "country": "Panama",
+    "score": "3.4",
+    "year": 2003
+  },
+  {
+    "country": "Sri Lanka",
+    "score": "3.4",
+    "year": 2003
+  },
+  {
+    "country": "Syria",
+    "score": "3.4",
+    "year": 2003
+  },
+  {
+    "country": "Bosnia & Herzegovina",
+    "score": "3.3",
+    "year": 2003
+  },
+  {
+    "country": "Dominican Republic",
+    "score": "3.3",
+    "year": 2003
+  },
+  {
+    "country": "Egypt",
+    "score": "3.3",
+    "year": 2003
+  },
+  {
+    "country": "Ghana",
+    "score": "3.3",
+    "year": 2003
+  },
+  {
+    "country": "Morocco",
+    "score": "3.3",
+    "year": 2003
+  },
+  {
+    "country": "Thailand",
+    "score": "3.3",
+    "year": 2003
+  },
+  {
+    "country": "Senegal",
+    "score": "3.2",
+    "year": 2003
+  },
+  {
+    "country": "Turkey",
+    "score": "3.1",
+    "year": 2003
+  },
+  {
+    "country": "Armenia",
+    "score": "3.0",
+    "year": 2003
+  },
+  {
+    "country": "Iran",
+    "score": "3.0",
+    "year": 2003
+  },
+  {
+    "country": "Lebanon",
+    "score": "3.0",
+    "year": 2003
+  },
+  {
+    "country": "Mali",
+    "score": "3.0",
+    "year": 2003,
+    "FIELD4": 2003,
+    "FIELD5": null
+  },
+  {
+    "country": "Palestine",
+    "score": "3.0",
+    "year": 2003
+  },
+  {
+    "country": "India",
+    "score": "2.8",
+    "year": 2003
+  },
+  {
+    "country": "Malawi",
+    "score": "2.8",
+    "year": 2003
+  },
+  {
+    "country": "Romania",
+    "score": "2.8",
+    "year": 2003
+  },
+  {
+    "country": "Mozambique",
+    "score": "2.7",
+    "year": 2003
+  },
+  {
+    "country": "Russia",
+    "score": "2.7",
+    "year": 2003
+  },
+  {
+    "country": "Algeria",
+    "score": "2.6",
+    "year": 2003
+  },
+  {
+    "country": "Madagascar",
+    "score": "2.6",
+    "year": null
+  },
+  {
+    "country": "Nicaragua",
+    "score": "2.6",
+    "year": 2003
+  },
+  {
+    "country": "Yemen",
+    "score": "2.6",
+    "year": 2003
+  },
+  {
+    "country": "Albania",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Argentina",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Ethiopia",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Gambia",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Pakistan",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Philippines",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Tanzania",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Zambia",
+    "score": "2.5",
+    "year": 2003
+  },
+  {
+    "country": "Guatemala",
+    "score": "2.4",
+    "year": 2003
+  },
+  {
+    "country": "Kazakhstan",
+    "score": "2.4",
+    "year": 2003
+  },
+  {
+    "country": "Moldova",
+    "score": "2.4",
+    "year": 2003
+  },
+  {
+    "country": "Uzbekistan",
+    "score": "2.4",
+    "year": 2003
+  },
+  {
+    "country": "Venezuela",
+    "score": "2.4",
+    "year": 2003
+  },
+  {
+    "country": "Vietnam",
+    "score": "2.4",
+    "year": 2003
+  },
+  {
+    "country": "Bolivia",
+    "score": "2.3",
+    "year": 2003
+  },
+  {
+    "country": "Honduras",
+    "score": "2.3",
+    "year": 2003
+  },
+  {
+    "country": "Macedonia",
+    "score": "2.3",
+    "year": 2003
+  },
+  {
+    "country": "Serbia & Montenegro",
+    "score": "2.3",
+    "year": 2003
+  },
+  {
+    "country": "Sudan",
+    "score": "2.3",
+    "year": 2003
+  },
+  {
+    "country": "Ukraine",
+    "score": "2.3",
+    "year": 2003
+  },
+  {
+    "country": "Zimbabwe",
+    "score": "2.3",
+    "year": 2003
+  },
+  {
+    "country": "Ecuador",
+    "score": "2.2",
+    "year": 2003
+  },
+  {
+    "country": "Iraq",
+    "score": "2.2",
+    "year": 2003
+  },
+  {
+    "country": "Sierra Leone",
+    "score": "2.2",
+    "year": 2003
+  },
+  {
+    "country": "Uganda",
+    "score": "2.2",
+    "year": 2003
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "score": "2.1",
+    "year": 2003
+  },
+  {
+    "country": "Kyrgyzstan",
+    "score": "2.1",
+    "year": 2003
+  },
+  {
+    "country": "Libya",
+    "score": "2.1",
+    "year": 2003
+  },
+  {
+    "country": "Papua New Guinea",
+    "score": "2.1",
+    "year": 2003
+  },
+  {
+    "country": "Indonesia",
+    "score": "1.9",
+    "year": 2003
+  },
+  {
+    "country": "Kenya",
+    "score": "1.9",
+    "year": 2003
+  },
+  {
+    "country": "Angola",
+    "score": "1.8",
+    "year": 2003
+  },
+  {
+    "country": "Azerbaijan",
+    "score": "1.8",
+    "year": 2003
+  },
+  {
+    "country": "Cameroon",
+    "score": "1.8",
+    "year": 2003
+  },
+  {
+    "country": "Georgia",
+    "score": "1.8",
+    "year": 2003
+  },
+  {
+    "country": "Tajikistan",
+    "score": "1.8",
+    "year": 2003
+  },
+  {
+    "country": "Myanmar",
+    "score": "1.6",
+    "year": 2003
+  },
+  {
+    "country": "Paraguay",
+    "score": "1.6",
+    "year": 2003
+  },
+  {
+    "country": "Haiti",
+    "score": "1.5",
+    "year": 2003
+  },
+  {
+    "country": "Nigeria",
+    "score": "1.4",
+    "year": 2003
+  },
+  {
+    "country": "Bangladesh",
+    "score": "1.3",
+    "year": 2003
+  },
+  {
+    "country": "Finland",
+    "score": "9.7",
+    "year": 2004
+  },
+  {
+    "country": "New Zealand",
+    "score": "9.6",
+    "year": 2004
+  },
+  {
+    "country": "Denmark",
+    "score": "9.5",
+    "year": 2004
+  },
+  {
+    "country": "Iceland",
+    "score": "9.5",
+    "year": 2004
+  },
+  {
+    "country": "Singapore",
+    "score": "9.3",
+    "year": 2004
+  },
+  {
+    "country": "Sweden",
+    "score": "9.2",
+    "year": 2004
+  },
+  {
+    "country": "Switzerland",
+    "score": "9.1",
+    "year": 2004
+  },
+  {
+    "country": "Norway",
+    "score": "8.9",
+    "year": 2004
+  },
+  {
+    "country": "Australia",
+    "score": "8.8",
+    "year": 2004
+  },
+  {
+    "country": "Netherlands",
+    "score": "8.7",
+    "year": 2004
+  },
+  {
+    "country": "United Kingdom",
+    "score": "8.6",
+    "year": 2004
+  },
+  {
+    "country": "Canada",
+    "score": "8.5",
+    "year": 2004
+  },
+  {
+    "country": "Austria",
+    "score": "8.4",
+    "year": 2004
+  },
+  {
+    "country": "Luxembourg",
+    "score": "8.4",
+    "year": 2004
+  },
+  {
+    "country": "Germany",
+    "score": "8.2",
+    "year": 2004
+  },
+  {
+    "country": "Hong Kong",
+    "score": "8.0",
+    "year": 2004
+  },
+  {
+    "country": "Belgium",
+    "score": "7.5",
+    "year": 2004
+  },
+  {
+    "country": "Ireland",
+    "score": "7.5",
+    "year": 2004
+  },
+  {
+    "country": "USA",
+    "score": "7.5",
+    "year": 2004
+  },
+  {
+    "country": "Chile",
+    "score": "7.4",
+    "year": 2004
+  },
+  {
+    "country": "Barbados",
+    "score": "7.3",
+    "year": 2004
+  },
+  {
+    "country": "France",
+    "score": "7.1",
+    "year": 2004
+  },
+  {
+    "country": "Spain",
+    "score": "7.1",
+    "year": 2004
+  },
+  {
+    "country": "Japan",
+    "score": "6.9",
+    "year": 2004
+  },
+  {
+    "country": "Malta",
+    "score": "6.8",
+    "year": 2004
+  },
+  {
+    "country": "Israel",
+    "score": "6.4",
+    "year": 2004
+  },
+  {
+    "country": "Portugal",
+    "score": "6.3",
+    "year": 2004
+  },
+  {
+    "country": "Uruguay",
+    "score": "6.2",
+    "year": 2004
+  },
+  {
+    "country": "Oman",
+    "score": "6.1",
+    "year": 2004
+  },
+  {
+    "country": "United Arab Emirates",
+    "score": "6.1",
+    "year": 2004
+  },
+  {
+    "country": "Botswana",
+    "score": "6.0",
+    "year": 2004
+  },
+  {
+    "country": "Estonia",
+    "score": "6.0",
+    "year": 2004
+  },
+  {
+    "country": "Slovenia",
+    "score": "6.0",
+    "year": 2004
+  },
+  {
+    "country": "Bahrain",
+    "score": "5.8",
+    "year": 2004
+  },
+  {
+    "country": "Taiwan",
+    "score": "5.6",
+    "year": 2004
+  },
+  {
+    "country": "Cyprus",
+    "score": "5.4",
+    "year": 2004
+  },
+  {
+    "country": "Jordan",
+    "score": "5.3",
+    "year": 2004
+  },
+  {
+    "country": "Qatar",
+    "score": "5.2",
+    "year": 2004
+  },
+  {
+    "country": "Malaysia",
+    "score": "5.0",
+    "year": 2004
+  },
+  {
+    "country": "Tunisia",
+    "score": "5.0",
+    "year": 2004
+  },
+  {
+    "country": "Costa Rica",
+    "score": "4.9",
+    "year": 2004
+  },
+  {
+    "country": "Hungary",
+    "score": "4.8",
+    "year": 2004
+  },
+  {
+    "country": "Italy",
+    "score": "4.8",
+    "year": 2004
+  },
+  {
+    "country": "Kuwait",
+    "score": "4.6",
+    "year": 2004
+  },
+  {
+    "country": "Lithuania",
+    "score": "4.6",
+    "year": 2004
+  },
+  {
+    "country": "South Africa",
+    "score": "4.6",
+    "year": 2004
+  },
+  {
+    "country": "South Korea",
+    "score": "4.5",
+    "year": 2004
+  },
+  {
+    "country": "Seychelles",
+    "score": "4.4",
+    "year": 2004
+  },
+  {
+    "country": "Greece",
+    "score": "4.3",
+    "year": 2004
+  },
+  {
+    "country": "Suriname",
+    "score": "4.3",
+    "year": 2004
+  },
+  {
+    "country": "Czech Republic",
+    "score": "4.2",
+    "year": 2004
+  },
+  {
+    "country": "El Salvador",
+    "score": "4.2",
+    "year": 2004,
+    "FIELD4": 2004,
+    "FIELD5": null
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "score": "4.2",
+    "year": 2004
+  },
+  {
+    "country": "Bulgaria",
+    "score": "4.1",
+    "year": 2004,
+    "FIELD4": 2004,
+    "FIELD5": null
+  },
+  {
+    "country": "Mauritius",
+    "score": "4.1",
+    "year": 2004
+  },
+  {
+    "country": "Namibia",
+    "score": "4.1",
+    "year": 2004
+  },
+  {
+    "country": "Latvia",
+    "score": "4.0",
+    "year": 2004
+  },
+  {
+    "country": "Slovakia",
+    "score": "4.0",
+    "year": 2004
+  },
+  {
+    "country": "Brazil",
+    "score": "3.9",
+    "year": 2004
+  },
+  {
+    "country": "Belize",
+    "score": "3.8",
+    "year": 2004
+  },
+  {
+    "country": "Colombia",
+    "score": "3.8",
+    "year": 2004
+  },
+  {
+    "country": "Cuba",
+    "score": "3.7",
+    "year": 2004
+  },
+  {
+    "country": "Panama",
+    "score": "3.7",
+    "year": 2004
+  },
+  {
+    "country": "Ghana",
+    "score": "3.6",
+    "year": 2004
+  },
+  {
+    "country": "Mexico",
+    "score": "3.6",
+    "year": 2004
+  },
+  {
+    "country": "Thailand",
+    "score": "3.6",
+    "year": 2004
+  },
+  {
+    "country": "Croatia",
+    "score": "3.5",
+    "year": 2004
+  },
+  {
+    "country": "Peru",
+    "score": "3.5",
+    "year": 2004
+  },
+  {
+    "country": "Poland",
+    "score": "3.5",
+    "year": 2004
+  },
+  {
+    "country": "Sri Lanka",
+    "score": "3.5",
+    "year": 2004
+  },
+  {
+    "country": "China",
+    "score": "3.4",
+    "year": 2004
+  },
+  {
+    "country": "Saudi Arabia",
+    "score": "3.4",
+    "year": 2004
+  },
+  {
+    "country": "Syria",
+    "score": "3.4",
+    "year": 2004
+  },
+  {
+    "country": "Belarus",
+    "score": "3.3",
+    "year": 2004
+  },
+  {
+    "country": "Gabon",
+    "score": "3.3",
+    "year": 2004
+  },
+  {
+    "country": "Jamaica",
+    "score": "3.3",
+    "year": 2004
+  },
+  {
+    "country": "Benin",
+    "score": "3.2",
+    "year": 2004
+  },
+  {
+    "country": "Egypt",
+    "score": "3.2",
+    "year": 2004
+  },
+  {
+    "country": "Mali",
+    "score": "3.2",
+    "year": 2004
+  },
+  {
+    "country": "Morocco",
+    "score": "3.2",
+    "year": 2004
+  },
+  {
+    "country": "Turkey",
+    "score": "3.2",
+    "year": 2004
+  },
+  {
+    "country": "Armenia",
+    "score": "3.1",
+    "year": 2004
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "score": "3.1",
+    "year": 2004
+  },
+  {
+    "country": "Madagascar",
+    "score": "3.1",
+    "year": 2004
+  },
+  {
+    "country": "85",
+    "score": "Mongolia",
+    "year": 3,
+    "FIELD4": 2004,
+    "FIELD5": null
+  },
+  {
+    "country": "Senegal",
+    "score": "3.0",
+    "year": 2004
+  },
+  {
+    "country": "Dominican Republic",
+    "score": "2.9",
+    "year": 2004
+  },
+  {
+    "country": "Iran",
+    "score": "2.9",
+    "year": 2004
+  },
+  {
+    "country": "Romania",
+    "score": "2.9",
+    "year": 2004
+  },
+  {
+    "country": "Gambia",
+    "score": "2.8",
+    "year": 2004
+  },
+  {
+    "country": "India",
+    "score": "2.8",
+    "year": 2004,
+    "FIELD4": 2004,
+    "FIELD5": null
+  },
+  {
+    "country": "Malawi",
+    "score": "2.8",
+    "year": 2004
+  },
+  {
+    "country": "Mozambique",
+    "score": "2.8",
+    "year": 2004
+  },
+  {
+    "country": "Nepal",
+    "score": "2.8",
+    "year": 2004
+  },
+  {
+    "country": "Russia",
+    "score": "2.8",
+    "year": 2004
+  },
+  {
+    "country": "Tanzania",
+    "score": "2.8",
+    "year": 2004
+  },
+  {
+    "country": "Algeria",
+    "score": "2.7",
+    "year": 2004
+  },
+  {
+    "country": "Lebanon",
+    "score": "2.7",
+    "year": 2004
+  },
+  {
+    "country": "Macedonia",
+    "score": "2.7",
+    "year": 2004
+  },
+  {
+    "country": "Nicaragua",
+    "score": "2.7",
+    "year": 2004
+  },
+  {
+    "country": "Serbia and Montenegro",
+    "score": "2.7",
+    "year": 2004
+  },
+  {
+    "country": "Eritrea",
+    "score": "2.6",
+    "year": 2004
+  },
+  {
+    "country": "Papua New Guinea",
+    "score": "2.6",
+    "year": 2004
+  },
+  {
+    "country": "Philippines",
+    "score": "2.6",
+    "year": 2004
+  },
+  {
+    "country": "Uganda",
+    "score": "2.6",
+    "year": 2004
+  },
+  {
+    "country": "Vietnam",
+    "score": "2.6",
+    "year": 2004
+  },
+  {
+    "country": "Zambia",
+    "score": "2.6",
+    "year": 2004
+  },
+  {
+    "country": "Albania",
+    "score": "2.5",
+    "year": 2004
+  },
+  {
+    "country": "Argentina",
+    "score": "2.5",
+    "year": 2004
+  },
+  {
+    "country": "Libya",
+    "score": "2.5",
+    "year": 2004
+  },
+  {
+    "country": "Palestinian Authority",
+    "score": "2.5",
+    "year": 2004
+  },
+  {
+    "country": "Ecuador",
+    "score": "2.4",
+    "year": 2004
+  },
+  {
+    "country": "Yemen",
+    "score": "2.4",
+    "year": 2004
+  },
+  {
+    "country": "Congo. Republic of",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Ethiopia",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Honduras",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Moldova",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Sierra Leone",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Uzbekistan",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Venezuela",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Zimbabwe",
+    "score": "2.3",
+    "year": 2004
+  },
+  {
+    "country": "Bolivia",
+    "score": "2.2",
+    "year": 2004
+  },
+  {
+    "country": "Guatemala",
+    "score": "2.2",
+    "year": 2004
+  },
+  {
+    "country": "Kazakhstan",
+    "score": "2.2",
+    "year": 2004
+  },
+  {
+    "country": "Kyrgyzstan",
+    "score": "2.2",
+    "year": 2004
+  },
+  {
+    "country": "Niger",
+    "score": "2.2",
+    "year": 2004
+  },
+  {
+    "country": "Sudan",
+    "score": "2.2",
+    "year": 2004
+  },
+  {
+    "country": "Ukraine",
+    "score": "2.2",
+    "year": 2004
+  },
+  {
+    "country": "Cameroon",
+    "score": "2.1",
+    "year": 2004
+  },
+  {
+    "country": "Iraq",
+    "score": "2.1",
+    "year": 2004
+  },
+  {
+    "country": "Kenya",
+    "score": "2.1",
+    "year": 2004
+  },
+  {
+    "country": "Pakistan",
+    "score": "2.1",
+    "year": 2004
+  },
+  {
+    "country": "Angola",
+    "score": "2.0",
+    "year": 2004
+  },
+  {
+    "country": "Congo. Democratic Republic",
+    "score": "2.0",
+    "year": 2004
+  },
+  {
+    "country": "Cote d´Ivoire",
+    "score": "2.0",
+    "year": 2004
+  },
+  {
+    "country": "Georgia",
+    "score": "2.0",
+    "year": 2004
+  },
+  {
+    "country": "Indonesia",
+    "score": "2.0",
+    "year": 2004
+  },
+  {
+    "country": "Tajikistan",
+    "score": "2.0",
+    "year": 2004
+  },
+  {
+    "country": "Turkmenistan",
+    "score": "2.0",
+    "year": 2004
+  },
+  {
+    "country": "Azerbaijan",
+    "score": "1.9",
+    "year": 2004
+  },
+  {
+    "country": "Paraguay",
+    "score": "1.9",
+    "year": 2004
+  },
+  {
+    "country": "Chad",
+    "score": "1.7",
+    "year": 2004
+  },
+  {
+    "country": "Myanmar",
+    "score": "1.7",
+    "year": 2004
+  },
+  {
+    "country": "Nigeria",
+    "score": "1.6",
+    "year": 2004
+  },
+  {
+    "country": "Bangladesh",
+    "score": "1.5",
+    "year": 2004
+  },
+  {
+    "country": "Haiti",
+    "score": "1.5",
+    "year": 2004
+  },
+  {
+    "country": "Iceland",
+    "score": "9.7",
+    "year": 2005
+  },
+  {
+    "country": "Finland",
+    "score": "9.6",
+    "year": 2005
+  },
+  {
+    "country": "New Zealand",
+    "score": "9.6",
+    "year": 2005
+  },
+  {
+    "country": "Denmark",
+    "score": "9.5",
+    "year": 2005
+  },
+  {
+    "country": "Singapore",
+    "score": "9.4",
+    "year": 2005
+  },
+  {
+    "country": "Sweden",
+    "score": "9.2",
+    "year": 2005
+  },
+  {
+    "country": "Switzerland",
+    "score": "9.1",
+    "year": 2005
+  },
+  {
+    "country": "Norway",
+    "score": "8.9",
+    "year": 2005
+  },
+  {
+    "country": "Australia",
+    "score": "8.8",
+    "year": 2005
+  },
+  {
+    "country": "Austria",
+    "score": "8.7",
+    "year": 2005
+  },
+  {
+    "country": "Netherlands",
+    "score": "8.6",
+    "year": 2005
+  },
+  {
+    "country": "United Kingdom",
+    "score": "8.6",
+    "year": 2005
+  },
+  {
+    "country": "Luxembourg",
+    "score": "8.5",
+    "year": 2005
+  },
+  {
+    "country": "Canada",
+    "score": "8.4",
+    "year": 2005
+  },
+  {
+    "country": "Hong Kong",
+    "score": "8.3",
+    "year": 2005
+  },
+  {
+    "country": "Germany",
+    "score": "8.2",
+    "year": 2005
+  },
+  {
+    "country": "USA",
+    "score": "7.6",
+    "year": 2005
+  },
+  {
+    "country": "France",
+    "score": "7.5",
+    "year": 2005
+  },
+  {
+    "country": "Belgium",
+    "score": "7.4",
+    "year": 2005
+  },
+  {
+    "country": "Ireland",
+    "score": "7.4",
+    "year": 2005
+  },
+  {
+    "country": "Chile",
+    "score": "7.3",
+    "year": 2005
+  },
+  {
+    "country": "Japan",
+    "score": "7.3",
+    "year": 2005
+  },
+  {
+    "country": "Spain",
+    "score": "7.0",
+    "year": 2005
+  },
+  {
+    "country": "Barbados",
+    "score": "6.9",
+    "year": 2005
+  },
+  {
+    "country": "Malta",
+    "score": "6.6",
+    "year": 2005
+  },
+  {
+    "country": "Portugal",
+    "score": "6.5",
+    "year": 2005
+  },
+  {
+    "country": "Estonia",
+    "score": "6.4",
+    "year": 2005
+  },
+  {
+    "country": "Israel",
+    "score": "6.3",
+    "year": 2005
+  },
+  {
+    "country": "Oman",
+    "score": "6.3",
+    "year": 2005
+  },
+  {
+    "country": "United Arab Emirates",
+    "score": "6.2",
+    "year": 2005
+  },
+  {
+    "country": "Slovenia",
+    "score": "6.1",
+    "year": 2005
+  },
+  {
+    "country": "Botswana",
+    "score": "5.9",
+    "year": 2005
+  },
+  {
+    "country": "Qatar",
+    "score": "5.9",
+    "year": 2005
+  },
+  {
+    "country": "Taiwan",
+    "score": "5.9",
+    "year": 2005
+  },
+  {
+    "country": "Uruguay",
+    "score": "5.9",
+    "year": 2005
+  },
+  {
+    "country": "Bahrain",
+    "score": "5.8",
+    "year": 2005
+  },
+  {
+    "country": "Cyprus",
+    "score": "5.7",
+    "year": 2005
+  },
+  {
+    "country": "Jordan",
+    "score": "5.7",
+    "year": 2005
+  },
+  {
+    "country": "Malaysia",
+    "score": "5.1",
+    "year": 2005
+  },
+  {
+    "country": "Hungary",
+    "score": "5.0",
+    "year": 2005
+  },
+  {
+    "country": "Italy",
+    "score": "5.0",
+    "year": 2005
+  },
+  {
+    "country": "South Korea",
+    "score": "5.0",
+    "year": 2005
+  },
+  {
+    "country": "Tunisia",
+    "score": "4.9",
+    "year": 2005
+  },
+  {
+    "country": "Lithuania",
+    "score": "4.8",
+    "year": 2005
+  },
+  {
+    "country": "Kuwait",
+    "score": "4.7",
+    "year": 2005
+  },
+  {
+    "country": "South Africa",
+    "score": "4.5",
+    "year": 2005
+  },
+  {
+    "country": "Czech Republic",
+    "score": "4.3",
+    "year": 2005
+  },
+  {
+    "country": "Greece",
+    "score": "4.3",
+    "year": 2005
+  },
+  {
+    "country": "Namibia",
+    "score": "4.3",
+    "year": 2005
+  },
+  {
+    "country": "Slovakia",
+    "score": "4.3",
+    "year": 2005
+  },
+  {
+    "country": "Costa Rica",
+    "score": "4.2",
+    "year": null
+  },
+  {
+    "country": "El Salvador",
+    "score": "4.2",
+    "year": 2005
+  },
+  {
+    "country": "Latvia",
+    "score": "4.2",
+    "year": 2005
+  },
+  {
+    "country": "Mauritius",
+    "score": "4.2",
+    "year": 2005
+  },
+  {
+    "country": "Bulgaria",
+    "score": "4.0",
+    "year": 2005
+  },
+  {
+    "country": "Colombia",
+    "score": "4.0",
+    "year": 2005
+  },
+  {
+    "country": "Fiji",
+    "score": "4.0",
+    "year": 2005
+  },
+  {
+    "country": "Seychelles",
+    "score": "4.0",
+    "year": 2005
+  },
+  {
+    "country": "Cuba",
+    "score": "3.8",
+    "year": 2005
+  },
+  {
+    "country": "Brazil",
+    "score": "3.7",
+    "year": 2005
+  },
+  {
+    "country": "Jamaica",
+    "score": "3.6",
+    "year": 2005
+  },
+  {
+    "country": "Ghana",
+    "score": "3.5",
+    "year": 2005
+  },
+  {
+    "country": "Mexico",
+    "score": "3.5",
+    "year": 2005
+  },
+  {
+    "country": "Panama",
+    "score": "3.5",
+    "year": 2005
+  },
+  {
+    "country": "Peru",
+    "score": "3.5",
+    "year": 2005
+  },
+  {
+    "country": "Turkey",
+    "score": "3.5",
+    "year": 2005
+  },
+  {
+    "country": "Burkina Faso",
+    "score": "3.4",
+    "year": 2005
+  },
+  {
+    "country": "Croatia",
+    "score": "3.4",
+    "year": 2005
+  },
+  {
+    "country": "Egypt",
+    "score": "3.4",
+    "year": 2005
+  },
+  {
+    "country": "Lesotho",
+    "score": "3.4",
+    "year": 2005
+  },
+  {
+    "country": "Poland",
+    "score": "3.4",
+    "year": 2005
+  },
+  {
+    "country": "Saudi Arabia",
+    "score": "3.4",
+    "year": 2005
+  },
+  {
+    "country": "Syria",
+    "score": "3.4",
+    "year": 2005
+  },
+  {
+    "country": "Laos",
+    "score": "3.3",
+    "year": 2005
+  },
+  {
+    "country": "China",
+    "score": "3.2",
+    "year": 2005
+  },
+  {
+    "country": "Morocco",
+    "score": "3.2",
+    "year": 2005
+  },
+  {
+    "country": "Senegal",
+    "score": "3.2",
+    "year": 2005
+  },
+  {
+    "country": "Sri Lanka",
+    "score": "3.2",
+    "year": 2005
+  },
+  {
+    "country": "Suriname",
+    "score": "3.2",
+    "year": 2005
+  },
+  {
+    "country": "Lebanon",
+    "score": "3.1",
+    "year": 2005
+  },
+  {
+    "country": "Rwanda",
+    "score": "3.1",
+    "year": 2005
+  },
+  {
+    "country": "Dominican Republic",
+    "score": "3.0",
+    "year": 2005
+  },
+  {
+    "country": "Mongolia",
+    "score": "3.0",
+    "year": 2005
+  },
+  {
+    "country": "Romania",
+    "score": "3.0",
+    "year": 2005
+  },
+  {
+    "country": "Armenia",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Benin",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Gabon",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "India",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Iran",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Mali",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Moldova",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Tanzania",
+    "score": "2.9",
+    "year": 2005
+  },
+  {
+    "country": "Algeria",
+    "score": "2.8",
+    "year": 2005
+  },
+  {
+    "country": "Argentina",
+    "score": "2.8",
+    "year": 2005
+  },
+  {
+    "country": "Madagascar",
+    "score": "2.8",
+    "year": 2005
+  },
+  {
+    "country": "Malawi",
+    "score": "2.8",
+    "year": 2005
+  },
+  {
+    "country": "Mozambique",
+    "score": "2.8",
+    "year": 2005
+  },
+  {
+    "country": "Serbia and Montenegro",
+    "score": "2.8",
+    "year": 2005
+  },
+  {
+    "country": "Gambia",
+    "score": "2.7",
+    "year": 2005
+  },
+  {
+    "country": "Macedonia",
+    "score": "2.7",
+    "year": 2005
+  },
+  {
+    "country": "Swaziland",
+    "score": "2.7",
+    "year": 2005
+  },
+  {
+    "country": "Yemen",
+    "score": "2.7",
+    "year": 2005
+  },
+  {
+    "country": "Belarus",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Eritrea",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Honduras",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Kazakhstan",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Nicaragua",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Palestine",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Ukraine",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Vietnam",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Zambia",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Zimbabwe",
+    "score": "2.6",
+    "year": 2005
+  },
+  {
+    "country": "Afghanistan",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Bolivia",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Ecuador",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Guatemala",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Guyana",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Libya",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Nepal",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Philippines",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Uganda",
+    "score": "2.5",
+    "year": 2005
+  },
+  {
+    "country": "Albania",
+    "score": "2.4",
+    "year": 2005
+  },
+  {
+    "country": "Niger",
+    "score": "2.4",
+    "year": 2005
+  },
+  {
+    "country": "Russia",
+    "score": "2.4",
+    "year": 2005
+  },
+  {
+    "country": "Sierra Leone",
+    "score": "2.4",
+    "year": 2005
+  },
+  {
+    "country": "Burundi",
+    "score": "2.3",
+    "year": 2005
+  },
+  {
+    "country": "Cambodia",
+    "score": "2.3",
+    "year": 2005
+  },
+  {
+    "country": "Georgia",
+    "score": "2.3",
+    "year": 2005
+  },
+  {
+    "country": "Kyrgyzstan",
+    "score": "2.3",
+    "year": 2005
+  },
+  {
+    "country": "Papua New Guinea",
+    "score": "2.3",
+    "year": 2005
+  },
+  {
+    "country": "Venezuela",
+    "score": "2.3",
+    "year": 2005
+  },
+  {
+    "country": "Azerbaijan",
+    "score": "2.2",
+    "year": 2005
+  },
+  {
+    "country": "Cameroon",
+    "score": "2.2",
+    "year": 2005
+  },
+  {
+    "country": "Ethiopia",
+    "score": "2.2",
+    "year": 2005
+  },
+  {
+    "country": "Indonesia",
+    "score": "2.2",
+    "year": 2005
+  },
+  {
+    "country": "Iraq",
+    "score": "2.2",
+    "year": 2005
+  },
+  {
+    "country": "Liberia",
+    "score": "2.2",
+    "year": 2005
+  },
+  {
+    "country": "Uzbekistan",
+    "score": "2.2",
+    "year": 2005
+  },
+  {
+    "country": "Kenya",
+    "score": "2.1",
+    "year": 2005
+  },
+  {
+    "country": "Pakistan",
+    "score": "2.1",
+    "year": 2005
+  },
+  {
+    "country": "Paraguay",
+    "score": "2.1",
+    "year": 2005
+  },
+  {
+    "country": "Somalia",
+    "score": "2.1",
+    "year": 2005
+  },
+  {
+    "country": "Sudan",
+    "score": "2.1",
+    "year": 2005
+  },
+  {
+    "country": "Tajikistan",
+    "score": "2.1",
+    "year": 2005
+  },
+  {
+    "country": "Angola",
+    "score": "2.0",
+    "year": 2005
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "score": "1.9",
+    "year": 2005
+  },
+  {
+    "country": "Equatorial Guinea",
+    "score": "1.9",
+    "year": 2005
+  },
+  {
+    "country": "Nigeria",
+    "score": "1.9",
+    "year": 2005
+  },
+  {
+    "country": "Haiti",
+    "score": "1.8",
+    "year": 2005
+  },
+  {
+    "country": "Myanmar",
+    "score": "1.8",
+    "year": 2005
+  },
+  {
+    "country": "Turkmenistan",
+    "score": "1.8",
+    "year": 2005
+  },
+  {
+    "country": "Bangladesh",
+    "score": "1.7",
+    "year": 2005
+  },
+  {
+    "country": "Chad",
+    "score": "1.7",
+    "year": 2005
   }
 ]
