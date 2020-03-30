@@ -1,5249 +1,8732 @@
 [
   {
     "country": "New Zealand",
-    "score": "9.55",
+    "score": 9.55,
     "year": 1995
   },
   {
     "country": "Denmark",
-    "score": "9.32",
+    "score": 9.32,
     "year": 1995
   },
   {
     "country": "Singapore",
-    "score": "9.26",
+    "score": 9.26,
     "year": 1995
   },
   {
     "country": "Finland",
-    "score": "9.12",
+    "score": 9.12,
     "year": 1995
   },
   {
     "country": "Canada",
-    "score": "8.87",
+    "score": 8.87,
     "year": 1995
   },
   {
     "country": "Sweden",
-    "score": "8.87",
+    "score": 8.87,
     "year": 1995
   },
   {
     "country": "Australia",
-    "score": "8.8",
+    "score": 8.8,
     "year": 1995
   },
   {
     "country": "Switzerland",
-    "score": "8.76",
+    "score": 8.76,
     "year": 1995
   },
   {
     "country": "Netherlands",
-    "score": "8.69",
+    "score": 8.69,
     "year": 1995
   },
   {
     "country": "Norway",
-    "score": "8.61",
+    "score": 8.61,
     "year": 1995
   },
   {
     "country": "Ireland",
-    "score": "8.57",
+    "score": 8.57,
     "year": 1995
   },
   {
     "country": "United Kingdom",
-    "score": "8.57",
+    "score": 8.57,
     "year": 1995
   },
   {
     "country": "Germany",
-    "score": "8.14",
+    "score": 8.14,
     "year": 1995
   },
   {
     "country": "Chile",
-    "score": "7.94",
+    "score": 7.94,
     "year": 1995
   },
   {
     "country": "USA",
-    "score": "7.79",
+    "score": 7.79,
     "year": 1995
   },
   {
     "country": "Austria",
-    "score": "7.13",
+    "score": 7.13,
     "year": 1995
   },
   {
     "country": "Hong Kong",
-    "score": "7.12",
+    "score": 7.12,
     "year": 1995
   },
   {
     "country": "France",
-    "score": "7",
+    "score": 7,
     "year": 1995
   },
   {
     "country": "Belgium",
-    "score": "6.85",
+    "score": 6.85,
     "year": 1995
   },
   {
     "country": "Luxembourg",
-    "score": "6.85",
+    "score": 6.85,
     "year": 1995
   },
   {
     "country": "Japan",
-    "score": "6.72",
+    "score": 6.72,
     "year": 1995
   },
   {
     "country": "South Africa",
-    "score": "5.62",
+    "score": 5.62,
     "year": 1995
   },
   {
     "country": "Portugal",
-    "score": "5.56",
+    "score": 5.56,
     "year": 1995
   },
   {
     "country": "Malaysia",
-    "score": "5.28",
+    "score": 5.28,
     "year": 1995
   },
   {
     "country": "Argentina",
-    "score": "5.24",
+    "score": 5.24,
     "year": 1995
   },
   {
     "country": "Taiwan",
-    "score": "5.08",
+    "score": 5.08,
     "year": 1995
   },
   {
     "country": "Spain",
-    "score": "4.35",
+    "score": 4.35,
     "year": 1995
   },
   {
     "country": "South Korea",
-    "score": "4.29",
+    "score": 4.29,
     "year": 1995
   },
   {
     "country": "Hungary",
-    "score": "4.12",
+    "score": 4.12,
     "year": 1995
   },
   {
     "country": "Turkey",
-    "score": "4.1",
+    "score": 4.1,
     "year": 1995
   },
   {
     "country": "Greece",
-    "score": "4.04",
+    "score": 4.04,
     "year": 1995
   },
   {
     "country": "Colombia",
-    "score": "3.44",
+    "score": 3.44,
     "year": 1995
   },
   {
     "country": "Mexico",
-    "score": "3.18",
+    "score": 3.18,
     "year": 1995
   },
   {
     "country": "Italy",
-    "score": "2.99",
+    "score": 2.99,
     "year": 1995
   },
   {
     "country": "Thailand",
-    "score": "2.79",
+    "score": 2.79,
     "year": 1995
   },
   {
     "country": "India",
-    "score": "2.78",
+    "score": 2.78,
     "year": 1995
   },
   {
     "country": "Philippines",
-    "score": "2.77",
+    "score": 2.77,
     "year": 1995
   },
   {
     "country": "Brazil",
-    "score": "2.7",
+    "score": 2.7,
     "year": 1995
   },
   {
     "country": "Venezuela",
-    "score": "2.66",
+    "score": 2.66,
     "year": 1995
   },
   {
     "country": "Pakistan",
-    "score": "2.25",
+    "score": 2.25,
     "year": 1995
   },
   {
     "country": "China",
-    "score": "2.16",
+    "score": 2.16,
     "year": 1995
   },
   {
     "country": "Indonesia",
-    "score": "1.94",
+    "score": 1.94,
     "year": 1995
   },
   {
     "country": "New Zealand",
-    "score": "9.43",
+    "score": 9.43,
     "year": 1996
   },
   {
     "country": "Denmark",
-    "score": "9.33",
+    "score": 9.33,
     "year": 1996
   },
   {
     "country": "Sweden",
-    "score": "9.08",
+    "score": 9.08,
     "year": 1996
   },
   {
     "country": "Finland",
-    "score": "9",
-    "year": 23,
-    "FIELD4": 6,
-    "FIELD5": 1996
+    "score": 9,
+    "year": 23
   },
   {
     "country": "Canada",
-    "score": "8.96",
+    "score": 8.96,
     "year": 1996
   },
   {
     "country": "Norway",
-    "score": "8.87",
+    "score": 8.87,
     "year": 1996
   },
   {
     "country": "Singapore",
-    "score": "8.8",
+    "score": 8.8,
     "year": 1996
   },
   {
     "country": "Switzerland",
-    "score": "8.76",
+    "score": 8.76,
     "year": 1996
   },
   {
     "country": "Netherlands",
-    "score": "8.71",
+    "score": 8.71,
     "year": 1996
   },
   {
     "country": "Australia",
-    "score": "8.6",
+    "score": 8.6,
     "year": 1996
   },
   {
     "country": "Ireland",
-    "score": "8.45",
+    "score": 8.45,
     "year": 1996
   },
   {
     "country": "United Kingdom",
-    "score": "8.44",
+    "score": 8.44,
     "year": 1996
   },
   {
     "country": "Germany",
-    "score": "8.27",
+    "score": 8.27,
     "year": 1996
   },
   {
     "country": "Israel",
-    "score": "7.71",
+    "score": 7.71,
     "year": 1996
   },
   {
     "country": "USA",
     "score": "7.66.0.19",
-    "year": null
+    "year": ""
   },
   {
     "country": "Austria",
-    "score": "7.59",
+    "score": 7.59,
     "year": 1996
   },
   {
     "country": "Japan",
-    "score": "7.05",
+    "score": 7.05,
     "year": 1996
   },
   {
     "country": "Hong Kong",
-    "score": "7.01",
+    "score": 7.01,
     "year": 1996
   },
   {
     "country": "France",
-    "score": "6.96",
+    "score": 6.96,
     "year": 1996
   },
   {
     "country": "Belgium",
-    "score": "6.84",
+    "score": 6.84,
     "year": 1996
   },
   {
     "country": "Chile",
-    "score": "6.8",
+    "score": 6.8,
     "year": 1996
   },
   {
     "country": "Portugal",
-    "score": "6.53",
+    "score": 6.53,
     "year": 1996
   },
   {
     "country": "South Africa",
-    "score": "5.68",
+    "score": 5.68,
     "year": 1996
   },
   {
     "country": "Poland",
-    "score": "5.57",
+    "score": 5.57,
     "year": 1996
   },
   {
     "country": "Czech Republic",
-    "score": "5.37",
+    "score": 5.37,
     "year": 1996
   },
   {
     "country": "Malaysia",
-    "score": "5.32",
+    "score": 5.32,
     "year": 1996
   },
   {
     "country": "South Korea",
-    "score": "5.02",
+    "score": 5.02,
     "year": 1996
   },
   {
     "country": "Greece",
-    "score": "5.01",
+    "score": 5.01,
     "year": 1996
   },
   {
     "country": "Taiwan",
-    "score": "4.98",
+    "score": 4.98,
     "year": 1996
   },
   {
     "country": "Jordan",
-    "score": "4.89",
+    "score": 4.89,
     "year": 1996
   },
   {
     "country": "Hungary",
-    "score": "4.86",
+    "score": 4.86,
     "year": 1996
   },
   {
     "country": "Spain",
-    "score": "4.31",
+    "score": 4.31,
     "year": 1996
   },
   {
     "country": "Turkey",
-    "score": "3.54",
+    "score": 3.54,
     "year": 1996
   },
   {
     "country": "Italy",
-    "score": "3.42",
+    "score": 3.42,
     "year": 1996
   },
   {
     "country": "Argentina",
-    "score": "3.41",
+    "score": 3.41,
     "year": 1996
   },
   {
     "country": "Bolivia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 1996
   },
   {
     "country": "Thailand",
-    "score": "3.33",
+    "score": 3.33,
     "year": 1996
   },
   {
     "country": "Mexico",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1996
   },
   {
     "country": "Ecuador",
-    "score": "3.19",
+    "score": 3.19,
     "year": 1996
   },
   {
     "country": "Brazil",
-    "score": "2.96",
+    "score": 2.96,
     "year": 1996
   },
   {
     "country": "Egypt",
-    "score": "2.84",
+    "score": 2.84,
     "year": 1996
   },
   {
     "country": "Colombia",
-    "score": "2.73",
+    "score": 2.73,
     "year": 1996
   },
   {
     "country": "Uganda",
-    "score": "2.71",
+    "score": 2.71,
     "year": 1996
   },
   {
     "country": "Philippines",
-    "score": "2.69",
+    "score": 2.69,
     "year": 1996
   },
   {
     "country": "Indonesia",
-    "score": "2.65",
+    "score": 2.65,
     "year": 1996
   },
   {
     "country": "India",
-    "score": "2.63",
+    "score": 2.63,
     "year": 1996
   },
   {
     "country": "Russia",
-    "score": "2.58",
+    "score": 2.58,
     "year": 1996
   },
   {
     "country": "Venezuela",
-    "score": "2.5",
+    "score": 2.5,
     "year": 1996
   },
   {
     "country": "Cameroon",
-    "score": "2.46",
+    "score": 2.46,
     "year": 1996
   },
   {
     "country": "China",
-    "score": "2.43",
+    "score": 2.43,
     "year": 1996
   },
   {
     "country": "Bangladesh",
-    "score": "2.29",
+    "score": 2.29,
     "year": 1996
   },
   {
     "country": "Kenya",
-    "score": "2.21",
+    "score": 2.21,
     "year": 1996
   },
   {
     "country": "Pakistan",
-    "score": "1",
+    "score": 1,
     "year": 1996
   },
   {
     "country": "Nigeria",
-    "score": "0.69",
+    "score": 0.69,
     "year": 1996
   },
   {
     "country": "Denmark",
-    "score": "9.94",
+    "score": 9.94,
     "year": 1997
   },
   {
     "country": "Finland",
-    "score": "9.48",
+    "score": 9.48,
     "year": 1997
   },
   {
     "country": "Sweden",
-    "score": "9.35",
+    "score": 9.35,
     "year": 1997
   },
   {
     "country": "New Zealand",
-    "score": "9.23",
+    "score": 9.23,
     "year": 1997
   },
   {
     "country": "Canada",
-    "score": "9.1",
+    "score": 9.1,
     "year": 1997
   },
   {
     "country": "Netherlands",
-    "score": "9.03",
+    "score": 9.03,
     "year": 1997
   },
   {
     "country": "Norway",
-    "score": "8.92",
+    "score": 8.92,
     "year": 1997
   },
   {
     "country": "Australia",
-    "score": "8.86",
+    "score": 8.86,
     "year": 1997
   },
   {
     "country": "Singapore",
-    "score": "8.66",
-    "year": null
+    "score": 8.66,
+    "year": ""
   },
   {
     "country": "Luxemburg",
-    "score": "8.61",
+    "score": 8.61,
     "year": 1997
   },
   {
     "country": "Switzerland",
-    "score": "8.61",
+    "score": 8.61,
     "year": 1997
   },
   {
     "country": "Ireland",
-    "score": "8.28",
+    "score": 8.28,
     "year": 1997
   },
   {
     "country": "Germany",
-    "score": "8.23",
+    "score": 8.23,
     "year": 1997
   },
   {
     "country": "United Kingdom",
-    "score": "8.22",
+    "score": 8.22,
     "year": 1997
   },
   {
     "country": "Israel",
-    "score": "7.97",
+    "score": 7.97,
     "year": 1997
   },
   {
     "country": "USA",
-    "score": "7.61",
+    "score": 7.61,
     "year": 1997
   },
   {
     "country": "Austria",
-    "score": "7.61",
+    "score": 7.61,
     "year": 1997
   },
   {
     "country": "Hong Kong",
-    "score": "7.28",
+    "score": 7.28,
     "year": 1997
   },
   {
     "country": "Portugal",
-    "score": "6.97",
+    "score": 6.97,
     "year": 1997
   },
   {
     "country": "France",
-    "score": "6.66",
+    "score": 6.66,
     "year": 1997
   },
   {
     "country": "Japan",
-    "score": "6.57",
+    "score": 6.57,
     "year": 1997
   },
   {
     "country": "Costa Rica",
-    "score": "6.45",
+    "score": 6.45,
     "year": 1997
   },
   {
     "country": "Chile",
-    "score": "6.05",
+    "score": 6.05,
     "year": 1997
   },
   {
     "country": "Spain",
-    "score": "5.9",
+    "score": 5.9,
     "year": 1997
   },
   {
     "country": "Greece",
-    "score": "5.35",
+    "score": 5.35,
     "year": 1997
   },
   {
     "country": "Belgium",
-    "score": "5.25",
+    "score": 5.25,
     "year": 1997
   },
   {
     "country": "Czech Republic",
-    "score": "5.2",
+    "score": 5.2,
     "year": 1997
   },
   {
     "country": "Hungary",
-    "score": "5.18",
+    "score": 5.18,
     "year": 1997
   },
   {
     "country": "Poland",
-    "score": "5.08",
+    "score": 5.08,
     "year": 1997
   },
   {
     "country": "Italy",
-    "score": "5.03",
+    "score": 5.03,
     "year": 1997
   },
   {
     "country": "Taiwan",
-    "score": "5.02",
+    "score": 5.02,
     "year": 1997
   },
   {
     "country": "Malaysia",
-    "score": "5.01",
+    "score": 5.01,
     "year": 1997
   },
   {
     "country": "South Africa",
-    "score": "4.95",
+    "score": 4.95,
     "year": 1997
   },
   {
     "country": "South Korea",
-    "score": "4.29",
+    "score": 4.29,
     "year": 1997
   },
   {
     "country": "Uruguay",
-    "score": "4.14",
+    "score": 4.14,
     "year": 1997
   },
   {
     "country": "Brazil",
-    "score": "3.56",
+    "score": 3.56,
     "year": 1997
   },
   {
     "country": "Romania",
-    "score": "3.44",
+    "score": 3.44,
     "year": 1997
   },
   {
     "country": "Turkey",
-    "score": "3.21",
+    "score": 3.21,
     "year": 1997
   },
   {
     "country": "Thailand",
-    "score": "3.06",
+    "score": 3.06,
     "year": 1997
   },
   {
     "country": "Philippines",
-    "score": "3.05",
+    "score": 3.05,
     "year": 1997
   },
   {
     "country": "China",
-    "score": "2.88",
+    "score": 2.88,
     "year": 1997
   },
   {
     "country": "Argentina",
-    "score": "2.81",
+    "score": 2.81,
     "year": 1997
   },
   {
     "country": "Vietnam",
-    "score": "2.79",
+    "score": 2.79,
     "year": 1997
   },
   {
     "country": "Venezuela",
-    "score": "2.77",
+    "score": 2.77,
     "year": 1997
   },
   {
     "country": "India",
-    "score": "2.75",
-    "year": null
+    "score": 2.75,
+    "year": ""
   },
   {
     "country": "Indonesia",
-    "score": "2.72",
+    "score": 2.72,
     "year": 1997
   },
   {
     "country": "Mexico",
-    "score": "2.66",
+    "score": 2.66,
     "year": 1997
   },
   {
     "country": "Pakistan",
-    "score": "2.66",
+    "score": 2.66,
     "year": 1997
   },
   {
     "country": "Russia",
-    "score": "2.27",
+    "score": 2.27,
     "year": 1997
   },
   {
     "country": "Colombia",
-    "score": "2.23",
+    "score": 2.23,
     "year": 1997
   },
   {
     "country": "Bolivia",
-    "score": "2.05",
+    "score": 2.05,
     "year": 1997
   },
   {
     "country": "Nigeri",
-    "score": "1.76",
+    "score": 1.76,
     "year": 1997
   },
   {
     "country": "Denmark",
-    "score": "10",
+    "score": 10,
     "year": 1998
   },
   {
     "country": "Finland",
-    "score": "9.6",
+    "score": 9.6,
     "year": 1998
   },
   {
     "country": "Sweden",
-    "score": "9.5",
+    "score": 9.5,
     "year": 1998
   },
   {
     "country": "New Zealand",
-    "score": "9.4",
+    "score": 9.4,
     "year": 1998
   },
   {
     "country": "Iceland",
-    "score": "9.3",
+    "score": 9.3,
     "year": 1998
   },
   {
     "country": "Canada",
-    "score": "9.2",
+    "score": 9.2,
     "year": 1998
   },
   {
     "country": "Singapore",
-    "score": "9.1",
+    "score": 9.1,
     "year": 1998
   },
   {
     "country": "Netherlands",
-    "score": "9",
+    "score": 9,
     "year": 1998
   },
   {
     "country": "Norway",
-    "score": "9",
+    "score": 9,
     "year": 1998
   },
   {
     "country": "Switzerland",
-    "score": "8.9",
+    "score": 8.9,
     "year": 1998
   },
   {
     "country": "Australia",
-    "score": "8.7",
+    "score": 8.7,
     "year": 1998
   },
   {
     "country": "Luxembourg",
-    "score": "8.7",
+    "score": 8.7,
     "year": 1998
   },
   {
     "country": "United Kingdom",
-    "score": "8.7",
+    "score": 8.7,
     "year": 1998
   },
   {
     "country": "Ireland",
-    "score": "8.2",
+    "score": 8.2,
     "year": 1998
   },
   {
     "country": "Germany",
-    "score": "7.9",
+    "score": 7.9,
     "year": 1998
   },
   {
     "country": "Hong Kong",
-    "score": "7.8",
+    "score": 7.8,
     "year": 1998
   },
   {
     "country": "Austria",
-    "score": "7.5",
+    "score": 7.5,
     "year": 1998
   },
   {
     "country": "United States",
-    "score": "7.5",
+    "score": 7.5,
     "year": 1998
   },
   {
     "country": "Israel",
-    "score": "7.1",
+    "score": 7.1,
     "year": 1998
   },
   {
     "country": "Chile",
-    "score": "6.8",
+    "score": 6.8,
     "year": 1998
   },
   {
     "country": "France",
-    "score": "6.7",
+    "score": 6.7,
     "year": 1998
   },
   {
     "country": "Portugal",
-    "score": "6.5",
+    "score": 6.5,
     "year": 1998
   },
   {
     "country": "Botswana",
-    "score": "6.1",
+    "score": 6.1,
     "year": 1998
   },
   {
     "country": "Spain",
-    "score": "6.1",
+    "score": 6.1,
     "year": 1998
   },
   {
     "country": "Japan",
-    "score": "5.8",
+    "score": 5.8,
     "year": 1998
   },
   {
     "country": "Estonia",
-    "score": "5.7",
+    "score": 5.7,
     "year": 1998
   },
   {
     "country": "Costa Rica",
-    "score": "5.6",
+    "score": 5.6,
     "year": 1998
   },
   {
     "country": "Belgium",
-    "score": "5.4",
+    "score": 5.4,
     "year": 1998
   },
   {
     "country": "Malaysia",
-    "score": "5.3",
+    "score": 5.3,
     "year": 1998
   },
   {
     "country": "Namibia",
-    "score": "5.3",
+    "score": 5.3,
     "year": 1998
   },
   {
     "country": "Taiwan",
-    "score": "5.3",
+    "score": 5.3,
     "year": 1998
   },
   {
     "country": "South Africa",
-    "score": "5.2",
+    "score": 5.2,
     "year": 1998
   },
   {
     "country": "Hungary",
-    "score": "5",
+    "score": 5,
     "year": 1998
   },
   {
     "country": "Mauritius",
-    "score": "5",
+    "score": 5,
     "year": 1998
   },
   {
     "country": "Tunisia",
-    "score": "5",
+    "score": 5,
     "year": 1998
   },
   {
     "country": "Greece",
-    "score": "4.9",
+    "score": 4.9,
     "year": 1998
   },
   {
     "country": "Czech Republic",
-    "score": "4.8",
+    "score": 4.8,
     "year": 1998
   },
   {
     "country": "Jordan",
-    "score": "4.7",
+    "score": 4.7,
     "year": 1998
   },
   {
     "country": "Italy",
-    "score": "4.6",
+    "score": 4.6,
     "year": 1998
   },
   {
     "country": "Poland",
-    "score": "4.6",
+    "score": 4.6,
     "year": 1998
   },
   {
     "country": "Peru",
-    "score": "4.5",
+    "score": 4.5,
     "year": 1998
   },
   {
     "country": "Uruguay",
-    "score": "4.3",
+    "score": 4.3,
     "year": 1998
   },
   {
     "country": "South Korea",
-    "score": "4.2",
+    "score": 4.2,
     "year": 1998
   },
   {
     "country": "Zimbabwe",
-    "score": "4.2",
+    "score": 4.2,
     "year": 1998
   },
   {
     "country": "Malawi",
-    "score": "4.1",
+    "score": 4.1,
     "year": 1998
   },
   {
     "country": "Brazil",
-    "score": "4",
+    "score": 4,
     "year": 1998
   },
   {
     "country": "Belarus",
-    "score": "3.9",
+    "score": 3.9,
     "year": 1998
   },
   {
     "country": "Slovak Republic",
-    "score": "3.9",
+    "score": 3.9,
     "year": 1998
   },
   {
     "country": "Jamaica",
-    "score": "3.8",
+    "score": 3.8,
     "year": 1998
   },
   {
     "country": "Morocco",
-    "score": "3.7",
+    "score": 3.7,
     "year": 1998
   },
   {
     "country": "El Salvador",
-    "score": "3.6",
+    "score": 3.6,
     "year": 1998
   },
   {
     "country": "China",
-    "score": "3.5",
+    "score": 3.5,
     "year": 1998
   },
   {
     "country": "Zambia",
-    "score": "3.5",
+    "score": 3.5,
     "year": 1998
   },
   {
     "country": "Turkey",
-    "score": "3.4",
+    "score": 3.4,
     "year": 1998
   },
   {
     "country": "Ghana",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1998
   },
   {
     "country": "Mexico",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1998
   },
   {
     "country": "Philippines",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1998
   },
   {
     "country": "Senegal",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1998
   },
   {
     "country": "Ivory Coast",
-    "score": "3.1",
+    "score": 3.1,
     "year": 1998
   },
   {
     "country": "Guatemala",
-    "score": "3.1",
+    "score": 3.1,
     "year": 1998
   },
   {
     "country": "Argentina",
-    "score": "3",
+    "score": 3,
     "year": 1998
   },
   {
     "country": "Nicaragua",
-    "score": "3",
+    "score": 3,
     "year": 1998
   },
   {
     "country": "Romania",
-    "score": "3",
+    "score": 3,
     "year": 1998
   },
   {
     "country": "Thailand",
-    "score": "3",
+    "score": 3,
     "year": 1998
   },
   {
     "country": "Yugoslavia",
-    "score": "3",
+    "score": 3,
     "year": 1998
   },
   {
     "country": "Bulgaria",
-    "score": "2.9",
+    "score": 2.9,
     "year": 1998
   },
   {
     "country": "Egypt",
-    "score": "2.9",
+    "score": 2.9,
     "year": 1998
   },
   {
     "country": "India",
-    "score": "2.9",
+    "score": 2.9,
     "year": 1998
   },
   {
     "country": "Bolivia",
-    "score": "2.8",
+    "score": 2.8,
     "year": 1998
   },
   {
     "country": "Ukraine",
-    "score": "2.8",
+    "score": 2.8,
     "year": 1998
   },
   {
     "country": "Latvia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 1998
   },
   {
     "country": "Pakistan",
-    "score": "2.7",
+    "score": 2.7,
     "year": 1998
   },
   {
     "country": "Uganda",
-    "score": "2.6",
+    "score": 2.6,
     "year": 1998
   },
   {
     "country": "Kenya",
-    "score": "2.5",
+    "score": 2.5,
     "year": 1998
   },
   {
     "country": "Vietnam",
-    "score": "2.5",
+    "score": 2.5,
     "year": 1998
   },
   {
     "country": "Russia",
-    "score": "2.4",
+    "score": 2.4,
     "year": 1998
   },
   {
     "country": "Ecuador",
-    "score": "2.3",
+    "score": 2.3,
     "year": 1998
   },
   {
     "country": "Venezuela",
-    "score": "2.3",
+    "score": 2.3,
     "year": 1998
   },
   {
     "country": "Colombia",
-    "score": "2.2",
+    "score": 2.2,
     "year": 1998
   },
   {
     "country": "Indonesia",
-    "score": "2",
+    "score": 2,
     "year": 1998
   },
   {
     "country": "Nigeria",
-    "score": "1.9",
+    "score": 1.9,
     "year": 1998
   },
   {
     "country": "Tanzania",
-    "score": "1.9",
+    "score": 1.9,
     "year": 1998
   },
   {
     "country": "Honduras",
-    "score": "1.7",
+    "score": 1.7,
     "year": 1998
   },
   {
     "country": "Paraguay",
-    "score": "1.5",
+    "score": 1.5,
     "year": 1998
   },
   {
     "country": "Cameroon",
-    "score": "1.4",
+    "score": 1.4,
     "year": 1998
   },
   {
     "country": "Denmark",
-    "score": "10",
+    "score": 10,
     "year": 1999
   },
   {
     "country": "Finland",
-    "score": "9.8",
+    "score": 9.8,
     "year": 1999
   },
   {
     "country": "New Zealand",
-    "score": "9.4",
+    "score": 9.4,
     "year": 1999
   },
   {
     "country": "Sweden",
-    "score": "9.4",
+    "score": 9.4,
     "year": 1999
   },
   {
     "country": "Canada",
-    "score": "9.2",
+    "score": 9.2,
     "year": 1999
   },
   {
     "country": "Iceland",
-    "score": "9.2",
+    "score": 9.2,
     "year": 1999
   },
   {
     "country": "Singapore",
-    "score": "9.1",
+    "score": 9.1,
     "year": 1999
   },
   {
     "country": "Netherlands",
-    "score": "9",
+    "score": 9,
     "year": 1999
   },
   {
     "country": "Norway",
-    "score": "8.9",
+    "score": 8.9,
     "year": 1999
   },
   {
     "country": "Switzerland",
-    "score": "8.9",
+    "score": 8.9,
     "year": 1999
   },
   {
     "country": "Luxembourg",
-    "score": "8.8",
+    "score": 8.8,
     "year": 1999
   },
   {
     "country": "Australia",
-    "score": "8.7",
+    "score": 8.7,
     "year": 1999
   },
   {
     "country": "United Kingdom",
-    "score": "8.6",
+    "score": 8.6,
     "year": 1999
   },
   {
     "country": "Germany",
-    "score": "8",
+    "score": 8,
     "year": 1999
   },
   {
     "country": "Hong Kong",
-    "score": "7.7",
+    "score": 7.7,
     "year": 1999
   },
   {
     "country": "Ireland",
-    "score": "7.7",
+    "score": 7.7,
     "year": 1999
   },
   {
     "country": "Austria",
-    "score": "7.6",
+    "score": 7.6,
     "year": 1999
   },
   {
     "country": "USA",
-    "score": "7.5",
+    "score": 7.5,
     "year": 1999
   },
   {
     "country": "Chile",
-    "score": "6.9",
+    "score": 6.9,
     "year": 1999
   },
   {
     "country": "Israel",
-    "score": "6.8",
+    "score": 6.8,
     "year": 1999
   },
   {
     "country": "Portugal",
-    "score": "6.7",
+    "score": 6.7,
     "year": 1999
   },
   {
     "country": "France",
-    "score": "6.6",
+    "score": 6.6,
     "year": 1999
   },
   {
     "country": "Spain",
-    "score": "6.6",
+    "score": 6.6,
     "year": 1999
   },
   {
     "country": "Botswana",
-    "score": "6.1",
+    "score": 6.1,
     "year": 1999
   },
   {
     "country": "Japan",
-    "score": "6",
+    "score": 6,
     "year": 1999
   },
   {
     "country": "Slovenia",
-    "score": "6",
+    "score": 6,
     "year": 1999
   },
   {
     "country": "Estonia",
-    "score": "5.7",
+    "score": 5.7,
     "year": 1999
   },
   {
     "country": "Taiwan",
-    "score": "5.6",
+    "score": 5.6,
     "year": 1999
   },
   {
     "country": "Belgium",
-    "score": "5.3",
+    "score": 5.3,
     "year": 1999
   },
   {
     "country": "Namibia",
-    "score": "5.3",
+    "score": 5.3,
     "year": 1999
   },
   {
     "country": "Hungary",
-    "score": "5.2",
+    "score": 5.2,
     "year": 1999
   },
   {
     "country": "Costa Rica",
-    "score": "5.1",
+    "score": 5.1,
     "year": 1999
   },
   {
     "country": "Malaysia",
-    "score": "5.1",
+    "score": 5.1,
     "year": 1999
   },
   {
     "country": "South Africa",
-    "score": "5",
+    "score": 5,
     "year": 1999
   },
   {
     "country": "Tunisia",
-    "score": "5",
+    "score": 5,
     "year": 1999
   },
   {
     "country": "Greece",
-    "score": "4.9",
+    "score": 4.9,
     "year": 1999
   },
   {
     "country": "Mauritius",
-    "score": "4.9",
+    "score": 4.9,
     "year": 1999
   },
   {
     "country": "Italy",
-    "score": "4.7",
+    "score": 4.7,
     "year": 1999
   },
   {
     "country": "Czech Republic",
-    "score": "4.6",
+    "score": 4.6,
     "year": 1999
   },
   {
     "country": "Peru",
-    "score": "4.5",
+    "score": 4.5,
     "year": 1999
   },
   {
     "country": "Jordan",
-    "score": "4.4",
+    "score": 4.4,
     "year": 1999
   },
   {
     "country": "Uruguay",
-    "score": "4.4",
+    "score": 4.4,
     "year": 1999
   },
   {
     "country": "Mongolia",
-    "score": "4.3",
+    "score": 4.3,
     "year": 1999
   },
   {
     "country": "Poland",
-    "score": "4.2",
+    "score": 4.2,
     "year": 1999
   },
   {
     "country": "Brazil",
-    "score": "4.1",
+    "score": 4.1,
     "year": 1999
   },
   {
     "country": "Malawi",
-    "score": "4.1",
+    "score": 4.1,
     "year": 1999
   },
   {
     "country": "Morocco",
-    "score": "4.1",
+    "score": 4.1,
     "year": 1999
   },
   {
     "country": "Zimbabwe",
-    "score": "4.1",
+    "score": 4.1,
     "year": 1999
   },
   {
     "country": "El Salvador",
-    "score": "3.9",
+    "score": 3.9,
     "year": 1999
   },
   {
     "country": "Jamaica",
-    "score": "3.8",
+    "score": 3.8,
     "year": 1999
   },
   {
     "country": "Lithuania",
-    "score": "3.8",
+    "score": 3.8,
     "year": 1999
   },
   {
     "country": "South Korea",
-    "score": "3.8",
+    "score": 3.8,
     "year": 1999
   },
   {
     "country": "Slovak Republic",
-    "score": "3.7",
+    "score": 3.7,
     "year": 1999
   },
   {
     "country": "Philippines",
-    "score": "3.6",
+    "score": 3.6,
     "year": 1999
   },
   {
     "country": "Turkey",
-    "score": "3.6",
+    "score": 3.6,
     "year": 1999
   },
   {
     "country": "Mozambique",
-    "score": "3.5",
+    "score": 3.5,
     "year": 1999
   },
   {
     "country": "Zambia",
-    "score": "3.5",
+    "score": 3.5,
     "year": 1999
   },
   {
     "country": "Belarus",
-    "score": "3.4",
+    "score": 3.4,
     "year": 1999
   },
   {
     "country": "China",
-    "score": "3.4",
+    "score": 3.4,
     "year": 1999
   },
   {
     "country": "Latvia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 1999
   },
   {
     "country": "Mexico",
-    "score": "3.4",
+    "score": 3.4,
     "year": 1999
   },
   {
     "country": "Senegal",
-    "score": "3.4",
+    "score": 3.4,
     "year": 1999
   },
   {
     "country": "Bulgaria",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1999
   },
   {
     "country": "Egypt",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1999
   },
   {
     "country": "Ghana",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1999
   },
   {
     "country": "Macedonia",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1999
   },
   {
     "country": "Romania",
-    "score": "3.3",
+    "score": 3.3,
     "year": 1999
   },
   {
     "country": "Guatemala",
-    "score": "3.2",
+    "score": 3.2,
     "year": 1999
   },
   {
     "country": "Thailand",
-    "score": "3.2",
+    "score": 3.2,
     "year": 1999
   },
   {
     "country": "Nicaragua",
-    "score": "3.1",
+    "score": 3.1,
     "year": 1999
   },
   {
     "country": "Argentina",
-    "score": "3",
+    "score": 3,
     "year": 1999
   },
   {
     "country": "Colombia",
-    "score": "2.9",
+    "score": 2.9,
     "year": 1999
   },
   {
     "country": "India",
-    "score": "2.9",
+    "score": 2.9,
     "year": 1999
   },
   {
     "country": "Croatia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 1999
   },
   {
     "country": "Ivory Coast",
-    "score": "2.6",
+    "score": 2.6,
     "year": 1999
   },
   {
     "country": "Moldova",
-    "score": "2.6",
+    "score": 2.6,
     "year": 1999
   },
   {
     "country": "Ukraine",
-    "score": "2.6",
+    "score": 2.6,
     "year": 1999
   },
   {
     "country": "Venezuela",
-    "score": "2.6",
+    "score": 2.6,
     "year": 1999
   },
   {
     "country": "Vietnam",
-    "score": "2.6",
+    "score": 2.6,
     "year": 1999
   },
   {
     "country": "Armenia",
-    "score": "2.5",
+    "score": 2.5,
     "year": 1999
   },
   {
     "country": "Bolivia",
-    "score": "2.5",
+    "score": 2.5,
     "year": 1999
   },
   {
     "country": "Ecuador",
-    "score": "2.4",
+    "score": 2.4,
     "year": 1999
   },
   {
     "country": "Russia",
-    "score": "2.4",
+    "score": 2.4,
     "year": 1999
   },
   {
     "country": "Albania",
-    "score": "2.3",
+    "score": 2.3,
     "year": 1999
   },
   {
     "country": "Georgia",
-    "score": "2.3",
+    "score": 2.3,
     "year": 1999
   },
   {
     "country": "Kazakhstan",
-    "score": "2.3",
+    "score": 2.3,
     "year": 1999
   },
   {
     "country": "Kyrgyz Republic",
-    "score": "2.2",
+    "score": 2.2,
     "year": 1999
   },
   {
     "country": "Pakistan",
-    "score": "2.2",
+    "score": 2.2,
     "year": 1999
   },
   {
     "country": "Uganda",
-    "score": "2.2",
+    "score": 2.2,
     "year": 1999
   },
   {
     "country": "Kenya",
-    "score": "2",
+    "score": 2,
     "year": 1999
   },
   {
     "country": "Paraguay",
-    "score": "2",
+    "score": 2,
     "year": 1999
   },
   {
     "country": "Yugoslavia",
-    "score": "2",
+    "score": 2,
     "year": 1999
   },
   {
     "country": "Tanzania",
-    "score": "1.9",
+    "score": 1.9,
     "year": 1999
   },
   {
     "country": "Honduras",
-    "score": "1.8",
+    "score": 1.8,
     "year": 1999
   },
   {
     "country": "Uzbekistan",
-    "score": "1.8",
+    "score": 1.8,
     "year": 1999
   },
   {
     "country": "Azerbaijan",
-    "score": "1.7",
+    "score": 1.7,
     "year": 1999
   },
   {
     "country": "Indonesia",
-    "score": "1.7",
+    "score": 1.7,
     "year": 1999
   },
   {
     "country": "Nigeria",
-    "score": "1.6",
+    "score": 1.6,
     "year": 1999
   },
   {
     "country": "Cameroon",
-    "score": "1.5",
+    "score": 1.5,
     "year": 1999
   },
   {
     "country": "Finland",
-    "score": "10",
+    "score": 10,
     "year": 2000
   },
   {
     "country": "Denmark",
-    "score": "9.8",
+    "score": 9.8,
     "year": 2000
   },
   {
     "country": "New Zealand",
-    "score": "9.4",
+    "score": 9.4,
     "year": 2000
   },
   {
     "country": "Sweden",
-    "score": "9.4",
+    "score": 9.4,
     "year": 2000
   },
   {
     "country": "Canada",
-    "score": "9.2",
+    "score": 9.2,
     "year": 2000
   },
   {
     "country": "Iceland",
-    "score": "9.1",
+    "score": 9.1,
     "year": 2000
   },
   {
     "country": "Norway",
-    "score": "9.1",
+    "score": 9.1,
     "year": 2000
   },
   {
     "country": "Singapore",
-    "score": "9.1",
+    "score": 9.1,
     "year": 2000
   },
   {
     "country": "Netherlands",
-    "score": "8.9",
+    "score": 8.9,
     "year": 2000
   },
   {
     "country": "United Kingdom",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2000
   },
   {
     "country": "Luxembourg",
-    "score": "8.6",
+    "score": 8.6,
     "year": 2000
   },
   {
     "country": "Switzerland",
-    "score": "8.6",
+    "score": 8.6,
     "year": 2000
   },
   {
     "country": "Australia",
-    "score": "8.3",
+    "score": 8.3,
     "year": 2000
   },
   {
     "country": "USA",
-    "score": "7.8",
+    "score": 7.8,
     "year": 2000
   },
   {
     "country": "Austria",
-    "score": "7.7",
+    "score": 7.7,
     "year": 2000
   },
   {
     "country": "Hong Kong",
-    "score": "7.7",
+    "score": 7.7,
     "year": 2000
   },
   {
     "country": "Germany",
-    "score": "7.6",
+    "score": 7.6,
     "year": 2000
   },
   {
     "country": "Chile",
-    "score": "7.4",
+    "score": 7.4,
     "year": 2000
   },
   {
     "country": "Ireland",
-    "score": "7.2",
+    "score": 7.2,
     "year": 2000
   },
   {
     "country": "Spain",
-    "score": "7",
+    "score": 7,
     "year": 2000
   },
   {
     "country": "France",
-    "score": "6.7",
+    "score": 6.7,
     "year": 2000
   },
   {
     "country": "Israel",
-    "score": "6.6",
+    "score": 6.6,
     "year": 2000
   },
   {
     "country": "Japan",
-    "score": "6.4",
+    "score": 6.4,
     "year": 2000
   },
   {
     "country": "Portugal",
-    "score": "6.4",
+    "score": 6.4,
     "year": 2000
   },
   {
     "country": "Belgium",
-    "score": "6.1",
+    "score": 6.1,
     "year": 2000
   },
   {
     "country": "Botswana",
-    "score": "6",
+    "score": 6,
     "year": 2000
   },
   {
     "country": "Estonia",
-    "score": "5.7",
+    "score": 5.7,
     "year": 2000
   },
   {
     "country": "Slovenia",
-    "score": "5.5",
+    "score": 5.5,
     "year": 2000
   },
   {
     "country": "Taiwan",
-    "score": "5.5",
+    "score": 5.5,
     "year": 2000
   },
   {
     "country": "Costa Rica",
-    "score": "5.4",
+    "score": 5.4,
     "year": 2000
   },
   {
     "country": "Namibia",
-    "score": "5.4",
+    "score": 5.4,
     "year": 2000
   },
   {
     "country": "Hungary",
-    "score": "5.2",
+    "score": 5.2,
     "year": 2000
   },
   {
     "country": "Tunisia",
-    "score": "5.2",
+    "score": 5.2,
     "year": 2000
   },
   {
     "country": "South Africa",
-    "score": "5",
+    "score": 5,
     "year": 2000
   },
   {
     "country": "Greece",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2000
   },
   {
     "country": "Malaysia",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2000
   },
   {
     "country": "Mauritius",
-    "score": "4.7",
+    "score": 4.7,
     "year": 2000
   },
   {
     "country": "Morocco",
-    "score": "4.7",
+    "score": 4.7,
     "year": 2000
   },
   {
     "country": "Italy",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2000
   },
   {
     "country": "Jordan",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2000
   },
   {
     "country": "Peru",
-    "score": "4.4",
+    "score": 4.4,
     "year": 2000
   },
   {
     "country": "Czech Republic",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2000
   },
   {
     "country": "Belarus",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2000
   },
   {
     "country": "El Salvador",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2000
   },
   {
     "country": "Lithuania",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2000
   },
   {
     "country": "Malawi",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2000
   },
   {
     "country": "Poland",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2000
   },
   {
     "country": "South Korea",
-    "score": "4",
+    "score": 4,
     "year": 2000
   },
   {
     "country": "Brazil",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2000
   },
   {
     "country": "Turkey",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2000
   },
   {
     "country": "Croatia",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2000
   },
   {
     "country": "Argentina",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2000
   },
   {
     "country": "Bulgaria",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2000
   },
   {
     "country": "Ghana",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2000
   },
   {
     "country": "Senegal",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2000
   },
   {
     "country": "Slovak Republic",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2000
   },
   {
     "country": "Latvia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2000
   },
   {
     "country": "Zambia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2000
   },
   {
     "country": "Mexico",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2000
   },
   {
     "country": "Colombia",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2000
   },
   {
     "country": "Ethiopia",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2000
   },
   {
     "country": "Thailand",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2000
   },
   {
     "country": "China",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2000
   },
   {
     "country": "Egypt",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2000
   },
   {
     "country": "Burkina Faso",
-    "score": "3",
+    "score": 3,
     "year": 2000
   },
   {
     "country": "Kazakhstan",
-    "score": "3",
+    "score": 3,
     "year": 2000
   },
   {
     "country": "Zimbabwe",
-    "score": "3",
+    "score": 3,
     "year": 2000
   },
   {
     "country": "Romania",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2000
   },
   {
     "country": "India",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2000
   },
   {
     "country": "Philippines",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2000
   },
   {
     "country": "Bolivia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2000
   },
   {
     "country": "Côte-d'Ivoire",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2000
   },
   {
     "country": "Venezuela",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2000
   },
   {
     "country": "Ecuador",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2000
   },
   {
     "country": "Moldova",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2000
   },
   {
     "country": "Armenia",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2000
   },
   {
     "country": "Tanzania",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2000
   },
   {
     "country": "Vietnam",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2000
   },
   {
     "country": "Uzbekistan",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2000
   },
   {
     "country": "Uganda",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2000
   },
   {
     "country": "Mozambique",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2000
   },
   {
     "country": "Kenya",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2000
   },
   {
     "country": "Russia",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2000
   },
   {
     "country": "Cameroon",
-    "score": "2",
+    "score": 2,
     "year": 2000
   },
   {
     "country": "Angola",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2000
   },
   {
     "country": "Indonesia",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2000
   },
   {
     "country": "Azerbaijan",
-    "score": "1.5",
+    "score": 1.5,
     "year": 2000
   },
   {
     "country": "Ukraine",
-    "score": "1.5",
+    "score": 1.5,
     "year": 2000
   },
   {
     "country": "Yugoslavia",
-    "score": "1.3",
+    "score": 1.3,
     "year": 2000
   },
   {
     "country": "Nigeria",
-    "score": "1.2",
+    "score": 1.2,
     "year": 2000
   },
   {
     "country": "Finland",
-    "score": "9.9",
+    "score": 9.9,
     "year": 2001
   },
   {
     "country": "Denmark",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2001
   },
   {
     "country": "New Zealand",
-    "score": "9.4",
+    "score": 9.4,
     "year": 2001
   },
   {
     "country": "Iceland",
-    "score": "9.2",
+    "score": 9.2,
     "year": 2001
   },
   {
     "country": "Singapore",
-    "score": "9.2",
+    "score": 9.2,
     "year": 2001
   },
   {
     "country": "Sweden",
-    "score": "9.0",
+    "score": 9,
     "year": 2001
   },
   {
     "country": "Canada",
-    "score": "8.9",
+    "score": 8.9,
     "year": 2001
   },
   {
     "country": "Netherlands",
-    "score": "8.8",
+    "score": 8.8,
     "year": 2001
   },
   {
     "country": "Luxembourg",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2001
   },
   {
     "country": "Norway",
-    "score": "8.6",
+    "score": 8.6,
     "year": 2001
   },
   {
     "country": "Australia",
-    "score": "8.5",
+    "score": 8.5,
     "year": 2001
   },
   {
     "country": "Switzerland",
-    "score": "8.4",
+    "score": 8.4,
     "year": 2001
   },
   {
     "country": "United Kingdom",
-    "score": "8.3",
+    "score": 8.3,
     "year": 2001
   },
   {
     "country": "Hong Kong",
-    "score": "7.9",
+    "score": 7.9,
     "year": 2001
   },
   {
     "country": "Austria",
-    "score": "7.8",
+    "score": 7.8,
     "year": 2001
   },
   {
     "country": "Israel",
-    "score": "7.6",
+    "score": 7.6,
     "year": 2001
   },
   {
     "country": "USA",
-    "score": "7.6",
+    "score": 7.6,
     "year": 2001
   },
   {
     "country": "Chile",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2001
   },
   {
     "country": "Ireland",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2001
   },
   {
     "country": "Germany",
-    "score": "7.4",
+    "score": 7.4,
     "year": 2001
   },
   {
     "country": "Japan",
-    "score": "7.1",
+    "score": 7.1,
     "year": 2001
   },
   {
     "country": "Spain",
-    "score": "7.0",
+    "score": 7,
     "year": 2001
   },
   {
     "country": "France",
-    "score": "6.7",
+    "score": 6.7,
     "year": 2001
   },
   {
     "country": "Belgium",
-    "score": "6.6",
+    "score": 6.6,
     "year": 2001
   },
   {
     "country": "Portugal",
-    "score": "6.3",
+    "score": 6.3,
     "year": 2001
   },
   {
     "country": "Botswana",
-    "score": "6.0",
+    "score": 6,
     "year": 2001
   },
   {
     "country": "Taiwan",
-    "score": "5.9",
+    "score": 5.9,
     "year": 2001
   },
   {
     "country": "Estonia",
-    "score": "5.6",
+    "score": 5.6,
     "year": 2001
   },
   {
     "country": "Italy",
-    "score": "5.5",
+    "score": 5.5,
     "year": 2001
   },
   {
     "country": "Namibia",
-    "score": "5.4",
+    "score": 5.4,
     "year": 2001
   },
   {
     "country": "Hungary",
-    "score": "5.3",
+    "score": 5.3,
     "year": 2001
   },
   {
     "country": "Trinidad & Tobago",
-    "score": "5.3",
+    "score": 5.3,
     "year": 2001
   },
   {
     "country": "Tunisia",
-    "score": "5.3",
+    "score": 5.3,
     "year": 2001
   },
   {
     "country": "Slovenia",
-    "score": "5.2",
+    "score": 5.2,
     "year": 2001
   },
   {
     "country": "Uruguay",
-    "score": "5.1",
+    "score": 5.1,
     "year": 2001
   },
   {
     "country": "Malaysia",
-    "score": "5.0",
+    "score": 5,
     "year": 2001
   },
   {
     "country": "Jordan",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2001
   },
   {
     "country": "Lithuania",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2001
   },
   {
     "country": "South Africa",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2001
   },
   {
     "country": "Costa Rica",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2001
   },
   {
     "country": "Mauritius",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2001
   },
   {
     "country": "Greece",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2001
   },
   {
     "country": "South Korea",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2001
   },
   {
     "country": "Peru",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2001
   },
   {
     "country": "Poland",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2001
   },
   {
     "country": "Brazil",
-    "score": "4.0",
+    "score": 4,
     "year": 2001
   },
   {
     "country": "Bulgaria",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2001
   },
   {
     "country": "Croatia",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2001
   },
   {
     "country": "Czech Republic",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2001
   },
   {
     "country": "Colombia",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2001
   },
   {
     "country": "Mexico",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2001
   },
   {
     "country": "Panama",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2001
   },
   {
     "country": "Slovak Republic",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2001
   },
   {
     "country": "Egypt",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2001
   },
   {
     "country": "El Salvador",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2001
   },
   {
     "country": "Turkey",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2001
   },
   {
     "country": "Argentina",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2001
   },
   {
     "country": "China",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2001
   },
   {
     "country": "Ghana",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2001
   },
   {
     "country": "Latvia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2001
   },
   {
     "country": "Malawi",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2001
   },
   {
     "country": "Thailand",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2001
   },
   {
     "country": "Dominican Rep",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2001
   },
   {
     "country": "Moldova",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2001
   },
   {
     "country": "Guatemala",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2001
   },
   {
     "country": "Philippines",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2001
   },
   {
     "country": "Senegal",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2001
   },
   {
     "country": "Zimbabwe",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2001
   },
   {
     "country": "Romania",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2001
   },
   {
     "country": "Venezuela",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2001
   },
   {
     "country": "Honduras",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2001
   },
   {
     "country": "India",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2001
   },
   {
     "country": "Kazakhstan",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2001
   },
   {
     "country": "Uzbekistan",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2001
   },
   {
     "country": "Vietnam",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2001
   },
   {
     "country": "Zambia",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2001
   },
   {
     "country": "Cote d´Ivoire",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2001
   },
   {
     "country": "Nicaragua",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2001
   },
   {
     "country": "Ecuador",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2001
   },
   {
     "country": "Pakistan",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2001
   },
   {
     "country": "Russia",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2001
   },
   {
     "country": "Tanzania",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2001
   },
   {
     "country": "Ukraine",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2001
   },
   {
     "country": "Azerbaijan",
-    "score": "2.0",
+    "score": 2,
     "year": 2001
   },
   {
     "country": "Bolivia",
-    "score": "2.0",
+    "score": 2,
     "year": 2001
   },
   {
     "country": "Cameroon",
-    "score": "2.0",
+    "score": 2,
     "year": 2001
   },
   {
     "country": "Kenya",
-    "score": "2.0",
+    "score": 2,
     "year": 2001
   },
   {
     "country": "Indonesia",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2001
   },
   {
     "country": "Uganda",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2001
   },
   {
     "country": "Nigeria",
-    "score": "1.0",
+    "score": 1,
     "year": 2001
   },
   {
     "country": "Bangladesh",
-    "score": "0.4",
+    "score": 0.4,
     "year": 2001
   },
   {
     "country": "Finland",
-    "score": "9.7",
+    "score": 9.7,
     "year": 2002
   },
   {
     "country": "Denmark",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2002
   },
   {
     "country": "New Zealand",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2002
   },
   {
     "country": "Iceland",
-    "score": "9.4",
+    "score": 9.4,
     "year": 2002
   },
   {
     "country": "Singapore",
-    "score": "9.3",
+    "score": 9.3,
     "year": 2002
   },
   {
     "country": "Sweden",
-    "score": "9.3",
+    "score": 9.3,
     "year": 2002
   },
   {
     "country": "Canada",
-    "score": "9.0",
+    "score": 9,
     "year": 2002
   },
   {
     "country": "Luxembourg",
-    "score": "9.0",
+    "score": 9,
     "year": 2002
   },
   {
     "country": "Netherlands",
-    "score": "9.0",
+    "score": 9,
     "year": 2002
   },
   {
     "country": "United Kingdom",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2002
   },
   {
     "country": "Australia",
-    "score": "8.6",
+    "score": 8.6,
     "year": 2002
   },
   {
     "country": "Norway",
-    "score": "8.5",
+    "score": 8.5,
     "year": 2002
   },
   {
     "country": "Switzerland",
-    "score": "8.5",
+    "score": 8.5,
     "year": 2002
   },
   {
     "country": "Hong Kong",
-    "score": "8.2",
+    "score": 8.2,
     "year": 2002
   },
   {
     "country": "Austria",
-    "score": "7.8",
+    "score": 7.8,
     "year": 2002
   },
   {
     "country": "USA",
-    "score": "7.7",
+    "score": 7.7,
     "year": 2002
   },
   {
     "country": "Chile",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2002
   },
   {
     "country": "Germany",
-    "score": "7.3",
+    "score": 7.3,
     "year": 2002
   },
   {
     "country": "Israel",
-    "score": "7.3",
+    "score": 7.3,
     "year": 2002
   },
   {
     "country": "Belgium",
-    "score": "7.1",
+    "score": 7.1,
     "year": 2002
   },
   {
     "country": "Japan",
-    "score": "7.1",
+    "score": 7.1,
     "year": 2002
   },
   {
     "country": "Spain",
-    "score": "7.1",
+    "score": 7.1,
     "year": 2002
   },
   {
     "country": "Ireland",
-    "score": "6.9",
+    "score": 6.9,
     "year": 2002
   },
   {
     "country": "Botswana",
-    "score": "6.4",
+    "score": 6.4,
     "year": 2002
   },
   {
     "country": "France",
-    "score": "6.3",
+    "score": 6.3,
     "year": 2002
   },
   {
     "country": "Portugal",
-    "score": "6.3",
+    "score": 6.3,
     "year": 2002
   },
   {
     "country": "Slovenia",
-    "score": "6.0",
+    "score": 6,
     "year": 2002
   },
   {
     "country": "Namibia",
-    "score": "5.7",
+    "score": 5.7,
     "year": 2002
   },
   {
     "country": "Estonia",
-    "score": "5.6",
+    "score": 5.6,
     "year": 2002
   },
   {
     "country": "Taiwan",
-    "score": "5.6",
+    "score": 5.6,
     "year": 2002
   },
   {
     "country": "Italy",
-    "score": "5.2",
+    "score": 5.2,
     "year": 2002
   },
   {
     "country": "Uruguay",
-    "score": "5.1",
+    "score": 5.1,
     "year": 2002
   },
   {
     "country": "Hungary",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2002
   },
   {
     "country": "Malaysia",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2002
   },
   {
     "country": "Trinidad & Tobago",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2002
   },
   {
     "country": "Belarus",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2002
   },
   {
     "country": "Lithuania",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2002
   },
   {
     "country": "South Africa",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2002
   },
   {
     "country": "Tunisia",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2002
   },
   {
     "country": "Costa Rica",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2002
   },
   {
     "country": "Jordan",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2002
   },
   {
     "country": "Mauritius",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2002
   },
   {
     "country": "South Korea",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2002
   },
   {
     "country": "Greece",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2002
   },
   {
     "country": "Brazil",
-    "score": "4.0",
+    "score": 4,
     "year": 2002
   },
   {
     "country": "Bulgaria",
-    "score": "4.0",
+    "score": 4,
     "year": 2002
   },
   {
     "country": "Jamaica",
-    "score": "4.0",
+    "score": 4,
     "year": 2002
   },
   {
     "country": "Peru",
-    "score": "4.0",
+    "score": 4,
     "year": 2002
   },
   {
     "country": "Poland",
-    "score": "4.0",
+    "score": 4,
     "year": 2002
   },
   {
     "country": "Ghana",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2002
   },
   {
     "country": "Croatia",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2002
   },
   {
     "country": "Czech Republic",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2002
   },
   {
     "country": "Latvia",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2002
   },
   {
     "country": "Morocco",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2002
   },
   {
     "country": "Slovak Republic",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2002
   },
   {
     "country": "Sri Lanka",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2002
   },
   {
     "country": "Colombia",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2002
   },
   {
     "country": "Mexico",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2002
   },
   {
     "country": "China",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2002
   },
   {
     "country": "Dominican Rep.",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2002
   },
   {
     "country": "Ethiopia",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2002
   },
   {
     "country": "Egypt",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2002
   },
   {
     "country": "El Salvador",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2002
   },
   {
     "country": "Thailand",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2002
   },
   {
     "country": "Turkey",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2002
   },
   {
     "country": "Senegal",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2002
   },
   {
     "country": "Panama",
-    "score": "3.0",
+    "score": 3,
     "year": 2002
   },
   {
     "country": "Malawi",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2002
   },
   {
     "country": "Uzbekistan",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2002
   },
   {
     "country": "Argentina",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2002
   },
   {
     "country": "Cote d'Ivoire",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2002
   },
   {
     "country": "Honduras",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2002
   },
   {
     "country": "India",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2002
   },
   {
     "country": "Russia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2002
   },
   {
     "country": "Tanzania",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2002
   },
   {
     "country": "Zimbabwe",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2002
   },
   {
     "country": "Pakistan",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2002
   },
   {
     "country": "Philippines",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2002
   },
   {
     "country": "Romania",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2002
   },
   {
     "country": "Zambia",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2002
   },
   {
     "country": "Albania",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2002
   },
   {
     "country": "Guatemala",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2002
   },
   {
     "country": "Nicaragua",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2002
   },
   {
     "country": "Venezuela",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2002
   },
   {
     "country": "Georgia",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2002
   },
   {
     "country": "Ukraine",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2002
   },
   {
     "country": "Vietnam",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2002
   },
   {
     "country": "Kazakhstan",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2002
   },
   {
     "country": "Bolivia",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2002
   },
   {
     "country": "Cameroon",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2002
   },
   {
     "country": "Ecuador",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2002
   },
   {
     "country": "Haiti",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2002
   },
   {
     "country": "Moldova",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2002
   },
   {
     "country": "Uganda",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2002
   },
   {
     "country": "Azerbaijan",
-    "score": "2.0",
+    "score": 2,
     "year": 2002
   },
   {
     "country": "Indonesia",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2002
   },
   {
     "country": "Kenya",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2002
   },
   {
     "country": "Angola",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2002
   },
   {
     "country": "Madagascar",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2002
   },
   {
     "country": "Paraguay",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2002
   },
   {
     "country": "Nigeria",
-    "score": "1.6",
+    "score": 1.6,
     "year": 2002
   },
   {
     "country": "Bangladesh",
-    "score": "1.2",
+    "score": 1.2,
     "year": 2002
   },
   {
     "country": "Finland",
-    "score": "9.7",
+    "score": 9.7,
     "year": 2003
   },
   {
     "country": "Iceland",
-    "score": "9.6",
+    "score": 9.6,
     "year": 2003
   },
   {
     "country": "Denmark",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2003
   },
   {
     "country": "New Zealand",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2003
   },
   {
     "country": "Singapore",
-    "score": "9.4",
+    "score": 9.4,
     "year": 2003
   },
   {
     "country": "Sweden",
-    "score": "9.3",
+    "score": 9.3,
     "year": 2003
   },
   {
     "country": "Netherlands",
-    "score": "8.9",
+    "score": 8.9,
     "year": 2003
   },
   {
     "country": "Australia",
-    "score": "8.8",
+    "score": 8.8,
     "year": 2003
   },
   {
     "country": "Norway",
-    "score": "8.8",
+    "score": 8.8,
     "year": 2003
   },
   {
     "country": "Switzerland",
-    "score": "8.8",
+    "score": 8.8,
     "year": 2003
   },
   {
     "country": "Canada",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2003
   },
   {
     "country": "Luxembourg",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2003
   },
   {
     "country": "United Kingdom",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2003
   },
   {
     "country": "Austria",
-    "score": "8.0",
+    "score": 8,
     "year": 2003
   },
   {
     "country": "Hong Kong",
-    "score": "8.0",
+    "score": 8,
     "year": 2003
   },
   {
     "country": "Germany",
-    "score": "7.7",
+    "score": 7.7,
     "year": 2003
   },
   {
     "country": "Belgium",
-    "score": "7.6",
+    "score": 7.6,
     "year": 2003
   },
   {
     "country": "Ireland",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2003
   },
   {
     "country": "USA",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2003
   },
   {
     "country": "Chile",
-    "score": "7.4",
+    "score": 7.4,
     "year": 2003
   },
   {
     "country": "Israel",
-    "score": "7.0",
+    "score": 7,
     "year": 2003
   },
   {
     "country": "Japan",
-    "score": "7.0",
+    "score": 7,
     "year": 2003
   },
   {
     "country": "France",
-    "score": "6.9",
+    "score": 6.9,
     "year": 2003
   },
   {
     "country": "Spain",
-    "score": "6.9",
+    "score": 6.9,
     "year": 2003
   },
   {
     "country": "Portugal",
-    "score": "6.6",
+    "score": 6.6,
     "year": 2003
   },
   {
     "country": "Oman",
-    "score": "6.3",
+    "score": 6.3,
     "year": 2003
   },
   {
     "country": "Bahrain",
-    "score": "6.1",
+    "score": 6.1,
     "year": 2003
   },
   {
     "country": "Cyprus",
-    "score": "6.1",
+    "score": 6.1,
     "year": 2003
   },
   {
     "country": "Slovenia",
-    "score": "5.9",
+    "score": 5.9,
     "year": 2003
   },
   {
     "country": "Botswana",
-    "score": "5.7",
+    "score": 5.7,
     "year": 2003
   },
   {
     "country": "Taiwan",
-    "score": "5.7",
+    "score": 5.7,
     "year": 2003
   },
   {
     "country": "Qatar",
-    "score": "5.6",
+    "score": 5.6,
     "year": 2003
   },
   {
     "country": "Estonia",
-    "score": "5.5",
+    "score": 5.5,
     "year": 2003
   },
   {
     "country": "Uruguay",
-    "score": "5.5",
+    "score": 5.5,
     "year": 2003
   },
   {
     "country": "Italy",
-    "score": "5.3",
+    "score": 5.3,
     "year": 2003
   },
   {
     "country": "Kuwait",
-    "score": "5.3",
+    "score": 5.3,
     "year": 2003
   },
   {
     "country": "Malaysia",
-    "score": "5.2",
+    "score": 5.2,
     "year": 2003
   },
   {
     "country": "United Arab Emirates",
-    "score": "5.2",
+    "score": 5.2,
     "year": 2003
   },
   {
     "country": "Tunisia",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2003
   },
   {
     "country": "Hungary",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2003
   },
   {
     "country": "Lithuania",
-    "score": "4.7",
+    "score": 4.7,
     "year": 2003
   },
   {
     "country": "Namibia",
-    "score": "4.7",
+    "score": 4.7,
     "year": 2003
   },
   {
     "country": "Cuba",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2003
   },
   {
     "country": "Jordan",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2003
   },
   {
     "country": "Trinidad and Tobago",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2003
   },
   {
     "country": "Belize",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2003
   },
   {
     "country": "Saudi Arabia",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2003
   },
   {
     "country": "Mauritius",
-    "score": "4.4",
+    "score": 4.4,
     "year": 2003
   },
   {
     "country": "South Africa",
-    "score": "4.4",
+    "score": 4.4,
     "year": 2003
   },
   {
     "country": "Costa Rica",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2003
   },
   {
     "country": "Greece",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2003
   },
   {
     "country": "South Korea",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2003
   },
   {
     "country": "Belarus",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2003
   },
   {
     "country": "Brazil",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2003
   },
   {
     "country": "Bulgaria",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2003
   },
   {
     "country": "Czech Republic",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2003
   },
   {
     "country": "Jamaica",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2003
   },
   {
     "country": "Latvia",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2003
   },
   {
     "country": "Colombia",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2003
   },
   {
     "country": "Croatia",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2003
   },
   {
     "country": "El Salvador",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2003
   },
   {
     "country": "Peru",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2003
   },
   {
     "country": "Slovakia",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2003
   },
   {
     "country": "Mexico",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2003
   },
   {
     "country": "Poland",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2003
   },
   {
     "country": "China",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2003
   },
   {
     "country": "Panama",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2003
   },
   {
     "country": "Sri Lanka",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2003
   },
   {
     "country": "Syria",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2003
   },
   {
     "country": "Bosnia & Herzegovina",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2003
   },
   {
     "country": "Dominican Republic",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2003
   },
   {
     "country": "Egypt",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2003
   },
   {
     "country": "Ghana",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2003
   },
   {
     "country": "Morocco",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2003
   },
   {
     "country": "Thailand",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2003
   },
   {
     "country": "Senegal",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2003
   },
   {
     "country": "Turkey",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2003
   },
   {
     "country": "Armenia",
-    "score": "3.0",
+    "score": 3,
     "year": 2003
   },
   {
     "country": "Iran",
-    "score": "3.0",
+    "score": 3,
     "year": 2003
   },
   {
     "country": "Lebanon",
-    "score": "3.0",
+    "score": 3,
     "year": 2003
   },
   {
     "country": "Mali",
-    "score": "3.0",
-    "year": 2003,
-    "FIELD4": 2003,
-    "FIELD5": null
+    "score": 3,
+    "year": 2003
   },
   {
     "country": "Palestine",
-    "score": "3.0",
+    "score": 3,
     "year": 2003
   },
   {
     "country": "India",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2003
   },
   {
     "country": "Malawi",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2003
   },
   {
     "country": "Romania",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2003
   },
   {
     "country": "Mozambique",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2003
   },
   {
     "country": "Russia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2003
   },
   {
     "country": "Algeria",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2003
   },
   {
     "country": "Madagascar",
-    "score": "2.6",
-    "year": null
+    "score": 2.6,
+    "year": ""
   },
   {
     "country": "Nicaragua",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2003
   },
   {
     "country": "Yemen",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2003
   },
   {
     "country": "Albania",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Argentina",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Ethiopia",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Gambia",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Pakistan",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Philippines",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Tanzania",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Zambia",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2003
   },
   {
     "country": "Guatemala",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2003
   },
   {
     "country": "Kazakhstan",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2003
   },
   {
     "country": "Moldova",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2003
   },
   {
     "country": "Uzbekistan",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2003
   },
   {
     "country": "Venezuela",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2003
   },
   {
     "country": "Vietnam",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2003
   },
   {
     "country": "Bolivia",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2003
   },
   {
     "country": "Honduras",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2003
   },
   {
     "country": "Macedonia",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2003
   },
   {
     "country": "Serbia & Montenegro",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2003
   },
   {
     "country": "Sudan",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2003
   },
   {
     "country": "Ukraine",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2003
   },
   {
     "country": "Zimbabwe",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2003
   },
   {
     "country": "Ecuador",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2003
   },
   {
     "country": "Iraq",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2003
   },
   {
     "country": "Sierra Leone",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2003
   },
   {
     "country": "Uganda",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2003
   },
   {
     "country": "Cote d'Ivoire",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2003
   },
   {
     "country": "Kyrgyzstan",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2003
   },
   {
     "country": "Libya",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2003
   },
   {
     "country": "Papua New Guinea",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2003
   },
   {
     "country": "Indonesia",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2003
   },
   {
     "country": "Kenya",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2003
   },
   {
     "country": "Angola",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2003
   },
   {
     "country": "Azerbaijan",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2003
   },
   {
     "country": "Cameroon",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2003
   },
   {
     "country": "Georgia",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2003
   },
   {
     "country": "Tajikistan",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2003
   },
   {
     "country": "Myanmar",
-    "score": "1.6",
+    "score": 1.6,
     "year": 2003
   },
   {
     "country": "Paraguay",
-    "score": "1.6",
+    "score": 1.6,
     "year": 2003
   },
   {
     "country": "Haiti",
-    "score": "1.5",
+    "score": 1.5,
     "year": 2003
   },
   {
     "country": "Nigeria",
-    "score": "1.4",
+    "score": 1.4,
     "year": 2003
   },
   {
     "country": "Bangladesh",
-    "score": "1.3",
+    "score": 1.3,
     "year": 2003
   },
   {
     "country": "Finland",
-    "score": "9.7",
+    "score": 9.7,
     "year": 2004
   },
   {
     "country": "New Zealand",
-    "score": "9.6",
+    "score": 9.6,
     "year": 2004
   },
   {
     "country": "Denmark",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2004
   },
   {
     "country": "Iceland",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2004
   },
   {
     "country": "Singapore",
-    "score": "9.3",
+    "score": 9.3,
     "year": 2004
   },
   {
     "country": "Sweden",
-    "score": "9.2",
+    "score": 9.2,
     "year": 2004
   },
   {
     "country": "Switzerland",
-    "score": "9.1",
+    "score": 9.1,
     "year": 2004
   },
   {
     "country": "Norway",
-    "score": "8.9",
+    "score": 8.9,
     "year": 2004
   },
   {
     "country": "Australia",
-    "score": "8.8",
+    "score": 8.8,
     "year": 2004
   },
   {
     "country": "Netherlands",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2004
   },
   {
     "country": "United Kingdom",
-    "score": "8.6",
+    "score": 8.6,
     "year": 2004
   },
   {
     "country": "Canada",
-    "score": "8.5",
+    "score": 8.5,
     "year": 2004
   },
   {
     "country": "Austria",
-    "score": "8.4",
+    "score": 8.4,
     "year": 2004
   },
   {
     "country": "Luxembourg",
-    "score": "8.4",
+    "score": 8.4,
     "year": 2004
   },
   {
     "country": "Germany",
-    "score": "8.2",
+    "score": 8.2,
     "year": 2004
   },
   {
     "country": "Hong Kong",
-    "score": "8.0",
+    "score": 8,
     "year": 2004
   },
   {
     "country": "Belgium",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2004
   },
   {
     "country": "Ireland",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2004
   },
   {
     "country": "USA",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2004
   },
   {
     "country": "Chile",
-    "score": "7.4",
+    "score": 7.4,
     "year": 2004
   },
   {
     "country": "Barbados",
-    "score": "7.3",
+    "score": 7.3,
     "year": 2004
   },
   {
     "country": "France",
-    "score": "7.1",
+    "score": 7.1,
     "year": 2004
   },
   {
     "country": "Spain",
-    "score": "7.1",
+    "score": 7.1,
     "year": 2004
   },
   {
     "country": "Japan",
-    "score": "6.9",
+    "score": 6.9,
     "year": 2004
   },
   {
     "country": "Malta",
-    "score": "6.8",
+    "score": 6.8,
     "year": 2004
   },
   {
     "country": "Israel",
-    "score": "6.4",
+    "score": 6.4,
     "year": 2004
   },
   {
     "country": "Portugal",
-    "score": "6.3",
+    "score": 6.3,
     "year": 2004
   },
   {
     "country": "Uruguay",
-    "score": "6.2",
+    "score": 6.2,
     "year": 2004
   },
   {
     "country": "Oman",
-    "score": "6.1",
+    "score": 6.1,
     "year": 2004
   },
   {
     "country": "United Arab Emirates",
-    "score": "6.1",
+    "score": 6.1,
     "year": 2004
   },
   {
     "country": "Botswana",
-    "score": "6.0",
+    "score": 6,
     "year": 2004
   },
   {
     "country": "Estonia",
-    "score": "6.0",
+    "score": 6,
     "year": 2004
   },
   {
     "country": "Slovenia",
-    "score": "6.0",
+    "score": 6,
     "year": 2004
   },
   {
     "country": "Bahrain",
-    "score": "5.8",
+    "score": 5.8,
     "year": 2004
   },
   {
     "country": "Taiwan",
-    "score": "5.6",
+    "score": 5.6,
     "year": 2004
   },
   {
     "country": "Cyprus",
-    "score": "5.4",
+    "score": 5.4,
     "year": 2004
   },
   {
     "country": "Jordan",
-    "score": "5.3",
+    "score": 5.3,
     "year": 2004
   },
   {
     "country": "Qatar",
-    "score": "5.2",
+    "score": 5.2,
     "year": 2004
   },
   {
     "country": "Malaysia",
-    "score": "5.0",
+    "score": 5,
     "year": 2004
   },
   {
     "country": "Tunisia",
-    "score": "5.0",
+    "score": 5,
     "year": 2004
   },
   {
     "country": "Costa Rica",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2004
   },
   {
     "country": "Hungary",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2004
   },
   {
     "country": "Italy",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2004
   },
   {
     "country": "Kuwait",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2004
   },
   {
     "country": "Lithuania",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2004
   },
   {
     "country": "South Africa",
-    "score": "4.6",
+    "score": 4.6,
     "year": 2004
   },
   {
     "country": "South Korea",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2004
   },
   {
     "country": "Seychelles",
-    "score": "4.4",
+    "score": 4.4,
     "year": 2004
   },
   {
     "country": "Greece",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2004
   },
   {
     "country": "Suriname",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2004
   },
   {
     "country": "Czech Republic",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2004
   },
   {
     "country": "El Salvador",
-    "score": "4.2",
-    "year": 2004,
-    "FIELD4": 2004,
-    "FIELD5": null
+    "score": 4.2,
+    "year": 2004
   },
   {
     "country": "Trinidad and Tobago",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2004
   },
   {
     "country": "Bulgaria",
-    "score": "4.1",
-    "year": 2004,
-    "FIELD4": 2004,
-    "FIELD5": null
+    "score": 4.1,
+    "year": 2004
   },
   {
     "country": "Mauritius",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2004
   },
   {
     "country": "Namibia",
-    "score": "4.1",
+    "score": 4.1,
     "year": 2004
   },
   {
     "country": "Latvia",
-    "score": "4.0",
+    "score": 4,
     "year": 2004
   },
   {
     "country": "Slovakia",
-    "score": "4.0",
+    "score": 4,
     "year": 2004
   },
   {
     "country": "Brazil",
-    "score": "3.9",
+    "score": 3.9,
     "year": 2004
   },
   {
     "country": "Belize",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2004
   },
   {
     "country": "Colombia",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2004
   },
   {
     "country": "Cuba",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2004
   },
   {
     "country": "Panama",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2004
   },
   {
     "country": "Ghana",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2004
   },
   {
     "country": "Mexico",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2004
   },
   {
     "country": "Thailand",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2004
   },
   {
     "country": "Croatia",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2004
   },
   {
     "country": "Peru",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2004
   },
   {
     "country": "Poland",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2004
   },
   {
     "country": "Sri Lanka",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2004
   },
   {
     "country": "China",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2004
   },
   {
     "country": "Saudi Arabia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2004
   },
   {
     "country": "Syria",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2004
   },
   {
     "country": "Belarus",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2004
   },
   {
     "country": "Gabon",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2004
   },
   {
     "country": "Jamaica",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2004
   },
   {
     "country": "Benin",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2004
   },
   {
     "country": "Egypt",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2004
   },
   {
     "country": "Mali",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2004
   },
   {
     "country": "Morocco",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2004
   },
   {
     "country": "Turkey",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2004
   },
   {
     "country": "Armenia",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2004
   },
   {
     "country": "Bosnia and Herzegovina",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2004
   },
   {
     "country": "Madagascar",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2004
   },
   {
-    "country": "85",
+    "country": 85,
     "score": "Mongolia",
-    "year": 3,
-    "FIELD4": 2004,
-    "FIELD5": null
+    "year": 3
   },
   {
     "country": "Senegal",
-    "score": "3.0",
+    "score": 3,
     "year": 2004
   },
   {
     "country": "Dominican Republic",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2004
   },
   {
     "country": "Iran",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2004
   },
   {
     "country": "Romania",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2004
   },
   {
     "country": "Gambia",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2004
   },
   {
     "country": "India",
-    "score": "2.8",
-    "year": 2004,
-    "FIELD4": 2004,
-    "FIELD5": null
+    "score": 2.8,
+    "year": 2004
   },
   {
     "country": "Malawi",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2004
   },
   {
     "country": "Mozambique",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2004
   },
   {
     "country": "Nepal",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2004
   },
   {
     "country": "Russia",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2004
   },
   {
     "country": "Tanzania",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2004
   },
   {
     "country": "Algeria",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2004
   },
   {
     "country": "Lebanon",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2004
   },
   {
     "country": "Macedonia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2004
   },
   {
     "country": "Nicaragua",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2004
   },
   {
     "country": "Serbia and Montenegro",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2004
   },
   {
     "country": "Eritrea",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2004
   },
   {
     "country": "Papua New Guinea",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2004
   },
   {
     "country": "Philippines",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2004
   },
   {
     "country": "Uganda",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2004
   },
   {
     "country": "Vietnam",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2004
   },
   {
     "country": "Zambia",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2004
   },
   {
     "country": "Albania",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2004
   },
   {
     "country": "Argentina",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2004
   },
   {
     "country": "Libya",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2004
   },
   {
     "country": "Palestinian Authority",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2004
   },
   {
     "country": "Ecuador",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2004
   },
   {
     "country": "Yemen",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2004
   },
   {
     "country": "Congo. Republic of",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Ethiopia",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Honduras",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Moldova",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Sierra Leone",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Uzbekistan",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Venezuela",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Zimbabwe",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2004
   },
   {
     "country": "Bolivia",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2004
   },
   {
     "country": "Guatemala",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2004
   },
   {
     "country": "Kazakhstan",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2004
   },
   {
     "country": "Kyrgyzstan",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2004
   },
   {
     "country": "Niger",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2004
   },
   {
     "country": "Sudan",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2004
   },
   {
     "country": "Ukraine",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2004
   },
   {
     "country": "Cameroon",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2004
   },
   {
     "country": "Iraq",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2004
   },
   {
     "country": "Kenya",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2004
   },
   {
     "country": "Pakistan",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2004
   },
   {
     "country": "Angola",
-    "score": "2.0",
+    "score": 2,
     "year": 2004
   },
   {
     "country": "Congo. Democratic Republic",
-    "score": "2.0",
+    "score": 2,
     "year": 2004
   },
   {
     "country": "Cote d´Ivoire",
-    "score": "2.0",
+    "score": 2,
     "year": 2004
   },
   {
     "country": "Georgia",
-    "score": "2.0",
+    "score": 2,
     "year": 2004
   },
   {
     "country": "Indonesia",
-    "score": "2.0",
+    "score": 2,
     "year": 2004
   },
   {
     "country": "Tajikistan",
-    "score": "2.0",
+    "score": 2,
     "year": 2004
   },
   {
     "country": "Turkmenistan",
-    "score": "2.0",
+    "score": 2,
     "year": 2004
   },
   {
     "country": "Azerbaijan",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2004
   },
   {
     "country": "Paraguay",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2004
   },
   {
     "country": "Chad",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2004
   },
   {
     "country": "Myanmar",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2004
   },
   {
     "country": "Nigeria",
-    "score": "1.6",
+    "score": 1.6,
     "year": 2004
   },
   {
     "country": "Bangladesh",
-    "score": "1.5",
+    "score": 1.5,
     "year": 2004
   },
   {
     "country": "Haiti",
-    "score": "1.5",
+    "score": 1.5,
     "year": 2004
   },
   {
     "country": "Iceland",
-    "score": "9.7",
+    "score": 9.7,
     "year": 2005
   },
   {
     "country": "Finland",
-    "score": "9.6",
+    "score": 9.6,
     "year": 2005
   },
   {
     "country": "New Zealand",
-    "score": "9.6",
+    "score": 9.6,
     "year": 2005
   },
   {
     "country": "Denmark",
-    "score": "9.5",
+    "score": 9.5,
     "year": 2005
   },
   {
     "country": "Singapore",
-    "score": "9.4",
+    "score": 9.4,
     "year": 2005
   },
   {
     "country": "Sweden",
-    "score": "9.2",
+    "score": 9.2,
     "year": 2005
   },
   {
     "country": "Switzerland",
-    "score": "9.1",
+    "score": 9.1,
     "year": 2005
   },
   {
     "country": "Norway",
-    "score": "8.9",
+    "score": 8.9,
     "year": 2005
   },
   {
     "country": "Australia",
-    "score": "8.8",
+    "score": 8.8,
     "year": 2005
   },
   {
     "country": "Austria",
-    "score": "8.7",
+    "score": 8.7,
     "year": 2005
   },
   {
     "country": "Netherlands",
-    "score": "8.6",
+    "score": 8.6,
     "year": 2005
   },
   {
     "country": "United Kingdom",
-    "score": "8.6",
+    "score": 8.6,
     "year": 2005
   },
   {
     "country": "Luxembourg",
-    "score": "8.5",
+    "score": 8.5,
     "year": 2005
   },
   {
     "country": "Canada",
-    "score": "8.4",
+    "score": 8.4,
     "year": 2005
   },
   {
     "country": "Hong Kong",
-    "score": "8.3",
+    "score": 8.3,
     "year": 2005
   },
   {
     "country": "Germany",
-    "score": "8.2",
+    "score": 8.2,
     "year": 2005
   },
   {
     "country": "USA",
-    "score": "7.6",
+    "score": 7.6,
     "year": 2005
   },
   {
     "country": "France",
-    "score": "7.5",
+    "score": 7.5,
     "year": 2005
   },
   {
     "country": "Belgium",
-    "score": "7.4",
+    "score": 7.4,
     "year": 2005
   },
   {
     "country": "Ireland",
-    "score": "7.4",
+    "score": 7.4,
     "year": 2005
   },
   {
     "country": "Chile",
-    "score": "7.3",
+    "score": 7.3,
     "year": 2005
   },
   {
     "country": "Japan",
-    "score": "7.3",
+    "score": 7.3,
     "year": 2005
   },
   {
     "country": "Spain",
-    "score": "7.0",
+    "score": 7,
     "year": 2005
   },
   {
     "country": "Barbados",
-    "score": "6.9",
+    "score": 6.9,
     "year": 2005
   },
   {
     "country": "Malta",
-    "score": "6.6",
+    "score": 6.6,
     "year": 2005
   },
   {
     "country": "Portugal",
-    "score": "6.5",
+    "score": 6.5,
     "year": 2005
   },
   {
     "country": "Estonia",
-    "score": "6.4",
+    "score": 6.4,
     "year": 2005
   },
   {
     "country": "Israel",
-    "score": "6.3",
+    "score": 6.3,
     "year": 2005
   },
   {
     "country": "Oman",
-    "score": "6.3",
+    "score": 6.3,
     "year": 2005
   },
   {
     "country": "United Arab Emirates",
-    "score": "6.2",
+    "score": 6.2,
     "year": 2005
   },
   {
     "country": "Slovenia",
-    "score": "6.1",
+    "score": 6.1,
     "year": 2005
   },
   {
     "country": "Botswana",
-    "score": "5.9",
+    "score": 5.9,
     "year": 2005
   },
   {
     "country": "Qatar",
-    "score": "5.9",
+    "score": 5.9,
     "year": 2005
   },
   {
     "country": "Taiwan",
-    "score": "5.9",
+    "score": 5.9,
     "year": 2005
   },
   {
     "country": "Uruguay",
-    "score": "5.9",
+    "score": 5.9,
     "year": 2005
   },
   {
     "country": "Bahrain",
-    "score": "5.8",
+    "score": 5.8,
     "year": 2005
   },
   {
     "country": "Cyprus",
-    "score": "5.7",
+    "score": 5.7,
     "year": 2005
   },
   {
     "country": "Jordan",
-    "score": "5.7",
+    "score": 5.7,
     "year": 2005
   },
   {
     "country": "Malaysia",
-    "score": "5.1",
+    "score": 5.1,
     "year": 2005
   },
   {
     "country": "Hungary",
-    "score": "5.0",
+    "score": 5,
     "year": 2005
   },
   {
     "country": "Italy",
-    "score": "5.0",
+    "score": 5,
     "year": 2005
   },
   {
     "country": "South Korea",
-    "score": "5.0",
+    "score": 5,
     "year": 2005
   },
   {
     "country": "Tunisia",
-    "score": "4.9",
+    "score": 4.9,
     "year": 2005
   },
   {
     "country": "Lithuania",
-    "score": "4.8",
+    "score": 4.8,
     "year": 2005
   },
   {
     "country": "Kuwait",
-    "score": "4.7",
+    "score": 4.7,
     "year": 2005
   },
   {
     "country": "South Africa",
-    "score": "4.5",
+    "score": 4.5,
     "year": 2005
   },
   {
     "country": "Czech Republic",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2005
   },
   {
     "country": "Greece",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2005
   },
   {
     "country": "Namibia",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2005
   },
   {
     "country": "Slovakia",
-    "score": "4.3",
+    "score": 4.3,
     "year": 2005
   },
   {
     "country": "Costa Rica",
-    "score": "4.2",
-    "year": null
+    "score": 4.2,
+    "year": ""
   },
   {
     "country": "El Salvador",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2005
   },
   {
     "country": "Latvia",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2005
   },
   {
     "country": "Mauritius",
-    "score": "4.2",
+    "score": 4.2,
     "year": 2005
   },
   {
     "country": "Bulgaria",
-    "score": "4.0",
+    "score": 4,
     "year": 2005
   },
   {
     "country": "Colombia",
-    "score": "4.0",
+    "score": 4,
     "year": 2005
   },
   {
     "country": "Fiji",
-    "score": "4.0",
+    "score": 4,
     "year": 2005
   },
   {
     "country": "Seychelles",
-    "score": "4.0",
+    "score": 4,
     "year": 2005
   },
   {
     "country": "Cuba",
-    "score": "3.8",
+    "score": 3.8,
     "year": 2005
   },
   {
     "country": "Brazil",
-    "score": "3.7",
+    "score": 3.7,
     "year": 2005
   },
   {
     "country": "Jamaica",
-    "score": "3.6",
+    "score": 3.6,
     "year": 2005
   },
   {
     "country": "Ghana",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2005
   },
   {
     "country": "Mexico",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2005
   },
   {
     "country": "Panama",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2005
   },
   {
     "country": "Peru",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2005
   },
   {
     "country": "Turkey",
-    "score": "3.5",
+    "score": 3.5,
     "year": 2005
   },
   {
     "country": "Burkina Faso",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2005
   },
   {
     "country": "Croatia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2005
   },
   {
     "country": "Egypt",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2005
   },
   {
     "country": "Lesotho",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2005
   },
   {
     "country": "Poland",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2005
   },
   {
     "country": "Saudi Arabia",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2005
   },
   {
     "country": "Syria",
-    "score": "3.4",
+    "score": 3.4,
     "year": 2005
   },
   {
     "country": "Laos",
-    "score": "3.3",
+    "score": 3.3,
     "year": 2005
   },
   {
     "country": "China",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2005
   },
   {
     "country": "Morocco",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2005
   },
   {
     "country": "Senegal",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2005
   },
   {
     "country": "Sri Lanka",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2005
   },
   {
     "country": "Suriname",
-    "score": "3.2",
+    "score": 3.2,
     "year": 2005
   },
   {
     "country": "Lebanon",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2005
   },
   {
     "country": "Rwanda",
-    "score": "3.1",
+    "score": 3.1,
     "year": 2005
   },
   {
     "country": "Dominican Republic",
-    "score": "3.0",
+    "score": 3,
     "year": 2005
   },
   {
     "country": "Mongolia",
-    "score": "3.0",
+    "score": 3,
     "year": 2005
   },
   {
     "country": "Romania",
-    "score": "3.0",
+    "score": 3,
     "year": 2005
   },
   {
     "country": "Armenia",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Benin",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Bosnia and Herzegovina",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Gabon",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "India",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Iran",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Mali",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Moldova",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Tanzania",
-    "score": "2.9",
+    "score": 2.9,
     "year": 2005
   },
   {
     "country": "Algeria",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2005
   },
   {
     "country": "Argentina",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2005
   },
   {
     "country": "Madagascar",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2005
   },
   {
     "country": "Malawi",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2005
   },
   {
     "country": "Mozambique",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2005
   },
   {
     "country": "Serbia and Montenegro",
-    "score": "2.8",
+    "score": 2.8,
     "year": 2005
   },
   {
     "country": "Gambia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2005
   },
   {
     "country": "Macedonia",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2005
   },
   {
     "country": "Swaziland",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2005
   },
   {
     "country": "Yemen",
-    "score": "2.7",
+    "score": 2.7,
     "year": 2005
   },
   {
     "country": "Belarus",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Eritrea",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Honduras",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Kazakhstan",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Nicaragua",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Palestine",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Ukraine",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Vietnam",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Zambia",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Zimbabwe",
-    "score": "2.6",
+    "score": 2.6,
     "year": 2005
   },
   {
     "country": "Afghanistan",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Bolivia",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Ecuador",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Guatemala",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Guyana",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Libya",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Nepal",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Philippines",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Uganda",
-    "score": "2.5",
+    "score": 2.5,
     "year": 2005
   },
   {
     "country": "Albania",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2005
   },
   {
     "country": "Niger",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2005
   },
   {
     "country": "Russia",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2005
   },
   {
     "country": "Sierra Leone",
-    "score": "2.4",
+    "score": 2.4,
     "year": 2005
   },
   {
     "country": "Burundi",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2005
   },
   {
     "country": "Cambodia",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2005
   },
   {
     "country": "Georgia",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2005
   },
   {
     "country": "Kyrgyzstan",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2005
   },
   {
     "country": "Papua New Guinea",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2005
   },
   {
     "country": "Venezuela",
-    "score": "2.3",
+    "score": 2.3,
     "year": 2005
   },
   {
     "country": "Azerbaijan",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2005
   },
   {
     "country": "Cameroon",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2005
   },
   {
     "country": "Ethiopia",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2005
   },
   {
     "country": "Indonesia",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2005
   },
   {
     "country": "Iraq",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2005
   },
   {
     "country": "Liberia",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2005
   },
   {
     "country": "Uzbekistan",
-    "score": "2.2",
+    "score": 2.2,
     "year": 2005
   },
   {
     "country": "Kenya",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2005
   },
   {
     "country": "Pakistan",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2005
   },
   {
     "country": "Paraguay",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2005
   },
   {
     "country": "Somalia",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2005
   },
   {
     "country": "Sudan",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2005
   },
   {
     "country": "Tajikistan",
-    "score": "2.1",
+    "score": 2.1,
     "year": 2005
   },
   {
     "country": "Angola",
-    "score": "2.0",
+    "score": 2,
     "year": 2005
   },
   {
     "country": "Cote d'Ivoire",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2005
   },
   {
     "country": "Equatorial Guinea",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2005
   },
   {
     "country": "Nigeria",
-    "score": "1.9",
+    "score": 1.9,
     "year": 2005
   },
   {
     "country": "Haiti",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2005
   },
   {
     "country": "Myanmar",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2005
   },
   {
     "country": "Turkmenistan",
-    "score": "1.8",
+    "score": 1.8,
     "year": 2005
   },
   {
     "country": "Bangladesh",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2005
   },
   {
     "country": "Chad",
-    "score": "1.7",
+    "score": 1.7,
     "year": 2005
+  },
+  {
+    "country": "Finland",
+    "score": 9.6,
+    "year": 2006
+  },
+  {
+    "country": "Iceland",
+    "score": 9.6,
+    "year": 2006
+  },
+  {
+    "country": "New Zealand",
+    "score": 9.6,
+    "year": 2006
+  },
+  {
+    "country": "Denmark",
+    "score": 9.5,
+    "year": 2006
+  },
+  {
+    "country": "Singapore",
+    "score": 9.4,
+    "year": 2006
+  },
+  {
+    "country": "Sweden",
+    "score": 9.2,
+    "year": 2006
+  },
+  {
+    "country": "Switzerland",
+    "score": 9.1,
+    "year": 2006
+  },
+  {
+    "country": "Norway",
+    "score": 8.8,
+    "year": 2006
+  },
+  {
+    "country": "Australia",
+    "score": 8.7,
+    "year": 2006
+  },
+  {
+    "country": "Netherlands",
+    "score": 8.7,
+    "year": 2006
+  },
+  {
+    "country": "Austria",
+    "score": 8.6,
+    "year": 2006
+  },
+  {
+    "country": "Luxembourg",
+    "score": 8.6,
+    "year": 2006
+  },
+  {
+    "country": "United Kingdom",
+    "score": 8.6,
+    "year": 2006
+  },
+  {
+    "country": "Canada",
+    "score": 8.5,
+    "year": 2006
+  },
+  {
+    "country": "Hong Kong",
+    "score": 8.3,
+    "year": 2006
+  },
+  {
+    "country": "Germany",
+    "score": 8,
+    "year": 2006
+  },
+  {
+    "country": "Japan",
+    "score": 7.6,
+    "year": 2006
+  },
+  {
+    "country": "France",
+    "score": 7.4,
+    "year": 2006
+  },
+  {
+    "country": "Ireland",
+    "score": 7.4,
+    "year": 2006
+  },
+  {
+    "country": "Belgium",
+    "score": 7.3,
+    "year": 2006
+  },
+  {
+    "country": "Chile",
+    "score": 7.3,
+    "year": 2006
+  },
+  {
+    "country": "USA",
+    "score": 7.3,
+    "year": 2006
+  },
+  {
+    "country": "Spain",
+    "score": 6.8,
+    "year": 2006
+  },
+  {
+    "country": "Barbados",
+    "score": 6.7,
+    "year": 2006
+  },
+  {
+    "country": "Estonia",
+    "score": 6.7,
+    "year": 2006
+  },
+  {
+    "country": "Macau",
+    "score": 6.6,
+    "year": 2006
+  },
+  {
+    "country": "Portugal",
+    "score": 6.6,
+    "year": 2006
+  },
+  {
+    "country": "Malta",
+    "score": 6.4,
+    "year": 2006
+  },
+  {
+    "country": "Slovenia",
+    "score": 6.4,
+    "year": 2006
+  },
+  {
+    "country": "Uruguay",
+    "score": 6.4,
+    "year": 2006
+  },
+  {
+    "country": "United Arab Emirates",
+    "score": 6.2,
+    "year": 2006
+  },
+  {
+    "country": "Bhutan",
+    "score": 6,
+    "year": 2006
+  },
+  {
+    "country": "Qatar",
+    "score": 6,
+    "year": 2006
+  },
+  {
+    "country": "Israel",
+    "score": 5.9,
+    "year": 2006
+  },
+  {
+    "country": "Taiwan",
+    "score": 5.9,
+    "year": 2006
+  },
+  {
+    "country": "Bahrain",
+    "score": 5.7,
+    "year": 2006
+  },
+  {
+    "country": "Botswana",
+    "score": 5.6,
+    "year": 2006
+  },
+  {
+    "country": "Cyprus",
+    "score": 5.6,
+    "year": 2006
+  },
+  {
+    "country": "Oman",
+    "score": 5.4,
+    "year": 2006
+  },
+  {
+    "country": "Jordan",
+    "score": 5.3,
+    "year": 2006
+  },
+  {
+    "country": "Hungary",
+    "score": 5.2,
+    "year": 2006
+  },
+  {
+    "country": "Mauritius",
+    "score": 5.1,
+    "year": 2006
+  },
+  {
+    "country": "South Korea",
+    "score": 5.1,
+    "year": 2006
+  },
+  {
+    "country": "Malaysia",
+    "score": 5,
+    "year": 2006
+  },
+  {
+    "country": "Italy",
+    "score": 4.9,
+    "year": 2006
+  },
+  {
+    "country": "Czech Republic",
+    "score": 4.8,
+    "year": 2006
+  },
+  {
+    "country": "Kuwait",
+    "score": 4.8,
+    "year": 2006
+  },
+  {
+    "country": "Lithuania",
+    "score": 4.8,
+    "year": 2006
+  },
+  {
+    "country": "Latvia",
+    "score": 4.7,
+    "year": 2006
+  },
+  {
+    "country": "Slovakia",
+    "score": 4.7,
+    "year": 2006
+  },
+  {
+    "country": "South Africa",
+    "score": 4.6,
+    "year": 2006
+  },
+  {
+    "country": "Tunisia",
+    "score": 4.6,
+    "year": 2006
+  },
+  {
+    "country": "Dominica",
+    "score": 4.5,
+    "year": 2006
+  },
+  {
+    "country": "Greece",
+    "score": 4.4,
+    "year": 2006
+  },
+  {
+    "country": "Costa Rica",
+    "score": 4.1,
+    "year": 2006
+  },
+  {
+    "country": "Namibia",
+    "score": 4.1,
+    "year": 2006
+  },
+  {
+    "country": "Bulgaria",
+    "score": 4,
+    "year": 2006
+  },
+  {
+    "country": "El Salvador",
+    "score": 4,
+    "year": 2006
+  },
+  {
+    "country": "Colombia",
+    "score": 3.9,
+    "year": 2006
+  },
+  {
+    "country": "Turkey",
+    "score": 3.8,
+    "year": 2006
+  },
+  {
+    "country": "Jamaica",
+    "score": 3.7,
+    "year": 2006
+  },
+  {
+    "country": "Poland",
+    "score": 3.7,
+    "year": 2006
+  },
+  {
+    "country": "Lebanon",
+    "score": 3.6,
+    "year": 2006
+  },
+  {
+    "country": "Seychelles",
+    "score": 3.6,
+    "year": 2006
+  },
+  {
+    "country": "Thailand",
+    "score": 3.6,
+    "year": 2006
+  },
+  {
+    "country": "Belize",
+    "score": 3.5,
+    "year": 2006
+  },
+  {
+    "country": "Cuba",
+    "score": 3.5,
+    "year": 2006
+  },
+  {
+    "country": "Grenada",
+    "score": 3.5,
+    "year": 2006
+  },
+  {
+    "country": "Croatia",
+    "score": 3.4,
+    "year": 2006
+  },
+  {
+    "country": "Brazil",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "China",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "Egypt",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "Ghana",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "India",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "Mexico",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "Peru",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "Saudi Arabia",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "Senegal",
+    "score": 3.3,
+    "year": 2006
+  },
+  {
+    "country": "Burkina Faso",
+    "score": 3.2,
+    "year": 2006
+  },
+  {
+    "country": "Lesotho",
+    "score": 3.2,
+    "year": 2006
+  },
+  {
+    "country": "Moldova",
+    "score": 3.2,
+    "year": 2006
+  },
+  {
+    "country": "Morocco",
+    "score": 3.2,
+    "year": 2006
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "score": 3.2,
+    "year": 2006
+  },
+  {
+    "country": "Algeria",
+    "score": 3.1,
+    "year": 2006
+  },
+  {
+    "country": "Madagascar",
+    "score": 3.1,
+    "year": 2006
+  },
+  {
+    "country": "Mauritania",
+    "score": 3.1,
+    "year": 2006
+  },
+  {
+    "country": "Panama",
+    "score": 3.1,
+    "year": 2006
+  },
+  {
+    "country": "Romania",
+    "score": 3.1,
+    "year": 2006
+  },
+  {
+    "country": "Sri Lanka",
+    "score": 3.1,
+    "year": 2006
+  },
+  {
+    "country": "Gabon",
+    "score": 3,
+    "year": 2006
+  },
+  {
+    "country": "Serbia",
+    "score": 3,
+    "year": 2006
+  },
+  {
+    "country": "Suriname",
+    "score": 3,
+    "year": 2006
+  },
+  {
+    "country": "Argentina",
+    "score": 2.9,
+    "year": 2006
+  },
+  {
+    "country": "Armenia",
+    "score": 2.9,
+    "year": 2006
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "score": 2.9,
+    "year": 2006
+  },
+  {
+    "country": "Eritrea",
+    "score": 2.9,
+    "year": 2006
+  },
+  {
+    "country": "Syria",
+    "score": 2.9,
+    "year": 2006
+  },
+  {
+    "country": "Tanzania",
+    "score": 2.9,
+    "year": 2006
+  },
+  {
+    "country": "Dominican Republic",
+    "score": 2.8,
+    "year": 2006
+  },
+  {
+    "country": "Georgia",
+    "score": 2.8,
+    "year": 2006
+  },
+  {
+    "country": "Mali",
+    "score": 2.8,
+    "year": 2006
+  },
+  {
+    "country": "Mongolia",
+    "score": 2.8,
+    "year": 2006
+  },
+  {
+    "country": "Mozambique",
+    "score": 2.8,
+    "year": 2006
+  },
+  {
+    "country": "Ukraine",
+    "score": 2.8,
+    "year": 2006
+  },
+  {
+    "country": "Bolivia",
+    "score": 2.7,
+    "year": 2006
+  },
+  {
+    "country": "Iran",
+    "score": 2.7,
+    "year": 2006
+  },
+  {
+    "country": "Libya",
+    "score": 2.7,
+    "year": 2006
+  },
+  {
+    "country": "Macedonia",
+    "score": 2.7,
+    "year": 2006
+  },
+  {
+    "country": "Malawi",
+    "score": 2.7,
+    "year": 2006
+  },
+  {
+    "country": "Uganda",
+    "score": 2.7,
+    "year": 2006
+  },
+  {
+    "country": "Albania",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Guatemala",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Kazakhstan",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Laos",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Nicaragua",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Paraguay",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Timor-Leste",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Viet Nam",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Yemen",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Zambia",
+    "score": 2.6,
+    "year": 2006
+  },
+  {
+    "country": "Benin",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Gambia",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Guyana",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Honduras",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Nepal",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Philippines",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Russia",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Rwanda",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Swaziland",
+    "score": 2.5,
+    "year": 2006
+  },
+  {
+    "country": "Azerbaijan",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Burundi",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Central African Republic",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Ethiopia",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Indonesia",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Papua New Guinea",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Togo",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Zimbabwe",
+    "score": 2.4,
+    "year": 2006
+  },
+  {
+    "country": "Cameroon",
+    "score": 2.3,
+    "year": 2006
+  },
+  {
+    "country": "Ecuador",
+    "score": 2.3,
+    "year": 2006
+  },
+  {
+    "country": "Niger",
+    "score": 2.3,
+    "year": 2006
+  },
+  {
+    "country": "Venezuela",
+    "score": 2.3,
+    "year": 2006
+  },
+  {
+    "country": "Angola",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Kenya",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Kyrgyzstan",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Nigeria",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Pakistan",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Sierra Leone",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Tajikistan",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Turkmenistan",
+    "score": 2.2,
+    "year": 2006
+  },
+  {
+    "country": "Belarus",
+    "score": 2.1,
+    "year": 2006
+  },
+  {
+    "country": "Cambodia",
+    "score": 2.1,
+    "year": 2006
+  },
+  {
+    "country": "Côte d´Ivoire",
+    "score": 2.1,
+    "year": 2006
+  },
+  {
+    "country": "Equatorial Guinea",
+    "score": 2.1,
+    "year": 2006
+  },
+  {
+    "country": "Uzbekistan",
+    "score": 2.1,
+    "year": 2006
+  },
+  {
+    "country": "Bangladesh",
+    "score": 2,
+    "year": 2006
+  },
+  {
+    "country": "Chad",
+    "score": 2,
+    "year": 2006
+  },
+  {
+    "country": "Sudan",
+    "score": 2,
+    "year": 2006
+  },
+  {
+    "country": "Guinea",
+    "score": 1.9,
+    "year": 2006
+  },
+  {
+    "country": "Iraq",
+    "score": 1.9,
+    "year": 2006
+  },
+  {
+    "country": "Myanmar",
+    "score": 1.9,
+    "year": 2006
+  },
+  {
+    "country": "Haiti",
+    "score": 1.8,
+    "year": 2006
+  },
+  {
+    "country": "Denmark",
+    "score": 9.4,
+    "year": 2007
+  },
+  {
+    "country": "Finland",
+    "score": 9.4,
+    "year": 2007
+  },
+  {
+    "country": "New Zealand",
+    "score": 9.4,
+    "year": 2007
+  },
+  {
+    "country": "Singapore",
+    "score": 9.3,
+    "year": 2007
+  },
+  {
+    "country": "Sweden",
+    "score": 9.3,
+    "year": 2007
+  },
+  {
+    "country": "Iceland",
+    "score": 9.2,
+    "year": 2007
+  },
+  {
+    "country": "Netherlands",
+    "score": 9,
+    "year": 2007
+  },
+  {
+    "country": "Switzerland",
+    "score": 9,
+    "year": 2007
+  },
+  {
+    "country": "Canada",
+    "score": 8.7,
+    "year": 2007
+  },
+  {
+    "country": "Norway",
+    "score": 8.7,
+    "year": 2007
+  },
+  {
+    "country": "Australia",
+    "score": 8.6,
+    "year": 2007
+  },
+  {
+    "country": "Luxembourg",
+    "score": 8.4,
+    "year": 2007
+  },
+  {
+    "country": "United Kingdom",
+    "score": 8.4,
+    "year": 2007
+  },
+  {
+    "country": "Hong Kong",
+    "score": 8.3,
+    "year": 2007
+  },
+  {
+    "country": "Austria",
+    "score": 8.1,
+    "year": 2007
+  },
+  {
+    "country": "Germany",
+    "score": 7.8,
+    "year": 2007
+  },
+  {
+    "country": "Ireland",
+    "score": 7.5,
+    "year": 2007
+  },
+  {
+    "country": "Japan",
+    "score": 7.5,
+    "year": 2007
+  },
+  {
+    "country": "France",
+    "score": 7.3,
+    "year": 2007
+  },
+  {
+    "country": "USA",
+    "score": 7.2,
+    "year": 2007
+  },
+  {
+    "country": "Belgium",
+    "score": 7.1,
+    "year": 2007
+  },
+  {
+    "country": "Chile",
+    "score": 7,
+    "year": 2007
+  },
+  {
+    "country": "Barbados",
+    "score": 6.9,
+    "year": 2007
+  },
+  {
+    "country": "Saint Lucia",
+    "score": 6.8,
+    "year": 2007
+  },
+  {
+    "country": "Spain",
+    "score": 6.7,
+    "year": 2007
+  },
+  {
+    "country": "Uruguay",
+    "score": 6.7,
+    "year": 2007
+  },
+  {
+    "country": "Slovenia",
+    "score": 6.6,
+    "year": 2007
+  },
+  {
+    "country": "Estonia",
+    "score": 6.5,
+    "year": 2007
+  },
+  {
+    "country": "Portugal",
+    "score": 6.5,
+    "year": 2007
+  },
+  {
+    "country": "Israel",
+    "score": 6.1,
+    "year": 2007
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "score": 6.1,
+    "year": 2007
+  },
+  {
+    "country": "Qatar",
+    "score": 6,
+    "year": 2007
+  },
+  {
+    "country": "Malta",
+    "score": 5.8,
+    "year": 2007
+  },
+  {
+    "country": "Macau",
+    "score": 5.7,
+    "year": 2007
+  },
+  {
+    "country": "Taiwan",
+    "score": 5.7,
+    "year": 2007
+  },
+  {
+    "country": "United Arab Emirates",
+    "score": 5.7,
+    "year": 2007
+  },
+  {
+    "country": "Dominica",
+    "score": 5.6,
+    "year": 2007
+  },
+  {
+    "country": "Botswana",
+    "score": 5.4,
+    "year": 2007
+  },
+  {
+    "country": "Cyprus",
+    "score": 5.3,
+    "year": 2007
+  },
+  {
+    "country": "Hungary",
+    "score": 5.3,
+    "year": 2007
+  },
+  {
+    "country": "Czech Republik",
+    "score": 5.2,
+    "year": 2007
+  },
+  {
+    "country": "Italy",
+    "score": 5.2,
+    "year": 2007
+  },
+  {
+    "country": "Malaysia",
+    "score": 5.1,
+    "year": 2007
+  },
+  {
+    "country": "South Africa",
+    "score": 5.1,
+    "year": 2007
+  },
+  {
+    "country": "South Korea",
+    "score": 5.1,
+    "year": 2007
+  },
+  {
+    "country": "Bahrain",
+    "score": 5,
+    "year": 2007
+  },
+  {
+    "country": "Bhutan",
+    "score": 5,
+    "year": 2007
+  },
+  {
+    "country": "Costa Rica",
+    "score": 5,
+    "year": 2007
+  },
+  {
+    "country": "Cape Verde",
+    "score": 4.9,
+    "year": 2007
+  },
+  {
+    "country": "Slovakia",
+    "score": 4.9,
+    "year": 2007
+  },
+  {
+    "country": "Latvia",
+    "score": 4.8,
+    "year": 2007
+  },
+  {
+    "country": "Lithuania",
+    "score": 4.8,
+    "year": 2007
+  },
+  {
+    "country": "Jordan",
+    "score": 4.7,
+    "year": 2007
+  },
+  {
+    "country": "Mauritius",
+    "score": 4.7,
+    "year": 2007
+  },
+  {
+    "country": "Oman",
+    "score": 4.7,
+    "year": 2007
+  },
+  {
+    "country": "Greece",
+    "score": 4.6,
+    "year": 2007
+  },
+  {
+    "country": "Namibia",
+    "score": 4.5,
+    "year": 2007
+  },
+  {
+    "country": "Samoa",
+    "score": 4.5,
+    "year": 2007
+  },
+  {
+    "country": "Seychelles",
+    "score": 4.5,
+    "year": 2007
+  },
+  {
+    "country": "Kuweit",
+    "score": 4.3,
+    "year": 2007
+  },
+  {
+    "country": "Cuba",
+    "score": 4.2,
+    "year": 2007
+  },
+  {
+    "country": "Poland",
+    "score": 4.2,
+    "year": 2007
+  },
+  {
+    "country": "Tunisia",
+    "score": 4.2,
+    "year": 2007
+  },
+  {
+    "country": "Bulgaria",
+    "score": 4.1,
+    "year": 2007
+  },
+  {
+    "country": "Croatia",
+    "score": 4.1,
+    "year": 2007
+  },
+  {
+    "country": "Turkey",
+    "score": 4.1,
+    "year": 2007
+  },
+  {
+    "country": "El Salvador",
+    "score": 4,
+    "year": 2007
+  },
+  {
+    "country": "Colombia",
+    "score": 3.8,
+    "year": 2007
+  },
+  {
+    "country": "Ghana",
+    "score": 3.7,
+    "year": 2007
+  },
+  {
+    "country": "Romania",
+    "score": 3.7,
+    "year": 2007
+  },
+  {
+    "country": "Senegal",
+    "score": 3.6,
+    "year": 2007
+  },
+  {
+    "country": "Brazil",
+    "score": 3.5,
+    "year": 2007
+  },
+  {
+    "country": "China",
+    "score": 3.5,
+    "year": 2007
+  },
+  {
+    "country": "India",
+    "score": 3.5,
+    "year": 2007
+  },
+  {
+    "country": "Mexico",
+    "score": 3.5,
+    "year": 2007
+  },
+  {
+    "country": "Morocco",
+    "score": 3.5,
+    "year": 2007
+  },
+  {
+    "country": "Peru",
+    "score": 3.5,
+    "year": 2007
+  },
+  {
+    "country": "Suriname",
+    "score": 3.5,
+    "year": 2007
+  },
+  {
+    "country": "Georgia",
+    "score": 3.4,
+    "year": 2007
+  },
+  {
+    "country": "Grenada",
+    "score": 3.4,
+    "year": 2007
+  },
+  {
+    "country": "Saudi Arabia",
+    "score": 3.4,
+    "year": 2007
+  },
+  {
+    "country": "Serbia",
+    "score": 3.4,
+    "year": 2007
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "score": 3.4,
+    "year": 2007
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Gabon",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Jamaica",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Kiribati",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Lesotho",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "FYR Macedonia",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Maldives",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Montenegro",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Swaziland",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Thailand",
+    "score": 3.3,
+    "year": 2007
+  },
+  {
+    "country": "Madagascar",
+    "score": 3.2,
+    "year": 2007
+  },
+  {
+    "country": "Panama",
+    "score": 3.2,
+    "year": 2007
+  },
+  {
+    "country": "Sri Lanka",
+    "score": 3.2,
+    "year": 2007
+  },
+  {
+    "country": "Tanzania",
+    "score": 3.2,
+    "year": 2007
+  },
+  {
+    "country": "Vanuatu",
+    "score": 3.1,
+    "year": 2007
+  },
+  {
+    "country": "Algeria",
+    "score": 3,
+    "year": 2007
+  },
+  {
+    "country": "Armenia",
+    "score": 3,
+    "year": 2007
+  },
+  {
+    "country": "Belize",
+    "score": 3,
+    "year": 2007
+  },
+  {
+    "country": "Dominican Republic",
+    "score": 3,
+    "year": 2007
+  },
+  {
+    "country": "Lebanon",
+    "score": 3,
+    "year": 2007
+  },
+  {
+    "country": "Mongolia",
+    "score": 3,
+    "year": 2007
+  },
+  {
+    "country": "Albania",
+    "score": 2.9,
+    "year": 2007
+  },
+  {
+    "country": "Argentina",
+    "score": 2.9,
+    "year": 2007
+  },
+  {
+    "country": "Bolivia",
+    "score": 2.9,
+    "year": 2007
+  },
+  {
+    "country": "Burkina Faso",
+    "score": 2.9,
+    "year": 2007
+  },
+  {
+    "country": "Djibouti",
+    "score": 2.9,
+    "year": 2007
+  },
+  {
+    "country": "Egypt",
+    "score": 2.9,
+    "year": 2007
+  },
+  {
+    "country": "Eritrea",
+    "score": 2.8,
+    "year": 2007
+  },
+  {
+    "country": "Guatemala",
+    "score": 2.8,
+    "year": 2007
+  },
+  {
+    "country": "Moldovaa",
+    "score": 2.8,
+    "year": 2007
+  },
+  {
+    "country": "Mozambique",
+    "score": 2.8,
+    "year": 2007
+  },
+  {
+    "country": "Rwanda",
+    "score": 2.8,
+    "year": 2007
+  },
+  {
+    "country": "Solomon Islands",
+    "score": 2.8,
+    "year": 2007
+  },
+  {
+    "country": "Uganda",
+    "score": 2.8,
+    "year": 2007
+  },
+  {
+    "country": "Benin",
+    "score": 2.7,
+    "year": 2007
+  },
+  {
+    "country": "Malawi",
+    "score": 2.7,
+    "year": 2007
+  },
+  {
+    "country": "Mali",
+    "score": 2.7,
+    "year": 2007
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "score": 2.7,
+    "year": 2007
+  },
+  {
+    "country": "Ukraine",
+    "score": 2.7,
+    "year": 2007
+  },
+  {
+    "country": "Comoros",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Guyana",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Mauritania",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Nicaragua",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Niger",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Timor-Leste",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Viet Nam",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Zambia",
+    "score": 2.6,
+    "year": 2007
+  },
+  {
+    "country": "Burundi",
+    "score": 2.5,
+    "year": 2007
+  },
+  {
+    "country": "Honduras",
+    "score": 2.5,
+    "year": 2007
+  },
+  {
+    "country": "Iran",
+    "score": 2.5,
+    "year": 2007
+  },
+  {
+    "country": "Libya",
+    "score": 2.5,
+    "year": 2007
+  },
+  {
+    "country": "Nepal",
+    "score": 2.5,
+    "year": 2007
+  },
+  {
+    "country": "Philippines",
+    "score": 2.5,
+    "year": 2007
+  },
+  {
+    "country": "Yemen",
+    "score": 2.5,
+    "year": 2007
+  },
+  {
+    "country": "Cameroon",
+    "score": 2.4,
+    "year": 2007
+  },
+  {
+    "country": "Ethiopia",
+    "score": 2.4,
+    "year": 2007
+  },
+  {
+    "country": "Pakistan",
+    "score": 2.4,
+    "year": 2007
+  },
+  {
+    "country": "Paraguay",
+    "score": 2.4,
+    "year": 2007
+  },
+  {
+    "country": "Syria",
+    "score": 2.4,
+    "year": 2007
+  },
+  {
+    "country": "Gambia",
+    "score": 2.3,
+    "year": 2007
+  },
+  {
+    "country": "Indonesia",
+    "score": 2.3,
+    "year": 2007
+  },
+  {
+    "country": "Russia",
+    "score": 2.3,
+    "year": 2007
+  },
+  {
+    "country": "Togo",
+    "score": 2.3,
+    "year": 2007
+  },
+  {
+    "country": "Angola",
+    "score": 2.2,
+    "year": 2007
+  },
+  {
+    "country": "Guinea-Bissau",
+    "score": 2.2,
+    "year": 2007
+  },
+  {
+    "country": "Nigeria",
+    "score": 2.2,
+    "year": 2007
+  },
+  {
+    "country": "Azerbaijan",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Belarus",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Ecuador",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Kazakhstan",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Kenya",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Kyrgyzstan",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Liberia",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Sierra Leone",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Tajikistan",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Zimbabwe",
+    "score": 2.1,
+    "year": 2007
+  },
+  {
+    "country": "Bangladesh",
+    "score": 2,
+    "year": 2007
+  },
+  {
+    "country": "Cambodia",
+    "score": 2,
+    "year": 2007
+  },
+  {
+    "country": "Central African Republic",
+    "score": 2,
+    "year": 2007
+  },
+  {
+    "country": "Papua New Guinea",
+    "score": 2,
+    "year": 2007
+  },
+  {
+    "country": "Turkmenistan",
+    "score": 2,
+    "year": 2007
+  },
+  {
+    "country": "Venezuela",
+    "score": 2,
+    "year": 2007
+  },
+  {
+    "country": "Equatorial Guinea",
+    "score": 1.9,
+    "year": 2007
+  },
+  {
+    "country": "Guinea",
+    "score": 1.9,
+    "year": 2007
+  },
+  {
+    "country": "Laos",
+    "score": 1.9,
+    "year": 2007
+  },
+  {
+    "country": "Afghanistan",
+    "score": 1.8,
+    "year": 2007
+  },
+  {
+    "country": "Chad",
+    "score": 1.8,
+    "year": 2007
+  },
+  {
+    "country": "Sudan",
+    "score": 1.8,
+    "year": 2007
+  },
+  {
+    "country": "Tonga",
+    "score": 1.7,
+    "year": 2007
+  },
+  {
+    "country": "Uzbekistan",
+    "score": 1.7,
+    "year": 2007
+  },
+  {
+    "country": "Haiti",
+    "score": 1.6,
+    "year": 2007
+  },
+  {
+    "country": "Iraq",
+    "score": 1.5,
+    "year": 2007
+  },
+  {
+    "country": "Myanmar",
+    "score": 1.4,
+    "year": 2007
+  },
+  {
+    "country": "Somalia",
+    "score": 1.4,
+    "year": 2007
+  },
+  {
+    "country": "Denmark",
+    "score": 9.3,
+    "year": 2008
+  },
+  {
+    "country": "New Zealand",
+    "score": 9.3,
+    "year": 2008
+  },
+  {
+    "country": "Sweden",
+    "score": 9.3,
+    "year": 2008
+  },
+  {
+    "country": "Singapore",
+    "score": 9.2,
+    "year": 2008
+  },
+  {
+    "country": "Finland",
+    "score": 9,
+    "year": 2008
+  },
+  {
+    "country": "Switzerland",
+    "score": 9,
+    "year": 2008
+  },
+  {
+    "country": "Iceland",
+    "score": 8.9,
+    "year": 2008
+  },
+  {
+    "country": "Netherlands",
+    "score": 8.9,
+    "year": 2008
+  },
+  {
+    "country": "Australia",
+    "score": 8.7,
+    "year": 2008
+  },
+  {
+    "country": "Canada",
+    "score": 8.7,
+    "year": 2008
+  },
+  {
+    "country": "Luxembourg",
+    "score": 8.3,
+    "year": 2008
+  },
+  {
+    "country": "Austria",
+    "score": 8.1,
+    "year": 2008
+  },
+  {
+    "country": "Hong Kong",
+    "score": 8.1,
+    "year": 2008
+  },
+  {
+    "country": "Germany",
+    "score": 7.9,
+    "year": 2008
+  },
+  {
+    "country": "Norway",
+    "score": 7.9,
+    "year": 2008
+  },
+  {
+    "country": "Ireland",
+    "score": 7.7,
+    "year": 2008
+  },
+  {
+    "country": "United Kingdom",
+    "score": 7.7,
+    "year": 2008
+  },
+  {
+    "country": "Belgium",
+    "score": 7.3,
+    "year": 2008
+  },
+  {
+    "country": "Japan",
+    "score": 7.3,
+    "year": 2008
+  },
+  {
+    "country": "USA",
+    "score": 7.3,
+    "year": 2008
+  },
+  {
+    "country": "Saint Lucia",
+    "score": 7.1,
+    "year": 2008
+  },
+  {
+    "country": "Barbados",
+    "score": 7,
+    "year": 2008
+  },
+  {
+    "country": "Chile",
+    "score": 6.9,
+    "year": 2008
+  },
+  {
+    "country": "France",
+    "score": 6.9,
+    "year": 2008
+  },
+  {
+    "country": "Uruguay",
+    "score": 6.9,
+    "year": 2008
+  },
+  {
+    "country": "Slovenia",
+    "score": 6.7,
+    "year": 2008
+  },
+  {
+    "country": "Estonia",
+    "score": 6.6,
+    "year": 2008
+  },
+  {
+    "country": "Qatar",
+    "score": 6.5,
+    "year": 2008
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "score": 6.5,
+    "year": 2008
+  },
+  {
+    "country": "Spain",
+    "score": 6.5,
+    "year": 2008
+  },
+  {
+    "country": "Cyprus",
+    "score": 6.4,
+    "year": 2008
+  },
+  {
+    "country": "Portugal",
+    "score": 6.1,
+    "year": 2008
+  },
+  {
+    "country": "Dominica",
+    "score": 6,
+    "year": 2008
+  },
+  {
+    "country": "Israel",
+    "score": 6,
+    "year": 2008
+  },
+  {
+    "country": "United Arab Emirates",
+    "score": 5.9,
+    "year": 2008
+  },
+  {
+    "country": "Botswana",
+    "score": 5.8,
+    "year": 2008
+  },
+  {
+    "country": "Malta",
+    "score": 5.8,
+    "year": 2008
+  },
+  {
+    "country": "Puerto Rico",
+    "score": 5.8,
+    "year": 2008
+  },
+  {
+    "country": "Taiwan",
+    "score": 5.7,
+    "year": 2008
+  },
+  {
+    "country": "South Korea",
+    "score": 5.6,
+    "year": 2008
+  },
+  {
+    "country": "Mauritius",
+    "score": 5.5,
+    "year": 2008
+  },
+  {
+    "country": "Oman",
+    "score": 5.5,
+    "year": 2008
+  },
+  {
+    "country": "Bahrain",
+    "score": 5.4,
+    "year": 2008
+  },
+  {
+    "country": "Macau",
+    "score": 5.4,
+    "year": 2008
+  },
+  {
+    "country": "Bhutan",
+    "score": 5.2,
+    "year": 2008
+  },
+  {
+    "country": "Czech Republic",
+    "score": 5.2,
+    "year": 2008
+  },
+  {
+    "country": "Cape Verde",
+    "score": 5.1,
+    "year": 2008
+  },
+  {
+    "country": "Costa Rica",
+    "score": 5.1,
+    "year": 2008
+  },
+  {
+    "country": "Hungary",
+    "score": 5.1,
+    "year": 2008
+  },
+  {
+    "country": "Jordan",
+    "score": 5.1,
+    "year": 2008
+  },
+  {
+    "country": "Malaysia",
+    "score": 5.1,
+    "year": 2008
+  },
+  {
+    "country": "Latvia",
+    "score": 5,
+    "year": 2008
+  },
+  {
+    "country": "Slovakia",
+    "score": 5,
+    "year": 2008
+  },
+  {
+    "country": "South Africa",
+    "score": 4.9,
+    "year": 2008
+  },
+  {
+    "country": "Italy",
+    "score": 4.8,
+    "year": 2008
+  },
+  {
+    "country": "Seychelles",
+    "score": 4.8,
+    "year": 2008
+  },
+  {
+    "country": "Greece",
+    "score": 4.7,
+    "year": 2008
+  },
+  {
+    "country": "Lithuania",
+    "score": 4.6,
+    "year": 2008
+  },
+  {
+    "country": "Poland",
+    "score": 4.6,
+    "year": 2008
+  },
+  {
+    "country": "Turkey",
+    "score": 4.6,
+    "year": 2008
+  },
+  {
+    "country": "Namibia",
+    "score": 4.5,
+    "year": 2008
+  },
+  {
+    "country": "Croatia",
+    "score": 4.4,
+    "year": 2008
+  },
+  {
+    "country": "Samoa",
+    "score": 4.4,
+    "year": 2008
+  },
+  {
+    "country": "Tunisia",
+    "score": 4.4,
+    "year": 2008
+  },
+  {
+    "country": "Cuba",
+    "score": 4.3,
+    "year": 2008
+  },
+  {
+    "country": "Kuwait",
+    "score": 4.3,
+    "year": 2008
+  },
+  {
+    "country": "El Salvador",
+    "score": 3.9,
+    "year": 2008
+  },
+  {
+    "country": "Georgia",
+    "score": 3.9,
+    "year": 2008
+  },
+  {
+    "country": "Ghana",
+    "score": 3.9,
+    "year": 2008
+  },
+  {
+    "country": "Colombia",
+    "score": 3.8,
+    "year": 2008
+  },
+  {
+    "country": "Romania",
+    "score": 3.8,
+    "year": 2008
+  },
+  {
+    "country": "Bulgaria",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "China",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "Macedonia",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "Mexico",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "Peru",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "Suriname",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "Swaziland",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "score": 3.6,
+    "year": 2008
+  },
+  {
+    "country": "Brazil",
+    "score": 3.5,
+    "year": 2008
+  },
+  {
+    "country": "Burkina Faso",
+    "score": 3.5,
+    "year": 2008
+  },
+  {
+    "country": "Morocco",
+    "score": 3.5,
+    "year": 2008
+  },
+  {
+    "country": "Saudi Arabia",
+    "score": 3.5,
+    "year": 2008
+  },
+  {
+    "country": "Thailand",
+    "score": 3.5,
+    "year": 2008
+  },
+  {
+    "country": "Albania",
+    "score": 3.4,
+    "year": 2008
+  },
+  {
+    "country": "India",
+    "score": 3.4,
+    "year": 2008
+  },
+  {
+    "country": "Madagascar",
+    "score": 3.4,
+    "year": 2008
+  },
+  {
+    "country": "Montenegro",
+    "score": 3.4,
+    "year": 2008
+  },
+  {
+    "country": "Panama",
+    "score": 3.4,
+    "year": 2008
+  },
+  {
+    "country": "Senegal",
+    "score": 3.4,
+    "year": 2008
+  },
+  {
+    "country": "Serbia",
+    "score": 3.4,
+    "year": 2008
+  },
+  {
+    "country": "Algeria",
+    "score": 3.2,
+    "year": 2008
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "score": 3.2,
+    "year": 2008
+  },
+  {
+    "country": "Lesotho",
+    "score": 3.2,
+    "year": 2008
+  },
+  {
+    "country": "Sri Lanka",
+    "score": 3.2,
+    "year": 2008
+  },
+  {
+    "country": "Benin",
+    "score": 3.1,
+    "year": 2008
+  },
+  {
+    "country": "Gabon",
+    "score": 3.1,
+    "year": 2008
+  },
+  {
+    "country": "Guatemala",
+    "score": 3.1,
+    "year": 2008
+  },
+  {
+    "country": "Jamaica",
+    "score": 3.1,
+    "year": 2008
+  },
+  {
+    "country": "Kiribati",
+    "score": 3.1,
+    "year": 2008
+  },
+  {
+    "country": "Mali",
+    "score": 3.1,
+    "year": 2008
+  },
+  {
+    "country": "Bolivia",
+    "score": 3,
+    "year": 2008
+  },
+  {
+    "country": "Djibouti",
+    "score": 3,
+    "year": 2008
+  },
+  {
+    "country": "Dominican Republic",
+    "score": 3,
+    "year": 2008
+  },
+  {
+    "country": "Lebanon",
+    "score": 3,
+    "year": 2008
+  },
+  {
+    "country": "Mongolia",
+    "score": 3,
+    "year": 2008
+  },
+  {
+    "country": "Rwanda",
+    "score": 3,
+    "year": 2008
+  },
+  {
+    "country": "Tanzania",
+    "score": 3,
+    "year": 2008
+  },
+  {
+    "country": "Argentina",
+    "score": 2.9,
+    "year": 2008
+  },
+  {
+    "country": "Armenia",
+    "score": 2.9,
+    "year": 2008
+  },
+  {
+    "country": "Belize",
+    "score": 2.9,
+    "year": 2008
+  },
+  {
+    "country": "Moldova",
+    "score": 2.9,
+    "year": 2008
+  },
+  {
+    "country": "Solomon Islands",
+    "score": 2.9,
+    "year": 2008
+  },
+  {
+    "country": "Vanuatu",
+    "score": 2.9,
+    "year": 2008
+  },
+  {
+    "country": "Egypt",
+    "score": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "Malawi",
+    "score": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "Maldives",
+    "score": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "Mauritania",
+    "score": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "Niger",
+    "score": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "Zambia",
+    "score": 2.8,
+    "year": 2008
+  },
+  {
+    "country": "Nepal",
+    "score": 2.7,
+    "year": 2008
+  },
+  {
+    "country": "Nigeria",
+    "score": 2.7,
+    "year": 2008
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "score": 2.7,
+    "year": 2008
+  },
+  {
+    "country": "Togo",
+    "score": 2.7,
+    "year": 2008
+  },
+  {
+    "country": "Viet Nam",
+    "score": 2.7,
+    "year": 2008
+  },
+  {
+    "country": "Eritrea",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Ethiopia",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Guyana",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Honduras",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Indonesia",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Libya",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Mozambique",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Uganda",
+    "score": 2.6,
+    "year": 2008
+  },
+  {
+    "country": "Comoros",
+    "score": 2.5,
+    "year": 2008
+  },
+  {
+    "country": "Nicaragua",
+    "score": 2.5,
+    "year": 2008
+  },
+  {
+    "country": "Pakistan",
+    "score": 2.5,
+    "year": 2008
+  },
+  {
+    "country": "Ukraine",
+    "score": 2.5,
+    "year": 2008
+  },
+  {
+    "country": "Liberia",
+    "score": 2.4,
+    "year": 2008
+  },
+  {
+    "country": "Paraguay",
+    "score": 2.4,
+    "year": 2008
+  },
+  {
+    "country": "Tonga",
+    "score": 2.4,
+    "year": 2008
+  },
+  {
+    "country": "Cameroon",
+    "score": 2.3,
+    "year": 2008
+  },
+  {
+    "country": "Iran",
+    "score": 2.3,
+    "year": 2008
+  },
+  {
+    "country": "Philippines",
+    "score": 2.3,
+    "year": 2008
+  },
+  {
+    "country": "Yemen",
+    "score": 2.3,
+    "year": 2008
+  },
+  {
+    "country": "Kazakhstan",
+    "score": 2.2,
+    "year": 2008
+  },
+  {
+    "country": "Timor-Leste",
+    "score": 2.2,
+    "year": 2008
+  },
+  {
+    "country": "Bangladesh",
+    "score": 2.1,
+    "year": 2008
+  },
+  {
+    "country": "Kenya",
+    "score": 2.1,
+    "year": 2008
+  },
+  {
+    "country": "Russia",
+    "score": 2.1,
+    "year": 2008
+  },
+  {
+    "country": "Syria",
+    "score": 2.1,
+    "year": 2008
+  },
+  {
+    "country": "Belarus",
+    "score": 2,
+    "year": 2008
+  },
+  {
+    "country": "Central African Republic",
+    "score": 2,
+    "year": 2008
+  },
+  {
+    "country": "Côte d´Ivoire",
+    "score": 2,
+    "year": 2008
+  },
+  {
+    "country": "Ecuador",
+    "score": 2,
+    "year": 2008
+  },
+  {
+    "country": "Laos",
+    "score": 2,
+    "year": 2008
+  },
+  {
+    "country": "Papua New Guinea",
+    "score": 2,
+    "year": 2008
+  },
+  {
+    "country": "Taijikistan",
+    "score": 2,
+    "year": 2008
+  },
+  {
+    "country": "Angola",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Azerbaijan",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Burundi",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Congo. Republic",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Gambia",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Guinea-Bissau",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Sierra Leone",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Venezuela",
+    "score": 1.9,
+    "year": 2008
+  },
+  {
+    "country": "Cambodia",
+    "score": 1.8,
+    "year": 2008
+  },
+  {
+    "country": "Kyrgyzstan",
+    "score": 1.8,
+    "year": 2008
+  },
+  {
+    "country": "Turkmenistan",
+    "score": 1.8,
+    "year": 2008
+  },
+  {
+    "country": "Uzbekistan",
+    "score": 1.8,
+    "year": 2008
+  },
+  {
+    "country": "Zimbabwe",
+    "score": 1.8,
+    "year": 2008
+  },
+  {
+    "country": "Congo. Democratic Republic",
+    "score": 1.7,
+    "year": 2008
+  },
+  {
+    "country": "Equatorial Guinea",
+    "score": 1.7,
+    "year": 2008
+  },
+  {
+    "country": "Chad",
+    "score": 1.6,
+    "year": 2008
+  },
+  {
+    "country": "Guinea",
+    "score": 1.6,
+    "year": 2008
+  },
+  {
+    "country": "Sudan",
+    "score": 1.6,
+    "year": 2008
+  },
+  {
+    "country": "Afghanistan",
+    "score": 1.5,
+    "year": 2008
+  },
+  {
+    "country": "Haiti",
+    "score": 1.4,
+    "year": 2008
+  },
+  {
+    "country": "Iraq",
+    "score": 1.3,
+    "year": 2008
+  },
+  {
+    "country": "Myanmar",
+    "score": 1.3,
+    "year": 2008
+  },
+  {
+    "country": "Somalia",
+    "score": 1,
+    "year": 2008
+  },
+  {
+    "country": "New Zealand",
+    "score": 9.4,
+    "year": 2009
+  },
+  {
+    "country": "Denmark",
+    "score": 9.3,
+    "year": 2009
+  },
+  {
+    "country": "Singapore",
+    "score": 9.2,
+    "year": 2009
+  },
+  {
+    "country": "Sweden",
+    "score": 9.2,
+    "year": 2009
+  },
+  {
+    "country": "Switzerland",
+    "score": 9,
+    "year": 2009
+  },
+  {
+    "country": "Finland",
+    "score": 8.9,
+    "year": 2009
+  },
+  {
+    "country": "Netherlands",
+    "score": 8.9,
+    "year": 2009
+  },
+  {
+    "country": "Australia",
+    "score": 8.7,
+    "year": 2009
+  },
+  {
+    "country": "Canada",
+    "score": 8.7,
+    "year": 2009
+  },
+  {
+    "country": "Iceland",
+    "score": 8.7,
+    "year": 2009
+  },
+  {
+    "country": "Norway",
+    "score": 8.6,
+    "year": 2009
+  },
+  {
+    "country": "Hong Kong",
+    "score": 8.2,
+    "year": 2009
+  },
+  {
+    "country": "Luxembourg",
+    "score": 8.2,
+    "year": 2009
+  },
+  {
+    "country": "Germany",
+    "score": 8,
+    "year": 2009
+  },
+  {
+    "country": "Ireland",
+    "score": 8,
+    "year": 2009
+  },
+  {
+    "country": "Austria",
+    "score": 7.9,
+    "year": 2009
+  },
+  {
+    "country": "Japan",
+    "score": 7.7,
+    "year": 2009
+  },
+  {
+    "country": "United Kingdom",
+    "score": 7.7,
+    "year": 2009
+  },
+  {
+    "country": "United States",
+    "score": 7.5,
+    "year": 2009
+  },
+  {
+    "country": "Barbados",
+    "score": 7.4,
+    "year": 2009
+  },
+  {
+    "country": "Belgium",
+    "score": 7.1,
+    "year": 2009
+  },
+  {
+    "country": "Qatar",
+    "score": 7,
+    "year": 2009
+  },
+  {
+    "country": "Saint Lucia",
+    "score": 7,
+    "year": 2009
+  },
+  {
+    "country": "France",
+    "score": 6.9,
+    "year": 2009
+  },
+  {
+    "country": "Chile",
+    "score": 6.7,
+    "year": 2009
+  },
+  {
+    "country": "Uruguay",
+    "score": 6.7,
+    "year": 2009
+  },
+  {
+    "country": "Cyprus",
+    "score": 6.6,
+    "year": 2009
+  },
+  {
+    "country": "Estonia",
+    "score": 6.6,
+    "year": 2009
+  },
+  {
+    "country": "Slovenia",
+    "score": 6.6,
+    "year": 2009
+  },
+  {
+    "country": "United Arab Emirates",
+    "score": 6.5,
+    "year": 2009
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "score": 6.4,
+    "year": 2009
+  },
+  {
+    "country": "Israel",
+    "score": 6.1,
+    "year": 2009
+  },
+  {
+    "country": "Spain",
+    "score": 6.1,
+    "year": 2009
+  },
+  {
+    "country": "Dominica",
+    "score": 5.9,
+    "year": 2009
+  },
+  {
+    "country": "Portugal",
+    "score": 5.8,
+    "year": 2009
+  },
+  {
+    "country": "Puerto Rico",
+    "score": 5.8,
+    "year": 2009
+  },
+  {
+    "country": "Botswana",
+    "score": 5.6,
+    "year": 2009
+  },
+  {
+    "country": "Taiwan",
+    "score": 5.6,
+    "year": 2009
+  },
+  {
+    "country": "Brunei Darussalam",
+    "score": 5.5,
+    "year": 2009
+  },
+  {
+    "country": "Oman",
+    "score": 5.5,
+    "year": 2009
+  },
+  {
+    "country": "Korea (South)",
+    "score": 5.5,
+    "year": 2009
+  },
+  {
+    "country": "Mauritius",
+    "score": 5.4,
+    "year": 2009
+  },
+  {
+    "country": "Costa Rica",
+    "score": 5.3,
+    "year": 2009
+  },
+  {
+    "country": "Macau",
+    "score": 5.3,
+    "year": 2009
+  },
+  {
+    "country": "Malta",
+    "score": 5.2,
+    "year": 2009
+  },
+  {
+    "country": "Bahrain",
+    "score": 5.1,
+    "year": 2009
+  },
+  {
+    "country": "Cape Verde",
+    "score": 5.1,
+    "year": 2009
+  },
+  {
+    "country": "Hungary",
+    "score": 5.1,
+    "year": 2009
+  },
+  {
+    "country": "Bhutan",
+    "score": 5,
+    "year": 2009
+  },
+  {
+    "country": "Jordan",
+    "score": 5,
+    "year": 2009
+  },
+  {
+    "country": "Poland",
+    "score": 5,
+    "year": 2009
+  },
+  {
+    "country": "Czech Republic",
+    "score": 4.9,
+    "year": 2009
+  },
+  {
+    "country": "Lithuania",
+    "score": 4.9,
+    "year": 2009
+  },
+  {
+    "country": "Seychelles",
+    "score": 4.8,
+    "year": 2009
+  },
+  {
+    "country": "South Africa",
+    "score": 4.7,
+    "year": 2009
+  },
+  {
+    "country": "Latvia",
+    "score": 4.5,
+    "year": 2009
+  },
+  {
+    "country": "Malaysia",
+    "score": 4.5,
+    "year": 2009
+  },
+  {
+    "country": "Namibia",
+    "score": 4.5,
+    "year": 2009
+  },
+  {
+    "country": "Samoa",
+    "score": 4.5,
+    "year": 2009
+  },
+  {
+    "country": "Slovakia",
+    "score": 4.5,
+    "year": 2009
+  },
+  {
+    "country": "Cuba",
+    "score": 4.4,
+    "year": 2009
+  },
+  {
+    "country": "Turkey",
+    "score": 4.4,
+    "year": 2009
+  },
+  {
+    "country": "Italy",
+    "score": 4.3,
+    "year": 2009
+  },
+  {
+    "country": "Saudi Arabia",
+    "score": 4.3,
+    "year": 2009
+  },
+  {
+    "country": "Tunisia",
+    "score": 4.2,
+    "year": 2009
+  },
+  {
+    "country": "Croatia",
+    "score": 4.1,
+    "year": 2009
+  },
+  {
+    "country": "Georgia",
+    "score": 4.1,
+    "year": 2009
+  },
+  {
+    "country": "Kuwait",
+    "score": 4.1,
+    "year": 2009
+  },
+  {
+    "country": "Ghana",
+    "score": 3.9,
+    "year": 2009
+  },
+  {
+    "country": "Montenegro",
+    "score": 3.9,
+    "year": 2009
+  },
+  {
+    "country": "Bulgaria",
+    "score": 3.8,
+    "year": 2009
+  },
+  {
+    "country": "Macedonia",
+    "score": 3.8,
+    "year": 2009
+  },
+  {
+    "country": "Greece",
+    "score": 3.8,
+    "year": 2009
+  },
+  {
+    "country": "Romania",
+    "score": 3.8,
+    "year": 2009
+  },
+  {
+    "country": "Brazil",
+    "score": 3.7,
+    "year": 2009
+  },
+  {
+    "country": "Colombia",
+    "score": 3.7,
+    "year": 2009
+  },
+  {
+    "country": "Peru",
+    "score": 3.7,
+    "year": 2009
+  },
+  {
+    "country": "Suriname",
+    "score": 3.7,
+    "year": 2009
+  },
+  {
+    "country": "Burkina Faso",
+    "score": 3.6,
+    "year": 2009
+  },
+  {
+    "country": "China",
+    "score": 3.6,
+    "year": 2009
+  },
+  {
+    "country": "Swaziland",
+    "score": 3.6,
+    "year": 2009
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "score": 3.6,
+    "year": 2009
+  },
+  {
+    "country": "Serbia",
+    "score": 3.5,
+    "year": 2009
+  },
+  {
+    "country": "El Salvador",
+    "score": 3.4,
+    "year": 2009
+  },
+  {
+    "country": "Guatemala",
+    "score": 3.4,
+    "year": 2009
+  },
+  {
+    "country": "India",
+    "score": 3.4,
+    "year": 2009
+  },
+  {
+    "country": "Panama",
+    "score": 3.4,
+    "year": 2009
+  },
+  {
+    "country": "Thailand",
+    "score": 3.4,
+    "year": 2009
+  },
+  {
+    "country": "Lesotho",
+    "score": 3.3,
+    "year": 2009
+  },
+  {
+    "country": "Malawi",
+    "score": 3.3,
+    "year": 2009
+  },
+  {
+    "country": "Mexico",
+    "score": 3.3,
+    "year": 2009
+  },
+  {
+    "country": "Moldova",
+    "score": 3.3,
+    "year": 2009
+  },
+  {
+    "country": "Morocco",
+    "score": 3.3,
+    "year": 2009
+  },
+  {
+    "country": "Rwanda",
+    "score": 3.3,
+    "year": 2009
+  },
+  {
+    "country": "Albania",
+    "score": 3.2,
+    "year": 2009
+  },
+  {
+    "country": "Vanuatu",
+    "score": 3.2,
+    "year": 2009
+  },
+  {
+    "country": "Liberia",
+    "score": 3.1,
+    "year": 2009
+  },
+  {
+    "country": "Sri Lanka",
+    "score": 3.1,
+    "year": 2009
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "score": 3,
+    "year": 2009
+  },
+  {
+    "country": "Dominican Republic",
+    "score": 3,
+    "year": 2009
+  },
+  {
+    "country": "Jamaica",
+    "score": 3,
+    "year": 2009
+  },
+  {
+    "country": "Madagascar",
+    "score": 3,
+    "year": 2009
+  },
+  {
+    "country": "Senegal",
+    "score": 3,
+    "year": 2009
+  },
+  {
+    "country": "Tonga",
+    "score": 3,
+    "year": 2009
+  },
+  {
+    "country": "Zambia",
+    "score": 3,
+    "year": 2009
+  },
+  {
+    "country": "Argentina",
+    "score": 2.9,
+    "year": 2009
+  },
+  {
+    "country": "Benin",
+    "score": 2.9,
+    "year": 2009
+  },
+  {
+    "country": "Gabon",
+    "score": 2.9,
+    "year": 2009
+  },
+  {
+    "country": "Gambia",
+    "score": 2.9,
+    "year": 2009
+  },
+  {
+    "country": "Niger",
+    "score": 2.9,
+    "year": 2009
+  },
+  {
+    "country": "Algeria",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Djibouti",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Egypt",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Indonesia",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Kiribati",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Mali",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Solomon Islands",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Togo",
+    "score": 2.8,
+    "year": 2009
+  },
+  {
+    "country": "Armenia",
+    "score": 2.7,
+    "year": 2009
+  },
+  {
+    "country": "Bolivia",
+    "score": 2.7,
+    "year": 2009
+  },
+  {
+    "country": "Ethiopia",
+    "score": 2.7,
+    "year": 2009
+  },
+  {
+    "country": "Kazakhstan",
+    "score": 2.7,
+    "year": 2009
+  },
+  {
+    "country": "Mongolia",
+    "score": 2.7,
+    "year": 2009
+  },
+  {
+    "country": "Vietnam",
+    "score": 2.7,
+    "year": 2009
+  },
+  {
+    "country": "Eritrea",
+    "score": 2.6,
+    "year": 2009
+  },
+  {
+    "country": "Guyana",
+    "score": 2.6,
+    "year": 2009
+  },
+  {
+    "country": "Syria",
+    "score": 2.6,
+    "year": 2009
+  },
+  {
+    "country": "Tanzania",
+    "score": 2.6,
+    "year": 2009
+  },
+  {
+    "country": "Honduras",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Lebanon",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Libya",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Maldives",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Mauritania",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Mozambique",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Nicaragua",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Nigeria",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Uganda",
+    "score": 2.5,
+    "year": 2009
+  },
+  {
+    "country": "Bangladesh",
+    "score": 2.4,
+    "year": 2009
+  },
+  {
+    "country": "Belarus",
+    "score": 2.4,
+    "year": 2009
+  },
+  {
+    "country": "Pakistan",
+    "score": 2.4,
+    "year": 2009
+  },
+  {
+    "country": "Philippines",
+    "score": 2.4,
+    "year": 2009
+  },
+  {
+    "country": "Azerbaijan",
+    "score": 2.3,
+    "year": 2009
+  },
+  {
+    "country": "Comoros",
+    "score": 2.3,
+    "year": 2009
+  },
+  {
+    "country": "Nepal",
+    "score": 2.3,
+    "year": 2009
+  },
+  {
+    "country": "Cameroon",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Ecuador",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Kenya",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Russia",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Sierra Leone",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Timor-Leste",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Ukraine",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Zimbabwe",
+    "score": 2.2,
+    "year": 2009
+  },
+  {
+    "country": "Côte d´Ivoire",
+    "score": 2.1,
+    "year": 2009
+  },
+  {
+    "country": "Papua New Guinea",
+    "score": 2.1,
+    "year": 2009
+  },
+  {
+    "country": "Paraguay",
+    "score": 2.1,
+    "year": 2009
+  },
+  {
+    "country": "Yemen",
+    "score": 2.1,
+    "year": 2009
+  },
+  {
+    "country": "Cambodia",
+    "score": 2,
+    "year": 2009
+  },
+  {
+    "country": "Central African Republic",
+    "score": 2,
+    "year": 2009
+  },
+  {
+    "country": "Laos",
+    "score": 2,
+    "year": 2009
+  },
+  {
+    "country": "Tajikistan",
+    "score": 2,
+    "year": 2009
+  },
+  {
+    "country": "Angola",
+    "score": 1.9,
+    "year": 2009
+  },
+  {
+    "country": "Congo Brazzaville",
+    "score": 1.9,
+    "year": 2009
+  },
+  {
+    "country": "Democratic Republic of Congo",
+    "score": 1.9,
+    "year": 2009
+  },
+  {
+    "country": "Guinea-Bissau",
+    "score": 1.9,
+    "year": 2009
+  },
+  {
+    "country": "Kyrgyzstan",
+    "score": 1.9,
+    "year": 2009
+  },
+  {
+    "country": "Venezuela",
+    "score": 1.9,
+    "year": 2009
+  },
+  {
+    "country": "Burundi",
+    "score": 1.8,
+    "year": 2009
+  },
+  {
+    "country": "Equatorial Guinea",
+    "score": 1.8,
+    "year": 2009
+  },
+  {
+    "country": "Guinea",
+    "score": 1.8,
+    "year": 2009
+  },
+  {
+    "country": "Haiti",
+    "score": 1.8,
+    "year": 2009
+  },
+  {
+    "country": "Iran",
+    "score": 1.8,
+    "year": 2009
+  },
+  {
+    "country": "Turkmenistan",
+    "score": 1.8,
+    "year": 2009
+  },
+  {
+    "country": "Uzbekistan",
+    "score": 1.7,
+    "year": 2009
+  },
+  {
+    "country": "Chad",
+    "score": 1.6,
+    "year": 2009
+  },
+  {
+    "country": "Iraq",
+    "score": 1.5,
+    "year": 2009
+  },
+  {
+    "country": "Sudan",
+    "score": 1.5,
+    "year": 2009
+  },
+  {
+    "country": "Myanmar",
+    "score": 1.4,
+    "year": 2009
+  },
+  {
+    "country": "Afghanistan",
+    "score": 1.3,
+    "year": 2009
+  },
+  {
+    "country": "Somalia",
+    "score": 1.1,
+    "year": 2009
   }
 ]
